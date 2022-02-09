@@ -1,7 +1,7 @@
 {
-    "name": "Suisei Archive Guide",
-    "short_name": "Suisei Archive Guide",
-    "description": "This is a brief archiving guide written for Hoshiyomis to archive every stream of Suisei.",
+    "name": "Tokomachi Wiki",
+    "short_name": "Tokomachi Wiki",
+    "description": "This is a Wikipedia-like site to record Tokomachi activities and details.",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#fff",

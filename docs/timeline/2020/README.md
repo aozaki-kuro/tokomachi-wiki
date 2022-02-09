@@ -10,3 +10,19 @@ next:
 ---
 
 # Tokomachi in 2020
+
+## Ensemble Stars
+
+## 3D Model Announcement
+
+## Radio Guest
+
+## Totsumachi
+
+## Live guest
+
+## Tokomachi Radio
+
+## Inui Toko 1st solo live "who i am"
+
+## New year
