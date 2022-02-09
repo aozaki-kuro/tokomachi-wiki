@@ -1,11 +1,9 @@
 # Introduction
 
 <p style="text-align:center; font-style:italic">
-    <a href="https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A" target="_blank" rel="noopener noreferrer"><img src="/cover.png" width="150rem" height="150rem" alt="tokomachi"></a>
+    <img src="/cover.png" width="150rem" height="150rem" alt="tokomachi">
     <br>
-    The comet in the night sky,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Cerberus watches upon thee.
+    The comet and the Stargazing Cerberus.
 </p>
 
 ## What is this?
