@@ -12,6 +12,11 @@ module.exports = {
     ['meta', { property: 'og:image', content: '/android-chrome-192x192.png' }],
     ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
     ['meta', { name: 'theme-color', content: '#9d3757' }],
+    ['script', {
+      defer: true,
+      src: 'https://beacon.suisei.cc/app.js',
+      "data-domain": "toko.suisei.cc",
+    }],
   ],
   markdown: {
     lineNumbers: false // 代码块显示行号

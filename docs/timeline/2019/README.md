@@ -2,10 +2,10 @@
 # NavLink
 next:
   text: "Next: Tokomachi in 2020"
-  link: ../2020
+  link: /timeline/2020
 ---
 
-# 2019
+# Tokomachi in 2019
 
 [[toc]]
 
@@ -179,9 +179,7 @@ Her original plan was to sing [<i class="fa-solid fa-meteor" /> *Comet*](https:/
 <img src="./YouTube/nss_suisei_01.jpg" />
 <img src="./YouTube/nss_suisei_02.jpg" />
 
-She gained popularity after the event rapidly.
-
-As a result, the agency decided to transfer her from INNK MUSIC to Hololive Production.
+She gained popularity after the event rapidly and started trending.
 
 ### Toko's Response
 
@@ -191,7 +189,7 @@ As a result, the agency decided to transfer her from INNK MUSIC to Hololive Prod
 
 > [<i class="fab fa-youtube" /> Original YouTube Stream](https://www.youtube.com/watch?v=CJD2mkpSkJs&t=4119s)
 
-According to Toko, the most impressive part was Suisei's [<i class="fa-solid fa-meteor" /> *Tenkyuu, Suisei wa Yoru wo Mataide*](https://www.youtube.com/watch?v=zLak0dxBKpM) and she was so moved that she cried. She said she became Suisei's fangirl and send Line messages to Suisei right after watching the live.
+According to Toko, the most impressive part was Suisei's [<i class="fa-solid fa-meteor" /> *Tenkyuu, Suisei wa Yoru wo Mataide*](https://www.youtube.com/watch?v=zLak0dxBKpM) and she was so moved that she cried. She said she became Suisei's fangirl and send LINE messages to Suisei right after watching the live.
 
 Toko was also very happy to know her performance inspired Suisei.
 
@@ -202,6 +200,25 @@ Toko was also very happy to know her performance inspired Suisei.
 - I admire her a lot
 
 :::
+
+Suisei appeared in the stream chat later when Toko was talking about Ensemble Stars. Toko said *Hoshimachi! Sui-chan! Here comes our beloved singer* and was pretty shy and unsure whether Suisei heard her praising Suisei's performance.
+
+> [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/CJD2mkpSkJs?t=5810)
+
+::: tip Talks
+
+Suisei: *You praised my performance? I will check the archive later!*
+
+Toko: *OK I will cut that part.*
+
+Toko: *Oh wait don't go, I still got something about EnSta to tell you!*
+
+(Talking about EnSta)
+
+Suisei: *Tell me more on LINE!*
+:::
+
+Really close friends right?
 
 ## Summary of 2019
 
