@@ -1,7 +1,7 @@
 # Tokomachi Wiki
 
 <p style="text-align:center; font-style:italic">
-    <img src="/cover.png" width="150rem" height="150rem" alt="tokomachi">
+    <img src="./docs/.vuepress/public/cover.png" width="150rem" height="150rem" alt="tokomachi">
     <br>
     The comet and the Stargazing Cerberus.
 </p>
