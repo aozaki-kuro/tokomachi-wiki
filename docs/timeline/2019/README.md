@@ -1,3 +1,10 @@
+---
+# NavLink
+next:
+  text: "Next: Tokomachi in 2020"
+  link: ../2020
+---
+
 # 2019
 
 [[toc]]
@@ -6,9 +13,9 @@
 
 ### 2019-05-19
 
-On May 19th, 2019, Hoshimachi Suisei announced that she would graduate from inide and join Hololive's new project "INNK Music".
+On May 19th, 2019, Hoshimachi Suisei announced that she would graduate from indie and join Hololive's new project "INNK MUSIC".
 
-The ever first Tweet contact was Toko congratulating Suisei for entering INNK, and hope her songs can reach out to the whole world.
+The first ever Tweet contact was Toko congratulating Suisei for entering INNK, and hope her songs can reach out to the whole world.
 
 > [<i class="fa-brands fa-twitter" /> Original Tweet](https://twitter.com/suisei_hosimati/status/1130054368886050816)
 
@@ -68,7 +75,7 @@ Toko replied and they again "kissed" a lot.
 
 ### 2019-06-08
 
-Suise reached 11,111 YouTube Channel sub, Toko congratulated her.
+Suisei reached 11,111 YouTube Channel sub, Toko congratulated her.
 
 They also mentioned they want to sing together on live stage one day.
 
@@ -99,13 +106,11 @@ They did it on Dec 10th, 2020.
 
 ### 2019-06-26
 
-The first time appearing the unit name Tokomachi (とこまち) is on the Minecraft collab.
+The first time the unit name Tokomachi (とこまち) appeared is on the Minecraft collab.
 
-This is also the ever first collab of Tokomachi.
+This is also the first ever collab of Tokomachi.
 
-<p style="text-align:center">
-    <img src="./YouTube/20190626_01.jpg" />
-</p>
+<img src="./YouTube/20190626_01.jpg" />
 
 > [<i class="fab fa-youtube" /> Original YouTube Stream](https://www.youtube.com/watch?v=Kr1jxq0ms00)
 
@@ -141,5 +146,68 @@ Toko congratulated and mentioned they want to dance in full 3D one day.
 <img src="./Twitter/20190725_03.jpg" width="500" />
 
 :::
+
+## Turning Point
+
+### Virtual to Live 2019
+
+<br>
+
+<img src="./YouTube/vtl.jpg" />
+
+Full event name [Virtual to LIVE in 両国国技館 2019](https://event.nijisanji.app/vtlryougoku2019/)
+
+This was the first time for Inui Toko to attend a full 3D live. She singed Chiisaki Mono (小さきもの) there.
+
+According to Suisei's YouTube after talk stream (privated), Suisei watched the whole live and was astonised by Toko's performance.
+
+### Non-Stop Story
+
+<br>
+
+<img src="./YouTube/nss.jpg" />
+
+Full event name [hololive 1st fes. ノンストップ・ストーリー](https://www.nonstop.hololive.tv/)
+
+This was the major turning point for Suisei.
+
+Her original plan was to sing [<i class="fa-solid fa-meteor" /> *Comet*](https://www.youtube.com/watch?v=3cqV5BKJHyk) there. But after seeing Toko's live performance, she changed her mind and went for more *impact*, thus the song she chose to sing on stage was [<i class="fa-solid fa-meteor" /> *Tenkyuu, Suisei wa Yoru wo Mataide*](https://www.youtube.com/watch?v=zLak0dxBKpM). The song and her performance was so impressive that her name was on Twitter Trend for pretty long time.
+
+<img src="./YouTube/nss_suisei_01.jpg" />
+<img src="./YouTube/nss_suisei_02.jpg" />
+
+She gained popularity after the event rapidly.
+
+As a result, the agency decided to transfer her from INNK MUSIC to Hololive Production.
+
+### Toko's Response
+
+<br>
+
+<img src="./YouTube/nss_toko_01.jpg" />
+
+> [<i class="fab fa-youtube" /> Original YouTube Stream](https://www.youtube.com/watch?v=CJD2mkpSkJs&t=4119s)
+
+According to Toko, the most impressive part was Suisei's [<i class="fa-solid fa-meteor" /> *Tenkyuu, Suisei wa Yoru wo Mataide*](https://www.youtube.com/watch?v=zLak0dxBKpM) and she was so moved that she cried. She said she became Suisei's fangirl and send Line messages to Suisei right after watching the live.
+
+Toko was also very happy to know her performance inspired Suisei.
+
+::: tip Toko's impressions on Suisei
+
+- Good at singing
+- She never gives up or compromises on what she aimed for
+- I admire her a lot
+
+:::
+
+## Summary of 2019
+
+Suisei and Toko knew each other in 2019 and they were already pretty close friends by then.
+
+They started the unit <span style="color:#e93320; font-weight:bold;">Toko</span><span style="color:#00b8ed; font-weight:bold;">machi</span> on 2019-06-26.
+
+Toko's performance inspired Suisei, and Suisei's performance on Non-Stop Story became her major turning point. That could be the reason why they cherish each other a lot.
+
+<!-- Fontawsome Script -->
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/css/all.min.css" crossorigin="anonymous">

@@ -2,11 +2,11 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: '/android-chrome-192x192.png' }],
     ['meta', { name: 'twitter:card', content: '/android-chrome-192x192.png' }],
-    ['meta', { name: 'twitter:site', content: 'Suisei Music | Treasure every moment' }],
+    ['meta', { name: 'twitter:site', content: 'Tokomachi Wiki | Treasure every moment' }],
     ['meta', { name: 'twitter:image', content: '/android-chrome-192x192.png' }],
     ['meta', { name: 'twitter:description', content: "This is a Wikipedia-like site to record Tokomachi activities and details." }],
     ['meta', { property: 'og:type', content: 'article' }],
-    ['meta', { property: 'og:title', content: 'Suisei Music | Treasure every moment' }],
+    ['meta', { property: 'og:title', content: 'Tokomachi Wiki | Treasure every moment' }],
     ['meta', { property: 'og:site_name', content: 'Tokomachi Wiki' }],
     ['meta', { property: 'og:url', content: 'https://toko.suisei.cc/' }],
     ['meta', { property: 'og:image', content: '/android-chrome-192x192.png' }],
