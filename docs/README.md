@@ -1,9 +1,17 @@
+---
+editLink: false
+contributors: false
+lastUpdated: false
+---
+
 # Introduction
 
 <p style="text-align:center; font-style:italic">
     <img src="/cover.png" width="150rem" height="150rem" alt="tokomachi">
     <br>
-    The comet and the Stargazing Cerberus.
+    The comet in the night sky&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and the Stargazing Cerberus.
 </p>
 
 ## What is this?

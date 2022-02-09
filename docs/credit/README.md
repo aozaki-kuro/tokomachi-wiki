@@ -22,11 +22,17 @@ If you found the guide helpful, please consider supporting the project on [<i cl
 
 <br>
 
-<img src="./mikaze.jpg" width="250" />
+<img src="./mikaze.jpg" width="200" />
 
 [ [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/mikaze0322) ] [ [<i class="fab fa-youtube"></i> YouTube](https://www.youtube.com/channel/UCrpkt3YHPdpciDy-96H_2mg) ]
 
 Hoshiyomi, Translator, Clipper, Traditional Chinese Localization
+
+---
+
+English Proofreading & QA:
+
+Leinadris, Redd from HSH server.
 
 ---
 
