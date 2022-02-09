@@ -7,8 +7,6 @@ next:
 
 # Tokomachi in 2019
 
-[[toc]]
-
 ## First Tweet Contact
 
 ### 2019-05-19
