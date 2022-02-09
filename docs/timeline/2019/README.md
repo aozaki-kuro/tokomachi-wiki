@@ -23,7 +23,7 @@ The first ever Tweet contact was Toko congratulating Suisei for entering INNK, h
 
 <br>
 <img src="./Twitter/20190519_01.jpg" width="500" />
-<br><br>
+<br>
 <img src="./Twitter/20190519_02.jpg" width="500" />
 
 :::

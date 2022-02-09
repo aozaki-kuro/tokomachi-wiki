@@ -96,8 +96,9 @@ module.exports = {
   themeConfig: {
     logo: '/android-chrome-192x192.png',
     docsDir: 'docs',
-    contributors: false,
+    contributors: true,
     lastUpdated: true,
+    repo: 'aozaki-kuro/suisei-toko-history',
     locales: {
       '/': {
         navbar: [
