@@ -67,3 +67,56 @@ Toko replied and they again "kissed" a lot.
 :::
 
 ### 2019-06-08
+
+Suise reached 11,111 YouTube Channel sub, Toko congratulated her.
+
+They also mentioned they want to sing together on live stage one day.
+
+They did it on Dec 10th, 2020.
+
+> [Original Tweet](https://twitter.com/suisei_hosimati/status/1137100337465085952)
+
+::: details Tweet Translation
+
+<br>
+<img src="./Twitter/20190608_01.png" width="500" />
+<br>
+<img src="./Twitter/20190608_02.png" width="500" />
+<br>
+<img src="./Twitter/20190608_03.png" width="500" />
+<br>
+<img src="./Twitter/20190608_04.png" width="500" />
+<br>
+<img src="./Twitter/20190608_05.png" width="500" />
+<br>
+<img src="./Twitter/20190608_06.png" width="500" />
+<br>
+<img src="./Twitter/20190608_07.png" width="500" />
+
+:::
+
+## The birth of TOKOMACHI
+
+### 2019-06-26
+
+The first time appearing the unit name Tokomachi (とこまち) is on the Minecraft collab.
+
+This is also the ever first collab of Tokomachi.
+
+<p style="text-align:center">
+    <img src="./YouTube/20190626_01.jpg" />
+</p>
+
+> [Original YouTube Stream](https://www.youtube.com/watch?v=Kr1jxq0ms00)
+
+The naming logic is:
+
+<p style="text-align: center;">
+    Inui<span style="color:#e93320; font-weight:bold;"> Toko</span> + Hoshi<span style="color:#00b8ed; font-weight:bold; text-align: center;">machi </span>Suisei = <span style="color:#e93320; font-weight:bold;">Toko</span><span style="color:#00b8ed; font-weight:bold;">machi</span>
+</p>
+
+::: tip Funny Episodes
+1
+2
+3
+:::
