@@ -15,7 +15,7 @@ next:
 
 On May 19th, 2019, Hoshimachi Suisei announced that she would graduate from indie and join Hololive's new project "INNK MUSIC".
 
-The first ever Tweet contact was Toko congratulating Suisei for entering INNK, and hope her songs can reach out to the whole world.
+The first ever Tweet contact was Toko congratulating Suisei for entering INNK, hoping her songs can reach out to the whole world.
 
 > [<i class="fa-brands fa-twitter" /> Original Tweet](https://twitter.com/suisei_hosimati/status/1130054368886050816)
 
@@ -79,7 +79,7 @@ Suisei reached 11,111 YouTube Channel sub, Toko congratulated her.
 
 They also mentioned they want to sing together on live stage one day.
 
-They did it on Dec 10th, 2020.
+They realised their dream on Dec 10th, 2020 [<i class="fa-solid fa-music" /> Inui Toko 1st solo live "who i am"](https://event.nijisanji.app/inui_whoiam/).
 
 > [<i class="fa-brands fa-twitter" /> Original Tweet](https://twitter.com/suisei_hosimati/status/1137100337465085952)
 
@@ -136,6 +136,9 @@ Suisei reached 20k sub and it was her goal for 2019.
 
 Toko congratulated and mentioned they want to dance in full 3D one day.
 
+
+> [<i class="fa-brands fa-twitter" /> Original Tweet](https://twitter.com/suisei_hosimati/status/1154679477605036034)
+
 ::: details Tweet Translation
 
 <br>
@@ -157,9 +160,9 @@ Toko congratulated and mentioned they want to dance in full 3D one day.
 
 Full event name [Virtual to LIVE in 両国国技館 2019](https://event.nijisanji.app/vtlryougoku2019/)
 
-This was the first time for Inui Toko to attend a full 3D live. She singed Chiisaki Mono (小さきもの) there.
+This was the first time for Inui Toko to attend a full 3D live, where she sang Chiisaki Mono (小さきもの). 
 
-According to Suisei's YouTube after talk stream (privated), Suisei watched the whole live and was astonised by Toko's performance.
+According to Suisei's YouTube after talk stream (privated), Suisei watched the whole live and was astonished by Toko's performance.
 
 ### Non-Stop Story
 
@@ -171,7 +174,7 @@ Full event name [hololive 1st fes. ノンストップ・ストーリー](https:/
 
 This was the major turning point for Suisei.
 
-Her original plan was to sing [<i class="fa-solid fa-meteor" /> *Comet*](https://www.youtube.com/watch?v=3cqV5BKJHyk) there. But after seeing Toko's live performance, she changed her mind and went for more *impact*, thus the song she chose to sing on stage was [<i class="fa-solid fa-meteor" /> *Tenkyuu, Suisei wa Yoru wo Mataide*](https://www.youtube.com/watch?v=zLak0dxBKpM). The song and her performance was so impressive that her name was on Twitter Trend for pretty long time.
+Her original plan was to sing [<i class="fa-solid fa-meteor" /> *Comet*](https://www.youtube.com/watch?v=3cqV5BKJHyk) there. But after seeing Toko's live performance, she changed her mind and went for more *impact*, thus the song she chose to sing on stage was [<i class="fa-solid fa-meteor" /> *Tenkyuu, Suisei wa Yoru wo Mataide*](https://www.youtube.com/watch?v=zLak0dxBKpM). The song and her performance was so impressive that her name was on Twitter Trend for a pretty long time.
 
 <img src="./YouTube/nss_suisei_01.jpg" />
 <img src="./YouTube/nss_suisei_02.jpg" />

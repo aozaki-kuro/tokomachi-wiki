@@ -11,7 +11,7 @@ module.exports = {
     ['meta', { property: 'og:url', content: 'https://toko.suisei.cc/' }],
     ['meta', { property: 'og:image', content: '/android-chrome-192x192.png' }],
     ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
-    ['meta', { name: 'theme-color', content: '#7ecde6' }],
+    ['meta', { name: 'theme-color', content: '#9d3757' }],
   ],
   markdown: {
     lineNumbers: false // 代码块显示行号
