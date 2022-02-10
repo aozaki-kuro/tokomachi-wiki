@@ -226,6 +226,6 @@ They started the unit <span style="color:#e93320; font-weight:bold;">Toko</span>
 
 Toko's performance inspired Suisei, and Suisei's performance on Non-Stop Story became her major turning point. That could be the reason why they cherish each other a lot.
 
-<!-- Fontawsome Script -->
+<!-- FontAwesome Script -->
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/css/all.min.css" crossorigin="anonymous">

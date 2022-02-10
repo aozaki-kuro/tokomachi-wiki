@@ -350,8 +350,8 @@ Although the radio wasn't actually always on time, they successfully made a perf
 
 Tokomachi's dreams
 - Radio program
-- 
-- Duo concert live
+- Duo original songs
+- Duo concert lives
 
 *For more information, please read [<i class="fa-solid fa-microphone-lines"></i> Topic: Tokomachi Radio ](/topics/tokomachi_radio_s01).*
 
@@ -364,6 +364,6 @@ Tokomachi's dreams
 
 ## New year
 
-<!-- Fontawsome Script -->
+<!-- FontAwesome Script -->
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/css/all.min.css" crossorigin="anonymous">
