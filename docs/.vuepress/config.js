@@ -75,12 +75,12 @@ module.exports = {
     '/': {
       lang: 'en-US',
       title: "Tokomachi Wiki",
-      description: "A Compilation Site for Hoshimachi Suisei's music ranking and live event recordings.",
+      description: "This is a Wikipedia-like site to record Tokomachi activities and details.",
     },
     '/ja/': {
       lang: 'ja-JP',
       title: "とこまち Wiki",
-      description: "すいちゃんのオリジナルソングランキングとライブリストのまとめサイト",
+      description: "戌亥とこ × 星街すいせい とこまちの活動記録。",
     },
     '/zh/': {
       lang: 'zh-CN',
@@ -125,8 +125,18 @@ module.exports = {
         lang: 'zh-CN',
         navbar: [
           {
+            text: "Timeline",
+            link: "/zh/timeline/",
+            children: [
+              "/zh/timeline/2019/",
+              "/zh/timeline/2020/",
+              "/zh/timeline/2021/",
+              "/zh/timeline/2022/",
+            ],
+          },
+          {
             text: "Credit",
-            link: "/credit/",
+            link: "/zh/credit/",
           },
         ],
         selectLanguageText: '选择语言',
@@ -137,12 +147,18 @@ module.exports = {
         lang: 'zh-TW',
         navbar: [
           {
-            text: "音樂榜單",
-            link: "/zh-tw/ranking/",
+            text: "Timeline",
+            link: "/zh-tw/timeline/",
+            children: [
+              "/zh-tw/timeline/2019/",
+              "/zh-tw/timeline/2020/",
+              "/zh-tw/timeline/2021/",
+              "/zh-tw/timeline/2022/",
+            ],
           },
           {
-            text: "演唱會紀錄",
-            link: "/zh-tw/live/",
+            text: "Credit",
+            link: "/zh-tw/credit/",
           },
         ],
         selectLanguageText: '選擇語言',
@@ -153,12 +169,18 @@ module.exports = {
         lang: 'ja-JP',
         navbar: [
           {
-            text: "ランキング",
-            link: "/ja/ranking/",
+            text: "Timeline",
+            link: "/ja/timeline/",
+            children: [
+              "/ja/timeline/2019/",
+              "/ja/timeline/2020/",
+              "/ja/timeline/2021/",
+              "/ja/timeline/2022/",
+            ],
           },
           {
-            text: "ライブ",
-            link: "/ja/live/",
+            text: "Credit",
+            link: "/ja/credit/",
           },
         ],
         selectLanguageText: '言語切替',
