@@ -72,17 +72,17 @@ Suisei promoted for her radio program tomorrow since Toko would be the guest.
 
 ::: details The conversation and reactions
 
-:comet: : Here I come! (started to *fish* Toko with her fishing rod)
+:comet: : *Here I come!* (started to *fish* Toko with her fishing rod)
 
-:comet: : Everybody, please listen to my radio program!
+:comet: : *Everybody, please listen to my radio program!*
 
-:tropical_drink: : Well she is that kind of idol who won't forgot to promote for her own program even she's on her vacation.
+:tropical_drink: : *Well she is that kind of idol who won't forgot to promote for her own program even she's on her vacation.*
 
-:tropical_drink: : Are you having a good time Hoshimachi?
+:tropical_drink: : *Are you having a good time Hoshimachi?*
 
 :comet: (Still trying to fish Toko happily)
 
-:tropical_drink: : Alright seemed like she's having a good time, might also laughing now.
+:tropical_drink: : *Alright seemed like she's having a good time, might also laughing now.*
 
 :::
 
@@ -108,15 +108,15 @@ And the Toko wants to go for Gourmet Tour in *Tokyo Disney Land*.
 
 (Talking about where a Mickey Mouse ear)
 
-:comet: : Then there would be two kinds of ears, so what happened to your dog-like ears...
+:comet: : *Then there would be two kinds of ears, so what happened to your dog-like ears...*
 
-:tropical_drink: : Not dog, Cerberus.
+:tropical_drink: : *Not dog, Cerberus.*
 
-:comet: : Well then what should we call the ear of Cerberus (nani mimi)?
+:comet: : *Well then what should we call the ear of Cerberus (nani mimi)?*
 
-:tropical_drink: : Cerberus ears (keru mimi).
+:tropical_drink: : *Cerberus ears (keru mimi).*
 
-:comet: : First time hearing (hatsu mimi)!
+:comet: : *First time hearing (hatsu mimi)!*
 
 
 Note:
@@ -131,7 +131,7 @@ Note:
 > 
 > [<i class="fab fa-youtube" /> MUSIC SPACE #09 (Second half) ](https://www.youtube.com/watch?v=bmNZg5LzkLI)
 
-#### Live performance
+::: details Live performance
 
 Toko mentioned that they want to not just *sing together*, but also *dance together*.
 
@@ -139,7 +139,9 @@ Suisei said her favorite part of Toko is she laugh happily a lot. Toko said Suis
 
 Suisei really like Toko's performance on Virtual to Live 2019, Toko also invited Suisei to watch the *Blu-ray* replay together at home.
 
-#### Anemachi
+:::
+
+::: details Toko curious about Anemachi
 
 Toko thought Anemachi (Suisei's elder sister) was pretty funny. Not only during the lastest collab gacha stream, Anemachi often shows up when Suisei making a long call with Toko at night. Anemachi even invited Toko to go the *Tokyo Disney Land* together.
 
@@ -147,7 +149,9 @@ Suisei said because of Anemachi, she also became an Otaku. Toko said well seemed
 
 Toko also got an elder sister, she also got influenced by her elder sister and started to read Manga and watch animes. Same as Suisei.
 
-#### What for meal?
+:::
+
+::: details What for meal?
 
 Suisei and Toko often go for a meal (mainly barbecue) in 2019, before COVID-19 breakout.
 
@@ -155,11 +159,15 @@ Suisei always decided pretty fast since she is only interest in meat / beef.
 
 For the next meal, they quickly decided that should be [<i class="fa-brands fa-wikipedia-w"></i> Shabushabu ](https://en.wikipedia.org/wiki/Shabu-shabu)
 
-#### Feeling nervous on stage?
+:::
+
+::: details Feeling nervous on stage?
 
 Fan letter asked whether there were monsters on the stage (whether they would feel nervous on live concert stage), Toko and Suisei said they are more excited than nervous when seeing the audiences and the glow sticks in their hands.
 
 Even there are, seemed like Toko would *politely eat them up* since she is the *mighty mighty Cerberus*.
+
+:::
 
 ## Totsumachi
 
@@ -167,6 +175,120 @@ Even there are, seemed like Toko would *politely eat them up* since she is the *
 
 <br>
 <img src="./YouTube/20200909_01.jpg" />
+
+The Totsumachi (waiting for friends to make a Discord call) was held on Inui Toko's birthday.
+
+Suisei called in and said *happy birthday* to Toko, also talked about a lot of other topics.
+
+#### First impression
+
+When talking about *How Suisei knew Toko*, Suisei said it was her indie days, someone (refers to [<i class="fab fa-youtube" /> Hiro Minamori (graduated) ](https://www.youtube.com/channel/UCuGMkxJA_icuiF01u8f3Y2Q)) introduced Toko to Suisei.
+
+Suisei's first impression of Toko was *Huh that traditional Japanese style Nijisanji girl!*
+
+Toko's first impression of Suisei was *Huh, what a vocally talented girl!*
+
+There they also mentioned that they want to sing together more, not only just singing together on radio, but also wanted to make song cover songs.
+
+#### Other topics
+
+::: details Swapping identities
+
+Toko asked Suisei to introduced herself and
+
+:comet: : *Hello everyone I'm Hoshimachi Suisei from Nijisanji!*
+
+:tropical_drink: : *Eh don't start a political problem because of me...*
+
+:comet: : *It's idol VTuber Hoshimachi Suisei of Hololive here!*
+
+And swapping greetings or identities became pretty common in their future collab / activities.
+
+:::
+
+::: details Your age?
+
+:comet: : *Happy birthday Toko-chan! What's your age by the way?*
+
+:tropical_drink: : *I can't remember, please judge by my appearance.*
+
+:comet: : *So what's your age judging from you appearance?*
+
+:tropical_drink: : *Two years old ~*
+
+:comet: : *Not even possible, if you are 2 years old you should be a little child!*
+
+:::
+
+::: details Duo live concert
+
+:tropical_drink: : *So where should we hold our duo live concert?*
+
+:comet: : *What about... Toyosu Pit?*
+
+:tropical_drink: : *Ahhhhh that's also my dream live stage!*
+
+:comet: : *...and it's where the dream of EnSta started!*
+
+:comet: : *It wasn't even enough to just sing 4 songs on air, I would like to call for at least 10 songs!*
+
+:tropical_drink: : *Yes only us singing!*
+
+:::
+
+::: details How long have we met?
+
+:tropical_drink: : *How long has it been since we know each other?*
+
+:comet: : *Eh...I think it's been more than year?*
+
+:tropical_drink: : *It's been pretty long time.*
+
+:tropical_drink: : *I never imagined they we would be so close back then.*
+
+:comet: : *Hey but I did!!*
+
+:::
+
+::: details Cover song when?
+
+:comet: : *So when should we start to make a cover song and MV?*
+
+:tropical_drink: : *Right here right now!*
+
+:comet: : *Okay let's post it tomorrow!*
+
+:tropical_drink: : *Time to work through the night.*
+
+:tropical_drink: : *Guess we have to figure it out all by ourselves or we would be late LOL*
+
+:::
+
+::: details She never fails me
+
+:tropical_drink: : *What's your recommended content?* 
+
+:comet: : *Can I... say the title?*
+
+:tropical_drink: : *Sure go ahead.*
+
+:comet: : *Ensemble Stars !!* (without hesitation)
+
+:tropical_drink: : *She never fails me.*
+
+:::
+
+::: details Karaoke when?
+
+:tropical_drink: : *I really want to achieve more with you... and of course play along with you more.*
+
+:tropical_drink: : *I want to go to Karaoke!*
+
+:comet: : *Then let's meet at the station tomorrow.*
+
+:tropical_drink: : *Alright let's meet tomorrow!*
+
+:::
 
 ## Live guest
 
