@@ -6,6 +6,10 @@ next:
 
 # Tokomachi Radio Season 01
 
+Links:
+- [<i class="fa-solid fa-link" /> Tokomachi in 2020 ](/timeline/2020)
+- [<i class="fa-solid fa-link" /> Tokomachi in 2021 ](/timeline/2021)
+
 ## Episode 01 First Episode
 
 Date: `2020-10-28`
@@ -35,3 +39,7 @@ Date: `2020-10-28`
 ## Episode 13 1st Year Anniversary
 
 Date: `2021-10-31`
+
+<!-- FontAwesome Script -->
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/css/all.min.css" crossorigin="anonymous">

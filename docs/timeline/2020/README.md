@@ -46,7 +46,7 @@ Toko was supposed to be her guardian and look after her on stream.
 <br>
 <img src="./youtube/mspe.jpg" />
 
-[<i class="fa-solid fa-music"></i> Hoshimachi Suisei's Music Space ](https://www.youtube.com/playlist?list=PLAo9RlHR2tDb_gfVgqd0wKknI7oE8etmV) (Discontinued)
+[<i class="fa-solid fa-music" /> Hoshimachi Suisei's Music Space ](https://www.youtube.com/playlist?list=PLAo9RlHR2tDb_gfVgqd0wKknI7oE8etmV) (Discontinued)
 
 This is Hoshimachi Suisei's first ever radio program. The program focuses on music and Suisei invited a lot of Vtubers, singers and music-related talents to the program.
 
@@ -60,7 +60,7 @@ The program started from April 4th, 2020 and discontinued on March 28th, 2021 du
 
 ### 2020-05-23
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream ](https://www.youtube.com/watch?v=8b7WYQ2vvSA&t=4873s)
+> [<i class="fab fa-youtube" /> Original YouTube Stream ](https://youtu.be/8b7WYQ2vvSA&t=4873s)
 
 Suisei was on a [<i class="fa-brands fa-twitter" /> one-week-long rest ](https://twitter.com/suisei_hosimati/status/1262763428931702790) but she suddenly appeared in Inui Toko's stream unexpectedly.
 
@@ -94,9 +94,9 @@ Suisei also showed Toko her capability of *Lightspeed Idol Outfit Change*.
 
 ### 2020-05-24 \#08
 
-> [<i class="fab fa-youtube" /> MUSIC SPACE #08 (First half) ](https://www.youtube.com/watch?v=WseyAVH4IlM)
+> [<i class="fab fa-youtube" /> MUSIC SPACE #08 (First half) ](https://youtu.be/WseyAVH4IlM)
 > 
-> [<i class="fab fa-youtube" /> MUSIC SPACE #08 (Second half) ](https://www.youtube.com/watch?v=6NZJpD45MOU)
+> [<i class="fab fa-youtube" /> MUSIC SPACE #08 (Second half) ](https://youtu.be/6NZJpD45MOU)
 
 This is the first time Suisei invited non-Hololive talent to her radio program.
 
@@ -127,9 +127,9 @@ Note:
 
 ### 2020-05-31 \#09
 
-> [<i class="fab fa-youtube" /> MUSIC SPACE #09 (First half) ](https://www.youtube.com/watch?v=-0ZKq0CvsPU)
+> [<i class="fab fa-youtube" /> MUSIC SPACE #09 (First half) ](https://youtu.be/-0ZKq0CvsPU)
 > 
-> [<i class="fab fa-youtube" /> MUSIC SPACE #09 (Second half) ](https://www.youtube.com/watch?v=bmNZg5LzkLI)
+> [<i class="fab fa-youtube" /> MUSIC SPACE #09 (Second half) ](https://youtu.be/bmNZg5LzkLI)
 
 ::: details Live performance
 
@@ -157,7 +157,7 @@ Suisei and Toko often go for a meal (mainly barbecue) in 2019, before COVID-19 b
 
 Suisei always decided pretty fast since she is only interest in meat / beef.
 
-For the next meal, they quickly decided that should be [<i class="fa-brands fa-wikipedia-w"></i> Shabushabu ](https://en.wikipedia.org/wiki/Shabu-shabu)
+For the next meal, they quickly decided that should be [<i class="fa-brands fa-wikipedia-w" /> Shabushabu ](https://en.wikipedia.org/wiki/Shabu-shabu)
 
 :::
 
@@ -346,14 +346,14 @@ Although the radio wasn't actually always on time, they successfully made a perf
 
 :::
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream ](https://www.youtube.com/watch?v=6WYpnMNcA_8)
+> [<i class="fab fa-youtube" /> Original YouTube Stream ](https://youtu.be/6WYpnMNcA_8)
 
 Tokomachi's dreams
 - Radio program
 - Duo original songs
 - Duo concert lives
 
-*For more information, please read [<i class="fa-solid fa-microphone-lines"></i> Topic: Tokomachi Radio ](/topics/tokomachi_radio_s01).*
+*For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topic: Tokomachi Radio ](/topics/tokomachi_radio_s01).*
 
 ## Inui Toko 1st solo live "who i am"
 

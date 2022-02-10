@@ -115,7 +115,7 @@ module.exports = {
       '/': {
         navbar: [
           {
-            text: "Timeline",
+            text: "📅 Timeline",
             link: "/timeline/",
             children: [
               "/timeline/2019/",
@@ -125,7 +125,7 @@ module.exports = {
             ],
           },
           {
-            text: "Topics",
+            text: "💭 Topics",
             link: "/topics/",
             children: [
               "/topics/tokomachi_radio_s01",
