@@ -44,7 +44,7 @@ Toko was supposed to be her guardian and look after her on stream.
 ## Radio Guest
 
 <br>
-<img src="./YouTube/mspe.jpg" />
+<img src="./youtube/mspe.jpg" />
 
 [<i class="fa-solid fa-music"></i> Hoshimachi Suisei's Music Space ](https://www.youtube.com/playlist?list=PLAo9RlHR2tDb_gfVgqd0wKknI7oE8etmV) (Discontinued)
 
@@ -174,7 +174,7 @@ Even there are, seemed like Toko would *politely eat them up* since she is the *
 ### 2020-09-09
 
 <br>
-<img src="./YouTube/20200909_01.jpg" />
+<img src="./youtube/20200909_01.jpg" />
 
 The Totsumachi (waiting for friends to make a Discord call) was held on Inui Toko's birthday.
 
@@ -292,20 +292,73 @@ And swapping greetings or identities became pretty common in their future collab
 
 ## Live guest
 
+### 2020-10-26
+
 <br>
-<img src="./YouTube/whoiam.jpg" />
+<img src="./youtube/whoiam.jpg" />
+
+#### Teasing
+
+On October 26th, 2020 Suisei tweeted and mentioned she would have an announcement but not on her own channel.
+
+> [<i class="fa-brands fa-twitter" /> Original Tweet 1 ](https://twitter.com/suisei_hosimati/status/1320666223667933185) , [<i class="fa-brands fa-twitter" /> Original Tweet 2 ](https://twitter.com/suisei_hosimati/status/1320706722135035905)
+
+::: details Tweet Translation
+
+<br>
+<img src="./twitter/20201026_01.png" width="500" />
+
+:::
+
+#### Announcement
+
+That night 20:00 JST Inui Toko started her Karaoke stream and the title said *I got some announcements*.
 
 > [<i class="fab fa-youtube" /> Original YouTube Stream ](https://youtu.be/Q1t_vUj-fJQ&t=2068s)
 
+Her first announcement was *her first original song is on its way*.
+
+The second announcement was *Inui Toko 1st solo live \"who i am\"* on Dec 10th, 2020.
+
+The most astonishing thing was *Hoshimachi Suisei appeared as one of the live guests*. It was the first time a Hololive member appeared on Nijisanji paid event / live concert so that was a big surprise.
+
+According to Toko, all guests (Lize Helesta, Ange Katrina, Higuchi Kaede and **Hoshimachi Suisei**) are extremely important to her and that's why she invited them to her 1st solo live.
+
 ## Tokomachi Radio
 
+### 2020-10-28
+
 <br>
-<img src="./YouTube/tokomachi_radio_01.jpg" />
+<img src="./youtube/tokomachi_radio_01.jpg" />
+
+As Toko and Suisei succesfully came over the obstacles between 2 agencies, they decided to take it further and started Tokomachi Radio.
+
+Tokomachi Radio is a monthly radio program, scheduled on the 3rd Wednesday of every month.
+
+Although the radio wasn't actually always on time, they successfully made a perfect run in the first year.
+
+> [<i class="fa-brands fa-twitter" /> Original Tweet ](https://twitter.com/suisei_hosimati/status/1321034300700069889)
+
+::: details Tweet Translation
+
+<br>
+<img src="./twitter/20201026_01.png" width="500" />
+
+:::
+
+> [<i class="fab fa-youtube" /> Original YouTube Stream ](https://www.youtube.com/watch?v=6WYpnMNcA_8)
+
+Tokomachi's dreams
+- Radio program
+- 
+- Duo concert live
+
+*For more information, please read [<i class="fa-solid fa-microphone-lines"></i> Topic: Tokomachi Radio ](/topics/tokomachi_radio_s01).*
 
 ## Inui Toko 1st solo live "who i am"
 
 <br>
-<img src="./YouTube/whoiam_02.jpg" />
+<img src="./youtube/whoiam_02.jpg" />
 
 ### 2020-12-10
 

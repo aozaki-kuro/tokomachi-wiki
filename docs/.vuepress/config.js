@@ -113,6 +113,14 @@ module.exports = {
             ],
           },
           {
+            text: "Topics",
+            link: "/topics/",
+            children: [
+              "/topics/tokomachi_radio_s01",
+              "/topics/tokomachi_radio_s02",
+            ],
+          },
+          {
             text: "Credit",
             link: "/credit/",
           },
