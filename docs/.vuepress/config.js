@@ -36,6 +36,9 @@ module.exports = {
             message: 'New content is available.',
             buttonText: 'Refresh',
           },
+          /***
+           * i18n
+           * 
           '/zh/': {
             message: '发现新内容可用',
             buttonText: '刷新',
@@ -48,6 +51,7 @@ module.exports = {
             message: '新しいコンテンツが利用可能です',
             buttonText: 'リロード',
           },
+          ***/
         },
       },
     ],
@@ -58,6 +62,9 @@ module.exports = {
           '/': {
             placeholder: 'Search',
           },
+          /***
+           * i18n
+           * 
           '/zh/': {
             placeholder: '搜索',
           },
@@ -66,7 +73,8 @@ module.exports = {
           },
           '/ja/': {
             placeholder: '検索',
-          },
+          }, 
+          ***/
         },
       },
     ],
@@ -77,6 +85,9 @@ module.exports = {
       title: "Tokomachi Wiki",
       description: "This is a Wikipedia-like site to record Tokomachi activities and details.",
     },
+    /***
+     * i18n
+     * 
     '/ja/': {
       lang: 'ja-JP',
       title: "とこまち Wiki",
@@ -92,6 +103,7 @@ module.exports = {
       title: "星床 Wiki",
       description: "關於星街彗星的音樂榜單以及演唱會紀錄",
     },
+    ***/
   },
   themeConfig: {
     logo: '/android-chrome-192x192.png',
@@ -120,15 +132,15 @@ module.exports = {
               "/topics/tokomachi_radio_s02",
             ],
           },
-          {
-            text: "Credit",
-            link: "/credit/",
-          },
         ],
         selectLanguageText: 'Languages',
         selectLanguageName: 'English',
         selectLanguageAriaLabel: 'Languages',
       },
+
+      /***
+       * i18n
+       * 
       '/zh/': {
         lang: 'zh-CN',
         navbar: [
@@ -141,10 +153,6 @@ module.exports = {
               "/zh/timeline/2021/",
               "/zh/timeline/2022/",
             ],
-          },
-          {
-            text: "Credit",
-            link: "/zh/credit/",
           },
         ],
         selectLanguageText: '选择语言',
@@ -164,10 +172,6 @@ module.exports = {
               "/zh-tw/timeline/2022/",
             ],
           },
-          {
-            text: "Credit",
-            link: "/zh-tw/credit/",
-          },
         ],
         selectLanguageText: '選擇語言',
         selectLanguageName: '繁體中文',
@@ -186,15 +190,12 @@ module.exports = {
               "/ja/timeline/2022/",
             ],
           },
-          {
-            text: "Credit",
-            link: "/ja/credit/",
-          },
         ],
         selectLanguageText: '言語切替',
         selectLanguageName: '日本語',
         selectLanguageAriaLabel: '言語切替',
       },
+      i18n ***/
     },
   }
 }
