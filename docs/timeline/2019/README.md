@@ -20,9 +20,9 @@ The first ever Tweet contact was Toko congratulating Suisei for entering INNK, h
 ::: details Tweet Translation
 
 <br>
-<img src="./Twitter/20190519_01.jpg" width="500" />
+<img src="./twitter/20190519_01.jpg" width="500" />
 <br>
-<img src="./Twitter/20190519_02.jpg" width="500" />
+<img src="./twitter/20190519_02.jpg" width="500" />
 
 :::
 
@@ -39,11 +39,11 @@ They "kissed" a lot.
 ::: details Tweet Translation
 
 <br>
-<img src="./Twitter/20190521_01.jpg" width="500" />
+<img src="./twitter/20190521_01.jpg" width="500" />
 <br>
-<img src="./Twitter/20190521_02.jpg" width="500" />
+<img src="./twitter/20190521_02.jpg" width="500" />
 <br>
-<img src="./Twitter/20190521_03.jpg" width="500" />
+<img src="./twitter/20190521_03.jpg" width="500" />
 
 Note:
 
@@ -63,11 +63,11 @@ Toko replied and they again "kissed" a lot.
 ::: details Tweet Translation
 
 <br>
-<img src="./Twitter/20190607_01.jpg" width="500" />
+<img src="./twitter/20190607_01.jpg" width="500" />
 <br>
-<img src="./Twitter/20190607_02.jpg" width="500" />
+<img src="./twitter/20190607_02.jpg" width="500" />
 <br>
-<img src="./Twitter/20190607_03.jpg" width="500" />
+<img src="./twitter/20190607_03.jpg" width="500" />
 
 :::
 
@@ -84,19 +84,19 @@ They realised their dream on Dec 10th, 2020 [<i class="fa-solid fa-music" /> Inu
 ::: details Tweet Translation
 
 <br>
-<img src="./Twitter/20190608_01.jpg" width="500" />
+<img src="./twitter/20190608_01.jpg" width="500" />
 <br>
-<img src="./Twitter/20190608_02.jpg" width="500" />
+<img src="./twitter/20190608_02.jpg" width="500" />
 <br>
-<img src="./Twitter/20190608_03.jpg" width="500" />
+<img src="./twitter/20190608_03.jpg" width="500" />
 <br>
-<img src="./Twitter/20190608_04.jpg" width="500" />
+<img src="./twitter/20190608_04.jpg" width="500" />
 <br>
-<img src="./Twitter/20190608_05.jpg" width="500" />
+<img src="./twitter/20190608_05.jpg" width="500" />
 <br>
-<img src="./Twitter/20190608_06.jpg" width="500" />
+<img src="./twitter/20190608_06.jpg" width="500" />
 <br>
-<img src="./Twitter/20190608_07.jpg" width="500" />
+<img src="./twitter/20190608_07.jpg" width="500" />
 
 :::
 
@@ -108,7 +108,7 @@ The first time the unit name Tokomachi (とこまち) appeared is on the Minecra
 
 This is also the first ever collab of Tokomachi.
 
-<img src="./YouTube/20190626_01.jpg" />
+<img src="./youtube/20190626_01.jpg" />
 
 > [<i class="fab fa-youtube" /> Original YouTube Stream ](https://youtu.be/Kr1jxq0ms00)
 
@@ -140,11 +140,11 @@ Toko congratulated and mentioned they want to dance in full 3D one day.
 ::: details Tweet Translation
 
 <br>
-<img src="./Twitter/20190725_01.jpg" width="500" />
+<img src="./twitter/20190725_01.jpg" width="500" />
 <br>
-<img src="./Twitter/20190725_02.jpg" width="500" />
+<img src="./twitter/20190725_02.jpg" width="500" />
 <br>
-<img src="./Twitter/20190725_03.jpg" width="500" />
+<img src="./twitter/20190725_03.jpg" width="500" />
 
 :::
 
@@ -154,7 +154,7 @@ Toko congratulated and mentioned they want to dance in full 3D one day.
 
 <br>
 
-<img src="./YouTube/vtl.jpg" />
+<img src="./youtube/vtl.jpg" />
 
 Full event name [Virtual to LIVE in 両国国技館 2019 ](https://event.nijisanji.app/vtlryougoku2019/)
 
@@ -166,7 +166,7 @@ According to Suisei's YouTube after talk stream (privated), Suisei watched the w
 
 <br>
 
-<img src="./YouTube/nss.jpg" />
+<img src="./youtube/nss.jpg" />
 
 Full event name [hololive 1st fes. ノンストップ・ストーリー ](https://www.nonstop.hololive.tv/)
 
@@ -174,8 +174,8 @@ This was the major turning point for Suisei.
 
 Her original plan was to sing [<i class="fa-solid fa-meteor" /> *Comet* ](https://youtu.be/3cqV5BKJHyk) there. But after seeing Toko's live performance, she changed her mind and went for more *impact*, thus the song she chose to sing on stage was [<i class="fa-solid fa-meteor" /> *Tenkyuu, Suisei wa Yoru wo Mataide* ](https://youtu.be/zLak0dxBKpM). The song and her performance was so impressive that her name was on Twitter Trend for a pretty long time.
 
-<img src="./YouTube/nss_suisei_01.jpg" />
-<img src="./YouTube/nss_suisei_02.jpg" />
+<img src="./youtube/nss_suisei_01.jpg" />
+<img src="./youtube/nss_suisei_02.jpg" />
 
 She gained popularity after the event rapidly and started trending.
 
@@ -183,7 +183,7 @@ She gained popularity after the event rapidly and started trending.
 
 <br>
 
-<img src="./YouTube/nss_toko_01.jpg" />
+<img src="./youtube/nss_toko_01.jpg" />
 
 > [<i class="fab fa-youtube" /> Original YouTube Stream ](https://youtu.be/CJD2mkpSkJs&t=4119s)
 
