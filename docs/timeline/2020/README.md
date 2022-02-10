@@ -169,6 +169,10 @@ Even there are, seemed like Toko would *politely eat them up* since she is the *
 
 :::
 
+### 2020-08-02 \#18
+
+### 2020-08-09 \#19
+
 ## Totsumachi
 
 ### 2020-09-09
@@ -236,7 +240,7 @@ And swapping greetings or identities became pretty common in their future collab
 
 :::
 
-::: details How long have we met?
+::: details How long has it been since we met?
 
 :tropical_drink: : *How long has it been since we know each other?*
 
@@ -353,7 +357,9 @@ Tokomachi's dreams
 - Duo original songs
 - Duo concert lives
 
-*For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topic: Tokomachi Radio ](/topics/tokomachi_radio_s01).*
+*For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: Tokomachi Radio ](/topic/tokomachi_radio_s01).*
+
+## First Tokomachi Cover MV
 
 ## Inui Toko 1st solo live "who i am"
 
