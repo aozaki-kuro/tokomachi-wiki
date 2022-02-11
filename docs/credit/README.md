@@ -44,7 +44,7 @@ Thank you guys!
 
 <img src="/Project_Stargazer.svg" alt="Suisei Project" width="185.25" height="28">
 
-Tokomachi Wiki is part of *Project Stargazer*.
+Tokomachi Wiki is part of _Project Stargazer_.
 
 Site built with [VuePress](https://v2.vuepress.vuejs.org/zh/), hosted on [Vercel](https://vercel.com/).
 

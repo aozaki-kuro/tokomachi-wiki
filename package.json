@@ -7,7 +7,7 @@
 	"scripts": {
 		"dev": "vuepress dev docs",
 		"build": "vuepress build docs",
-		"format": "prettier 'docs/**/*.js' --write"
+		"format": "prettier 'docs/**/*.js' 'docs/**/*.md' --write"
 	},
 	"devDependencies": {
 		"@vuepress/plugin-pwa": "^2.0.0-beta.35",

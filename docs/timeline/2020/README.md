@@ -1,11 +1,11 @@
 ---
 # NavLink
 prev:
-  text: "Previous: Tokomachi in 2019"
+  text: 'Previous: Tokomachi in 2019'
   link: /timeline/2019
 
 next:
-  text: "Next: Tokomachi in 2021"
+  text: 'Next: Tokomachi in 2021'
   link: /timeline/2021
 ---
 
@@ -23,11 +23,11 @@ Since it was right after, except talking about EnSta, they also mentioned they w
 
 > [<i class="fab fa-youtube" /> Timestamp: Fishing Rod](https://youtu.be/bwAXmu5uYes?t=1385)
 
-Suisei also renamed their fishing rods and put their names on each other's rod. But she mistakenly gave her rod to Toko. Toko joked that she won't give it back cutely. Suisei suddenly threatened to sing *Infinity Stars*, an Ensemble Stars !! song and Toko was frighted, giving back Suisei's rod immediately.
+Suisei also renamed their fishing rods and put their names on each other's rod. But she mistakenly gave her rod to Toko. Toko joked that she won't give it back cutely. Suisei suddenly threatened to sing _Infinity Stars_, an Ensemble Stars !! song and Toko was frighted, giving back Suisei's rod immediately.
 
 Since EnSta / Happy Elements were very famous for having a strict copyright guideline, this means if Suisei did singed that song, Toko's YouTube channel would be demonetized and that's what YouTuber / Vtuber fears most.
 
-This was called *the special way of singers to threaten*.
+This was called _the special way of singers to threaten_.
 
 ## 3D Model Announcement
 
@@ -43,13 +43,13 @@ This was called *the special way of singers to threaten*.
 
 ### First Tokomachi Cover
 
-The actual first ever Tokomachi cover song was  
+The actual first ever Tokomachi cover song was
 
 ## Gacha Stream
 
 ### 2020-04-03
 
-*Dat scene*
+_Dat scene_
 
 Suisei successfully maxed out her credit card on stream.
 
@@ -79,23 +79,23 @@ The program started on April 4th, 2020 and was discontinued on March 28th, 2021 
 
 Suisei was on a [<i class="fa-brands fa-twitter" /> one week-long break](https://twitter.com/suisei_hosimati/status/1262763428931702790) but she appeared in Inui Toko's Minecraft Server while she was on stream unexpectedly. It was an informal collab, so Suisei had her mic off and only communicated via Minecraft chat.
 
-Toko was also surprised to see her since Suisei should have been on break. During this time, Suisei fished and was fished in return by Toko, and she also showed off her *Lightspeed Idol Outfit Change*. It's been a long time since Suisei last played Minecraft, so it seemed like she had already forgotten how to play, however she still managed to act in a funny way and made Toko laugh a lot.
+Toko was also surprised to see her since Suisei should have been on break. During this time, Suisei fished and was fished in return by Toko, and she also showed off her _Lightspeed Idol Outfit Change_. It's been a long time since Suisei last played Minecraft, so it seemed like she had already forgotten how to play, however she still managed to act in a funny way and made Toko laugh a lot.
 
 Suisei promoted for her radio program tomorrow since Toko would be the guest.
 
 ::: details The conversation and reactions
 
-:comet: : *Here I come!* (started to *fish* Toko with her fishing rod)
+:comet: : _Here I come!_ (started to _fish_ Toko with her fishing rod)
 
-:comet: : *Everybody, please listen to my radio program!*
+:comet: : _Everybody, please listen to my radio program!_
 
-:tropical_drink: : *Well, she is that kind of idol who won't forgot to promote for her own program even when she's on her vacation.*
+:tropical_drink: : _Well, she is that kind of idol who won't forgot to promote for her own program even when she's on her vacation._
 
-:tropical_drink: : *Are you having a good time Hoshimachi?*
+:tropical_drink: : _Are you having a good time Hoshimachi?_
 
 :comet: (Still trying to fish Toko happily)
 
-:tropical_drink: : *Alright, it seems like she's having a good time*
+:tropical_drink: : _Alright, it seems like she's having a good time_
 
 :::
 
@@ -107,25 +107,25 @@ Suisei promoted for her radio program tomorrow since Toko would be the guest.
 
 This was the first time Suisei invited a non-Hololive talent to her radio program.
 
-They mentioned the place they want to go together was *Tokyo Disney Land*, and while they were there, Toko wanted to go to the Gourmet Tour in *Tokyo Disney Land*.
+They mentioned the place they want to go together was _Tokyo Disney Land_, and while they were there, Toko wanted to go to the Gourmet Tour in _Tokyo Disney Land_.
 
 ::: details About Toko's ears
 
 (Talking about wearing the Mickey Mouse ears)
 
-:comet: : *So there would be two kinds of ears...  what would happen to your dog-like ears...*
+:comet: : _So there would be two kinds of ears... what would happen to your dog-like ears..._
 
-:tropical_drink: : *Not dog. Cerberus.*
+:tropical_drink: : _Not dog. Cerberus._
 
-:comet: : *Well then what should we call the ear of Cerberus (nani mimi)?*
+:comet: : _Well then what should we call the ear of Cerberus (nani mimi)?_
 
-:tropical_drink: : *Cerberus ears (keru mimi).*
+:tropical_drink: : _Cerberus ears (keru mimi)._
 
-:comet: : *First time hearing (hatsu mimi)!*
+:comet: : _First time hearing (hatsu mimi)!_
 
 Note:
 
-- *Don't* even try to call Toko a dog, she *doesn't* like it.
+- _Don't_ even try to call Toko a dog, she _doesn't_ like it.
 - Cerberus ears = Keruberus Mimi
 
 :::
@@ -138,17 +138,17 @@ Note:
 
 ::: details Live performance
 
-Toko mentioned that she didn't just want to *sing together*, but also to *dance together*.
+Toko mentioned that she didn't just want to _sing together_, but also to _dance together_.
 
 Suisei said her favorite part of Toko is she always laughs so happily. On the other hand, Toko mentioned that Suisei also laughs a lot. Their conversations were able to stay alive for long periods of time and they gained a lot of common language because of this.
 
-Suisei really liked Toko's performance on Virtual to Live 2019. Toko also invited Suisei to watch the *Blu-ray* replay together at home.
+Suisei really liked Toko's performance on Virtual to Live 2019. Toko also invited Suisei to watch the _Blu-ray_ replay together at home.
 
 :::
 
 ::: details Toko curious about Anemachi
 
-Toko thought Anemachi (Suisei's elder sister) was pretty funny. Anemachi often shows up, not just during their the last collab gacha stream, but she also shows up when Suisei's going on long calls with Toko at night. Anemachi even invited Toko to go the *Tokyo Disney Land* together.
+Toko thought Anemachi (Suisei's elder sister) was pretty funny. Anemachi often shows up, not just during their the last collab gacha stream, but she also shows up when Suisei's going on long calls with Toko at night. Anemachi even invited Toko to go the _Tokyo Disney Land_ together.
 
 Suisei said that she was influenced by Anemachi into becoming an Otaku. Toko said that it seemed like it's because of Anemachi that they can can meet each other.
 
@@ -168,7 +168,7 @@ For their next meal, they quickly decided that it should be [<i class="fa-brands
 
 A fan letter asked whether there were monsters on the stage (whether they would feel nervous on live concert stage), Toko and Suisei said they are more excited than nervous when seeing the audiences and the glow sticks in their hands.
 
-Even when there are, it seemed like Toko would *politely eat them up* since she is the *mighty mighty Cerberus*.
+Even when there are, it seemed like Toko would _politely eat them up_ since she is the _mighty mighty Cerberus_.
 
 :::
 
@@ -207,7 +207,7 @@ Toko selected `C. Blue` : If there are troubles, you would help her out and she 
 
 Suisei selected `D. Pink` : You often share happiness with her. Did you often go shopping or having meals with her? Sometimes you share new info or go to new scenic spots with each other. She always can cheer you up.
 
-Toko and Suisei agreed on this is pretty accurate and this is *teetee*.
+Toko and Suisei agreed on this is pretty accurate and this is _teetee_.
 
 :::
 
@@ -242,15 +242,15 @@ Suisei also asked the clippers not to clip this because she felt pretty shy and 
 
 The Totsumachi (waiting for friends to make a Discord call) was held on Inui Toko's birthday.
 
-Suisei called in and said *happy birthday* to Toko, and they also talked about a lot of other topics.
+Suisei called in and said _happy birthday_ to Toko, and they also talked about a lot of other topics.
 
 #### First impression
 
-When talking about *How Suisei knew Toko*, Suisei said it was her indie days, someone (refers to [<i class="fab fa-youtube" /> Hiro Minamori (graduated)](https://www.youtube.com/channel/UCuGMkxJA_icuiF01u8f3Y2Q)) introduced Toko to Suisei.
+When talking about _How Suisei knew Toko_, Suisei said it was her indie days, someone (refers to [<i class="fab fa-youtube" /> Hiro Minamori (graduated)](https://www.youtube.com/channel/UCuGMkxJA_icuiF01u8f3Y2Q)) introduced Toko to Suisei.
 
-Suisei's first impression of Toko was *Huh that traditional Japanese style Nijisanji girl!*
+Suisei's first impression of Toko was _Huh that traditional Japanese style Nijisanji girl!_
 
-Toko's first impression of Suisei was *Huh, what a vocally talented girl!*
+Toko's first impression of Suisei was _Huh, what a vocally talented girl!_
 
 There they also mentioned that they want to sing together more, not only just singing together on radio, but they also wanted to make song cover songs.
 
@@ -260,11 +260,11 @@ There they also mentioned that they want to sing together more, not only just si
 
 Toko asked Suisei to introduced herself and
 
-:comet: : *Hello everyone I'm Hoshimachi Suisei from Nijisanji!*
+:comet: : _Hello everyone I'm Hoshimachi Suisei from Nijisanji!_
 
-:tropical_drink: : *Eh don't start a political problem because of me...*
+:tropical_drink: : _Eh don't start a political problem because of me..._
 
-:comet: : *It's idol VTuber Hoshimachi Suisei of Hololive here!*
+:comet: : _It's idol VTuber Hoshimachi Suisei of Hololive here!_
 
 And their swapping of greetings or identities became pretty common in their future collab / activities.
 
@@ -272,85 +272,85 @@ And their swapping of greetings or identities became pretty common in their futu
 
 ::: details How old is Toko?
 
-:comet: : *Happy birthday Toko-chan! What's your age by the way?*
+:comet: : _Happy birthday Toko-chan! What's your age by the way?_
 
-:tropical_drink: : *I can't remember, so please judge me by my appearance.*
+:tropical_drink: : _I can't remember, so please judge me by my appearance._
 
-:comet: : *So what's your age judging from your appearance?*
+:comet: : _So what's your age judging from your appearance?_
 
-:tropical_drink: : *Two years old ~*
+:tropical_drink: : _Two years old ~_
 
-:comet: : *That's not even possible, if you are 2 years old you should be a little child!*
+:comet: : _That's not even possible, if you are 2 years old you should be a little child!_
 
 :::
 
 ::: details Duo live concert
 
-:tropical_drink: : *So where should we hold our duo live concert?*
+:tropical_drink: : _So where should we hold our duo live concert?_
 
-:comet: : *What about... Toyosu PIT?*
+:comet: : _What about... Toyosu PIT?_
 
-:tropical_drink: : *Ahhhhh that's also my dream live stage!*
+:tropical_drink: : _Ahhhhh that's also my dream live stage!_
 
-:comet: : *...and it's where the dreams of EnSta started!*
+:comet: : _...and it's where the dreams of EnSta started!_
 
-:comet: : *It wasn't even enough to just sing 4 songs on air, I would like to call for at least 10 songs!*
+:comet: : _It wasn't even enough to just sing 4 songs on air, I would like to call for at least 10 songs!_
 
-:tropical_drink: : *Yes only us singing!*
+:tropical_drink: : _Yes only us singing!_
 
 :::
 
 ::: details How long has it been since we met?
 
-:tropical_drink: : *How long has it been since we knew each other?*
+:tropical_drink: : _How long has it been since we knew each other?_
 
-:comet: : *Eh... I think it's been more than year?*
+:comet: : _Eh... I think it's been more than year?_
 
-:tropical_drink: : *It has been a pretty long time.*
+:tropical_drink: : _It has been a pretty long time._
 
-:tropical_drink: : *I never imagined that we would be so close back then.*
+:tropical_drink: : _I never imagined that we would be so close back then._
 
-:comet: : *Hey but I did!!*
+:comet: : _Hey but I did!!_
 
 :::
 
 ::: details Cover song when?
 
-:comet: : *So when should we start on making a cover song and MV?*
+:comet: : _So when should we start on making a cover song and MV?_
 
-:tropical_drink: : *Right here, right now!*
+:tropical_drink: : _Right here, right now!_
 
-:comet: : *Okay! let's post it tomorrow!*
+:comet: : _Okay! let's post it tomorrow!_
 
-:tropical_drink: : *Time to work through the night...*
+:tropical_drink: : _Time to work through the night..._
 
-:tropical_drink: : *Guess we have to figure it out all by ourselves or we would be late!*
+:tropical_drink: : _Guess we have to figure it out all by ourselves or we would be late!_
 
 :::
 
 ::: details She never fails me
 
-:tropical_drink: : *What's your recommended content?*
+:tropical_drink: : _What's your recommended content?_
 
-:comet: : *Can I... say the title?*
+:comet: : _Can I... say the title?_
 
-:tropical_drink: : *Sure go ahead.*
+:tropical_drink: : _Sure go ahead._
 
-:comet: : *Ensemble Stars !!* (without hesitation)
+:comet: : _Ensemble Stars !!_ (without hesitation)
 
-:tropical_drink: : *She never fails me.*
+:tropical_drink: : _She never fails me._
 
 :::
 
 ::: details Karaoke when?
 
-:tropical_drink: : *I really want to achieve more with you... and of course play along with you more.*
+:tropical_drink: : _I really want to achieve more with you... and of course play along with you more._
 
-:tropical_drink: : *I want to go to Karaoke!*
+:tropical_drink: : _I want to go to Karaoke!_
 
-:comet: : *Then let's meet at the station tomorrow.*
+:comet: : _Then let's meet at the station tomorrow._
 
-:tropical_drink: : *Alright let's meet tomorrow!*
+:tropical_drink: : _Alright let's meet tomorrow!_
 
 :::
 
@@ -375,15 +375,15 @@ On October 26th, 2020 Suisei tweeted and mentioned she would have an announcemen
 
 #### Announcement
 
-That night 20:00 JST Inui Toko started her Karaoke stream and the title said *I got some announcements*.
+That night 20:00 JST Inui Toko started her Karaoke stream and the title said _I got some announcements_.
 
 > [<i class="fab fa-youtube" /> Timestamp: Announcement 2, solo live](https://youtu.be/Q1t_vUj-fJQ&t=2068s)
 
-Her first announcement was *her first original song was on its way*.
+Her first announcement was _her first original song was on its way_.
 
-The second announcement was *Inui Toko 1st solo live \"who i am\"*  was going to be held on Dec 10th, 2020.
+The second announcement was _Inui Toko 1st solo live \"who i am\"_ was going to be held on Dec 10th, 2020.
 
-The most astonishing thing was *Hoshimachi Suisei appeared as one of the live guests*. It was the first time a Hololive member appeared on Nijisanji paid event / live concert so that was a big surprise.
+The most astonishing thing was _Hoshimachi Suisei appeared as one of the live guests_. It was the first time a Hololive member appeared on Nijisanji paid event / live concert so that was a big surprise.
 
 According to Toko, all guests (Lize Helesta, Ange Katrina, Higuchi Kaede and **Hoshimachi Suisei**) are extremely important to her and that's why she invited them to her 1st solo live.
 
@@ -418,7 +418,7 @@ Tokomachi's dreams
 
 There they also announced that their first cover song MV would be uploaded on Oct. 31st, 2020.
 
-*For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: Tokomachi Radio](/topics/tokomachi_radio_s01/).*
+_For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: Tokomachi Radio](/topics/tokomachi_radio_s01/)._
 
 ## First Tokomachi Cover MV
 
@@ -430,7 +430,7 @@ There they also announced that their first cover song MV would be uploaded on Oc
 
 This was the first Tokomachi cover song MV uploaded to YouTube channel.
 
-The song was from *Ensemble Stars! Album series Valkyrie*.
+The song was from _Ensemble Stars! Album series Valkyrie_.
 
 According to the comments, the song fits their image - cute but also sometimes be very handsome.
 
@@ -438,21 +438,21 @@ The song reached 1m replay in approximately a month. Considering EnSta is a rath
 
 > [<i class="fab fa-youtube" /> Watch-along Stream](https://youtu.be/tYFl1QqQjq8)
 
-They also had a watch-along stream. Since there were no latency when they shouted out *Kyou mo kawaii!* so this is highly possible an off collab.
+They also had a watch-along stream. Since there were no latency when they shouted out _Kyou mo kawaii!_ so this is highly possible an off collab.
 
 They partially swapped their greetings.
 
 ::: details Toko's greetings
 
-:tropical_drink: : *It's your shooting star...*
+:tropical_drink: : _It's your shooting star..._
 
-:comet: : *What?*
+:comet: : _What?_
 
-:tropical_drink: : *Your Cerberus in the rough...*
+:tropical_drink: : _Your Cerberus in the rough..._
 
-:comet: : *What??*
+:comet: : _What??_
 
-:tropical_drink: : *Inui Toko from Nijisanji!*
+:tropical_drink: : _Inui Toko from Nijisanji!_
 
 :comet: : LOOOOOOL
 
@@ -470,7 +470,7 @@ The live was held on Dec. 10, 2020 in KT Zepp Yokohama.
 
 Suisei and Toko finally fulfilled [their dreams back in 2019](/timeline/2019/#_2019-06-08).
 
-*For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: "who i am"](/topics/music/Inui_toko_whoiam/).*
+_For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: "who i am"](/topics/music/Inui_toko_whoiam/)._
 
 ## New year
 
@@ -484,38 +484,38 @@ Since Dec. 31st both agencies has their own official celebration program, 30th w
 
 Suisei and Toko decided to stream together for the night and look back on the past whole year.
 
-They swapped their greeting *again* at the start.
+They swapped their greeting _again_ at the start.
 
 ::: details Greetings ( 02:00 - )
 
-:comet: : *Welcome! It's your official mighty mighty Idol from Hololive, Hoshimachi Suisei.*
+:comet: : _Welcome! It's your official mighty mighty Idol from Hololive, Hoshimachi Suisei._
 
-:tropical_drink: : *Eh, uh? Emmmmm...*
+:tropical_drink: : _Eh, uh? Emmmmm..._
 
-:comet: : *What's wrong?*
+:comet: : _What's wrong?_
 
-:tropical_drink: : *Welcome! Eh? It's your shooting star Cerberus... Inui Toko.*
+:tropical_drink: : _Welcome! Eh? It's your shooting star Cerberus... Inui Toko._
 
-:tropical_drink: : *We are?*
+:tropical_drink: : _We are?_
 
-:comet: & :tropical_drink: : *To, Tokomachi desu!*
+:comet: & :tropical_drink: : _To, Tokomachi desu!_
 
-:tropical_drink: : *Well go to sleep.* (In Minecraft)
+:tropical_drink: : _Well go to sleep._ (In Minecraft)
 
 :::
 
 Toko thought she started her stream but it turned out to be no. She noticed something's not wrong when seeing the audiences are playing around with emotes.
 
-After that they greeted again with greetings swapped *again*.
+After that they greeted again with greetings swapped _again_.
 
 The Minecraft server was Inui Kingdom, Suisei also took her and Toko's bed to the hut beside the lake.
 
-To conclude 2020, Suisei chose *Hon* (奔, Dash), Toko chose *Ai* (愛, Love).
+To conclude 2020, Suisei chose _Hon_ (奔, Dash), Toko chose _Ai_ (愛, Love).
 
 And in 2020
 
 - The time Suisei spent with Toko was longer than the others, so did Toko.
-- *Our friendship is 100 deeper than last year!*
+- _Our friendship is 100 deeper than last year!_
 - They were very happy they were able to cheer people up with lives and streams.
 - They found out there were so many things to want to do together and it's more interesting to have it done as Tokomachi.
 - Their interest, favorite food, their goals were nearly the same.

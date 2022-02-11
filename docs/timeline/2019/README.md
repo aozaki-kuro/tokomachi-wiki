@@ -1,7 +1,7 @@
 ---
 # NavLink
 next:
-  text: "Next: Tokomachi in 2020"
+  text: 'Next: Tokomachi in 2020'
   link: /timeline/2020
 ---
 
@@ -121,7 +121,7 @@ The naming logic is:
 ::: tip Funny Episodes
 [13:38](https://youtu.be/Kr1jxq0ms00&t=818s) Suisei and Toko were amused when seeing a wolf (dog) trying to get its fur dry
 
-[14:23](https://youtu.be/Kr1jxq0ms00&t=863s) Suisei asked Toko to do the same and Toko followed. Toko actually doesn't like being called a *dog* but she still followed.
+[14:23](https://youtu.be/Kr1jxq0ms00&t=863s) Suisei asked Toko to do the same and Toko followed. Toko actually doesn't like being called a _dog_ but she still followed.
 
 [50:25](https://youtu.be/Kr1jxq0ms00&t=3025s) Tokomachi Opera
 :::
@@ -167,7 +167,7 @@ Full event name [hololive 1st fes. ノンストップ・ストーリー](https:/
 
 This was the major turning point for Suisei.
 
-Her original plan was to sing [<i class="fa-solid fa-meteor" /> *Comet*](https://youtu.be/3cqV5BKJHyk) there. But after seeing Toko's live performance, she changed her mind and went for more *impact*, thus the song she chose to sing on stage was [<i class="fa-solid fa-meteor" /> *Tenkyuu, Suisei wa Yoru wo Mataide*](https://youtu.be/zLak0dxBKpM). The song and her performance was so impressive that her name was on Twitter Trend for a pretty long time.
+Her original plan was to sing [<i class="fa-solid fa-meteor" /> _Comet_](https://youtu.be/3cqV5BKJHyk) there. But after seeing Toko's live performance, she changed her mind and went for more _impact_, thus the song she chose to sing on stage was [<i class="fa-solid fa-meteor" /> _Tenkyuu, Suisei wa Yoru wo Mataide_](https://youtu.be/zLak0dxBKpM). The song and her performance was so impressive that her name was on Twitter Trend for a pretty long time.
 
 ![Non-stop Story 01](./youtube/nss_suisei_01.jpg)
 
@@ -183,7 +183,7 @@ She gained popularity after the event rapidly and started trending.
 
 > [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/CJD2mkpSkJs&t=4119s)
 
-According to Toko, the most impressive part was Suisei's [<i class="fa-solid fa-meteor" /> *Tenkyuu, Suisei wa Yoru wo Mataide*](https://youtu.be/zLak0dxBKpM) and she was so moved that she cried. She said she became Suisei's fan girl and send LINE messages to Suisei right after watching the live.
+According to Toko, the most impressive part was Suisei's [<i class="fa-solid fa-meteor" /> _Tenkyuu, Suisei wa Yoru wo Mataide_](https://youtu.be/zLak0dxBKpM) and she was so moved that she cried. She said she became Suisei's fan girl and send LINE messages to Suisei right after watching the live.
 
 Toko was also very happy to know her performance inspired Suisei.
 
@@ -195,21 +195,21 @@ Toko was also very happy to know her performance inspired Suisei.
 
 :::
 
-Suisei appeared in the stream chat later when Toko was talking about Ensemble Stars. Toko said *Hoshimachi! Sui-chan! Here comes our beloved singer* and was pretty shy and unsure whether Suisei heard her praising Suisei's performance.
+Suisei appeared in the stream chat later when Toko was talking about Ensemble Stars. Toko said _Hoshimachi! Sui-chan! Here comes our beloved singer_ and was pretty shy and unsure whether Suisei heard her praising Suisei's performance.
 
 > [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/CJD2mkpSkJs?t=5810)
 
 ::: details Talks
 
-:comet: : *You praised my performance? I will check the archive later!*
+:comet: : _You praised my performance? I will check the archive later!_
 
-:tropical_drink: : *OK I will cut that part.*
+:tropical_drink: : _OK I will cut that part._
 
-:tropical_drink: : *Oh wait don't go, I still got something about EnSta to tell you!*
+:tropical_drink: : _Oh wait don't go, I still got something about EnSta to tell you!_
 
 (Talking about EnSta)
 
-:comet: : *Tell me more on LINE!*
+:comet: : _Tell me more on LINE!_
 :::
 
 Really close friends right?

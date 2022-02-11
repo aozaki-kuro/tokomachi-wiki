@@ -1,11 +1,11 @@
 ---
 # NavLink
 prev:
-  text: "Previous: Tokomachi in 2020"
+  text: 'Previous: Tokomachi in 2020'
   link: /timeline/2020
 
 next:
-  text: "Next: \"Space for Virtual GHOST\""
+  text: 'Next: "Space for Virtual GHOST"'
   link: /timeline/2021
 ---
 
@@ -13,7 +13,7 @@ next:
 
 ::: warning Paid Event
 
-This is a paid live, originally streamed on Niconico. If you are interested in their performances, you can purchase *Blu-ray Disc* from [<i class="fa-solid fa-compact-disc" /> Nijisanji Shop](https://shop.nijisanji.jp/s/niji/item/detail/NJSJ-026).
+This is a paid live, originally streamed on Niconico. If you are interested in their performances, you can purchase _Blu-ray Disc_ from [<i class="fa-solid fa-compact-disc" /> Nijisanji Shop](https://shop.nijisanji.jp/s/niji/item/detail/NJSJ-026).
 
 :::
 
@@ -83,6 +83,6 @@ Toko also talked about Suisei
 
 ## Related posts
 
-・ [<i class="fa-solid fa-calendar-days" /> *Timeline: Tokomachi in 2020*](/timeline/2020/#inui-toko-1st-solo-live-who-i-am) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
+・ [<i class="fa-solid fa-calendar-days" /> _Timeline: Tokomachi in 2020_](/timeline/2020/#inui-toko-1st-solo-live-who-i-am) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
 
-・ [<i class="fa-solid fa-microphone-lines" /> *Topics: Tokomachi Music*](/topics/music/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
+・ [<i class="fa-solid fa-microphone-lines" /> _Topics: Tokomachi Music_](/topics/music/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
