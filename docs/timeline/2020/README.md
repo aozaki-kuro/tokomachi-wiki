@@ -161,7 +161,50 @@ Even when there are, it seemed like Toko would *politely eat them up* since she 
 
 ### 2020-08-02 \#18
 
+<br>
+<img src="./youtube/20200802_01.jpg" />
+
+> [<i class="fab fa-youtube" /> MUSIC SPACE #18 (First half) ](https://youtu.be/qcmOlOpSe_8)
+> 
+> [<i class="fab fa-youtube" /> MUSIC SPACE #18 (Second half) ](https://youtu.be/lDT4Go85pMk)
+
+This is the first time Suisei and Toko being able to sing together on air. Since Bunka Housou is able to solve the copyright, they chose not only Yorushika, but also EnSta songs.
+
+EnSta / Happy Element is well-known for a very strict copyright guideline.
+
+The songs they singed in this episode were
+- [<i class="fab fa-youtube" /> Hana ni Bourei, Yorushika ](https://www.youtube.com/watch?v=dgOe9gVype0)
+- [<i class="fab fa-youtube" /> Tryst of Stars, Fine (Ensemble Stars!) ](https://www.youtube.com/watch?v=-ugKPaaWbZ8)
+
 ### 2020-08-09 \#19
+
+> [<i class="fab fa-youtube" /> MUSIC SPACE #19 (First half) ](https://youtu.be/pBofIN_HFeM)
+> 
+> [<i class="fab fa-youtube" /> MUSIC SPACE #19 (Second half) ](https://youtu.be/6JGN4C_YpFo)
+
+In the talking part, they did a simple "psychological test".
+
+::: details "Psychological test"
+
+Q: The color of the cup that you would give to your friend when she's paying a visit to your house. The color you choose might indicates the relationship between you and your friend. `A. Green`, `B. Orange`, `C. Blue`, `D. Pink`
+
+Toko selected `C. Blue`
+
+Suisei selected `D. Pink`
+
+`C. Blue` : If there are troubles, you would help her out and she would do the same. When you are in trouble, you often ask for help from her don't you? And when she's in trouble you would help her out without hesitation.
+
+`D. Pink` : You often share happiness with her. Did you often go shopping or having meals with her? Sometimes you share new info or go to new scenic spots with each other. She always can cheer you up.
+
+Toko and Suisei agreed on this is pretty accurate and this is *teetee*.
+
+:::
+
+Suisei mentioned every time she talked with Toko end up in laughing a lot with Toko. Suisei really love Toko's jokes and topics.
+
+The songs they singed in this episode were
+- [<i class="fab fa-youtube" /> Kaze wa Yokoku naku Fuku, Walküre ](https://www.youtube.com/watch?v=ZLxHpZv8wLA)
+- [<i class="fab fa-youtube" /> Mémoire Antique, Valkyrie (Ensemble Stars!) ](https://www.youtube.com/watch?v=Zo24u1KBB0U)
 
 ## Totsumachi
 
@@ -347,16 +390,18 @@ Tokomachi's dreams
 - Duo original songs
 - Duo concert lives
 
-*For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: Tokomachi Radio ](/topic/tokomachi_radio_s01).*
+*For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: Tokomachi Radio ](/topics/tokomachi_radio_s01).*
 
 ## First Tokomachi Cover MV
 
+
+
 ## Inui Toko 1st solo live "who i am"
+
+### 2020-12-10
 
 <br>
 <img src="./youtube/whoiam_02.jpg" />
-
-### 2020-12-10
 
 ## New year
 

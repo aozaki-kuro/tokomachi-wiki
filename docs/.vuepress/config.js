@@ -128,6 +128,7 @@ module.exports = {
             text: "💭 Topics",
             link: "/topics/",
             children: [
+              "/topics/tokomachi_songs_lives",
               "/topics/tokomachi_radio_s01",
               "/topics/tokomachi_radio_s02",
             ],
