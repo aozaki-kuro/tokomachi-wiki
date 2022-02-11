@@ -11,18 +11,6 @@ next:
 
 # "Space for Virtual GHOST"
 
-::: warning Paid Event
-
-This is a paid live, originally streamed on Niconico. If you are interested in their performances, you can purchase *Blu-ray Disc* from [<i class="fa-solid fa-compact-disc" /> Nijisanji Shop ](https://shop.nijisanji.jp/s/niji/item/detail/NJSJ-026).
-
-:::
-
-<img src="./whoiam.jpg" />
-
-The live was held on Dec. 10, 2020 in KT Zepp Yokohama.
-
-Suisei and Toko finally fulfilled [their dreams back in 2019](/timeline/2019/#_2019-06-08).
-
 ## Setlist
 
 ## Related posts
