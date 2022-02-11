@@ -49,5 +49,3 @@ Tokomachi Wiki is part of *Project Stargazer*.
 Site built with [VuePress](https://v2.vuepress.vuejs.org/zh/), hosted on [Vercel](https://vercel.com/).
 
 <!--Search by [DocSearch](https://docsearch.algolia.com/-->
-
-

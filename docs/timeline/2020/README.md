@@ -11,9 +11,9 @@ next:
 
 # Tokomachi in 2020 (WIP)
 
-## Ensemble Stars !!
+## Ensemble Stars
 
-### Announcement of Ensemble Stars !!
+###
 
 ## 3D Model Announcement
 
@@ -43,7 +43,7 @@ Toko was supposed to be her guardian and watched over her on stream.
 
 ## MUSIC SPACE
 
-![](./youtube/mspe.jpg)
+![MUSIC SPACE](./youtube/mspe.jpg)
 
 [<i class="fa-solid fa-music" /> Hoshimachi Suisei's Music Space](https://www.youtube.com/playlist?list=PLAo9RlHR2tDb_gfVgqd0wKknI7oE8etmV) (Discontinued)
 
@@ -65,7 +65,7 @@ Suisei was on a [<i class="fa-brands fa-twitter" /> one week-long break](https:/
 
 Toko was also surprised to see her since Suisei should have been on break. During this time, Suisei fished and was fished in return by Toko, and she also showed off her *Lightspeed Idol Outfit Change*. It's been a long time since Suisei last played Minecraft, so it seemed like she had already forgotten how to play, however she still managed to act in a funny way and made Toko laugh a lot.
 
-Suisei promoted for her radio program tomorrow since Toko would be the guest. 
+Suisei promoted for her radio program tomorrow since Toko would be the guest.
 
 ::: details The conversation and reactions
 
@@ -83,12 +83,10 @@ Suisei promoted for her radio program tomorrow since Toko would be the guest.
 
 :::
 
-
-
 ### 2020-05-24 \#08
 
 > [<i class="fab fa-youtube" /> MUSIC SPACE #08 (First half)](https://youtu.be/WseyAVH4IlM)
-> 
+>
 > [<i class="fab fa-youtube" /> MUSIC SPACE #08 (Second half)](https://youtu.be/6NZJpD45MOU)
 
 This was the first time Suisei invited a non-Hololive talent to her radio program.
@@ -152,7 +150,7 @@ For their next meal, they quickly decided that it should be [<i class="fa-brands
 
 ::: details Feeling nervous on stage?
 
-A fan letter asked whether there were monsters on the stage (whether they would feel nervous on live concert stage), Toko and Suisei said they are more excited than nervous when seeing the audiences and the glow sticks in their hands. 
+A fan letter asked whether there were monsters on the stage (whether they would feel nervous on live concert stage), Toko and Suisei said they are more excited than nervous when seeing the audiences and the glow sticks in their hands.
 
 Even when there are, it seemed like Toko would *politely eat them up* since she is the *mighty mighty Cerberus*.
 
@@ -160,7 +158,7 @@ Even when there are, it seemed like Toko would *politely eat them up* since she 
 
 ### 2020-08-02 \#18
 
-![](./youtube/20200802_01.jpg)
+![MUSIC SPACE](./youtube/20200802_01.jpg)
 
 > [<i class="fab fa-youtube" /> MUSIC SPACE #18 (First half)](https://youtu.be/qcmOlOpSe_8)
 >
@@ -224,7 +222,7 @@ Suisei also asked the clippers not to clip this because she felt pretty shy and 
 
 ### 2020-09-09
 
-![](./youtube/20200909_01.jpg)
+![Totsumachi](./youtube/20200909_01.jpg)
 
 The Totsumachi (waiting for friends to make a Discord call) was held on Inui Toko's birthday.
 
@@ -316,7 +314,7 @@ And their swapping of greetings or identities became pretty common in their futu
 
 ::: details She never fails me
 
-:tropical_drink: : *What's your recommended content?* 
+:tropical_drink: : *What's your recommended content?*
 
 :comet: : *Can I... say the title?*
 
@@ -344,7 +342,7 @@ And their swapping of greetings or identities became pretty common in their futu
 
 ### 2020-10-26
 
-![](./youtube/whoiam.jpg)
+![whoiam_01](./youtube/whoiam.jpg)
 
 #### Teasing
 
@@ -377,7 +375,7 @@ According to Toko, all guests (Lize Helesta, Ange Katrina, Higuchi Kaede and **H
 
 ### 2020-10-28
 
-![](./youtube/tokomachi_radio_01.jpg)
+![radio](./youtube/tokomachi_radio_01.jpg)
 
 As Toko and Suisei succesfully came over the obstacles between 2 agencies, they decided to take it further and started Tokomachi Radio.
 
@@ -410,7 +408,7 @@ There they also announced that their first cover song MV would be uploaded on Oc
 
 ### 2020-10-31
 
-![](./youtube/20201031_01.jpg)
+![cover](./youtube/20201031_01.jpg)
 
 > [<i class="fab fa-youtube" /> Suisei Channel](https://youtu.be/vhmFj1owmuk)
 
@@ -450,7 +448,7 @@ They enjoyed the recording and wanted to do that for 5000 more times.
 
 ### 2020-12-10
 
-![](./youtube/whoiam_02.jpg)
+![whoiam_02](./youtube/whoiam_02.jpg)
 
 The live was held on Dec. 10, 2020 in KT Zepp Yokohama.
 
@@ -462,7 +460,7 @@ Suisei and Toko finally fulfilled [their dreams back in 2019](/timeline/2019/#_2
 
 ### 2020-12-30
 
-![](./youtube/20201230_01.jpg)
+![fishing](./youtube/20201230_01.jpg)
 
 > [<i class="fab fa-youtube" /> Suisei Channel](https://youtu.be/U5YCqWyIY6Q) , [<i class="fab fa-youtube" /> Inui Toko](https://youtu.be/SyiZD22NVeY)
 

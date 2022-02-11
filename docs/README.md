@@ -21,9 +21,10 @@ This is a Wikipedia-like site to record <span style="color:#e93320; font-weight:
 ## Contact
 
 If there's anything missing or improperly translated, you can
-- Open an issue on [Github](https://github.com/aozaki-kuro/suisei-toko-history/issues/new)
-- Create a Pull Request on [Github](https://github.com/aozaki-kuro/suisei-toko-history)
-- Or even send an anonymous [Marshmallow](https://marshmallow-qa.com/aozaki__)
+
+- <i class="fa-brands fa-github" /> Open an issue on [Github](https://github.com/aozaki-kuro/suisei-toko-history/issues/new)
+- <i class="fa-solid fa-code-pull-request" /> Create a Pull Request on [Github](https://github.com/aozaki-kuro/suisei-toko-history)
+- <i class="fa-solid fa-ice-cream" /> Or even send an anonymous [Marshmallow](https://marshmallow-qa.com/aozaki__)
 
 ## Changelog
 

@@ -134,7 +134,6 @@ Suisei reached 20k sub and it was her goal for 2019.
 
 Toko congratulated and mentioned they want to dance in full 3D one day.
 
-
 > [<i class="fa-brands fa-twitter" /> Original Tweet](https://twitter.com/suisei_hosimati/status/1154679477605036034)
 
 ::: details Tweet Translation
@@ -156,7 +155,7 @@ Toko congratulated and mentioned they want to dance in full 3D one day.
 
 Full event name [Virtual to LIVE in 両国国技館 2019](https://event.nijisanji.app/vtlryougoku2019/)
 
-This was the first time for Inui Toko to attend a full 3D live, where she sang Chiisaki Mono (小さきもの). 
+This was the first time for Inui Toko to attend a full 3D live, where she sang Chiisaki Mono (小さきもの).
 
 According to Suisei's YouTube after talk stream (privated), Suisei watched the whole live and was astonished by Toko's performance.
 

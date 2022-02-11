@@ -29,6 +29,7 @@ Suisei and Toko finally fulfilled [their dreams back in 2019](/timeline/2019/#_2
 ![whoiam_02](./whoiam_02.jpg)
 
 Suisei appeared on stage as the second guest, singed 2 songs with Toko.
+
 - BREAKTHROUGH, Trickstar (Ensemble Stars!!)
 - Tsubasa Moratorium, ALKALOID (Ensemble Stars!!)
 
@@ -37,6 +38,7 @@ Suisei appeared on stage as the second guest, singed 2 songs with Toko.
 Suisei was very excited seeing the live guests since she had been on virtual live stages.
 
 MC1:
+
 - Suisei is not affiliated to Nijisanji.
 - They bought the same size of water (different from normal), fried chicken and meat steamed buns without discussion.
 - There might be already soul-level connections between them.
@@ -45,6 +47,7 @@ MC1:
 - Toko did gacha for Suisei and got the target character.
 
 MC2:
+
 - Toko is exhausted after singing and dancing with Suisei for 2 songs.
 - Toko admitted that she's over 200 years old while Suisei is eternal 18 years and was totally alright.
 - They thought it would be great to dance while singing, but they got no professional dancing tutor so they have to watch the MV over and over again to remember the dance step which cost them a long long time.
@@ -60,6 +63,7 @@ This was a partially paywalled stream on Nijisanji Niconico Fanclub.
 ![whoiam_03](./whoiam_03.jpg)
 
 Toko talking about Suisei:
+
 - Toko spent most time before live rehersaling with Suisei, even longer than Lize or Ange.
 - Toko and Suisei chose the songs they actually singed before in Karaoke.
 
@@ -68,6 +72,7 @@ Toko talking about Suisei:
 > [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/i8UbpU6wf1U?t=407)
 
 Toko also talked about Suisei
+
 - Toko knew it would be difficult to invite Suisei since they are affiliated to different agencies.
 - Toko didn't give up on inviting Suisei and she did it. This might be the part influenced by Suisei.
 - Toko thought Suisei is a very good friend, she also admire Suisei a lot.
