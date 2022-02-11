@@ -11,9 +11,9 @@ next:
 
 # Tokomachi in 2020 (WIP)
 
-## Ensemble Stars \!\!
+## Ensemble Stars !!
 
-### Announcement of Ensemble Stars \!\!
+### Announcement of Ensemble Stars !!
 
 ## 3D Model Announcement
 
@@ -185,15 +185,13 @@ In the talking part, they did a simple "psychological test".
 
 ::: details "Psychological test"
 
-Q: The color of the cup that you would give to your friend when she's paying a visit to your house. The color you choose might indicates the relationship between you and your friend. `A. Green`, `B. Orange`, `C. Blue`, `D. Pink`
+Q: The color of the cup that you would give to your friend when she's paying a visit to your house. The color you choose might indicates the relationship between you and your friend.
 
-Toko selected `C. Blue`
+`A. Green`, `B. Orange`, `C. Blue`, `D. Pink`
 
-Suisei selected `D. Pink`
+Toko selected `C. Blue` : If there are troubles, you would help her out and she would do the same. When you are in trouble, you often ask for help from her don't you? And when she's in trouble you would help her out without hesitation.
 
-`C. Blue` : If there are troubles, you would help her out and she would do the same. When you are in trouble, you often ask for help from her don't you? And when she's in trouble you would help her out without hesitation.
-
-`D. Pink` : You often share happiness with her. Did you often go shopping or having meals with her? Sometimes you share new info or go to new scenic spots with each other. She always can cheer you up.
+Suisei selected `D. Pink` : You often share happiness with her. Did you often go shopping or having meals with her? Sometimes you share new info or go to new scenic spots with each other. She always can cheer you up.
 
 Toko and Suisei agreed on this is pretty accurate and this is *teetee*.
 
@@ -213,11 +211,12 @@ The songs they singed in this episode were
 Suisei talked about the MUSIC RADIO episode in the own chatting stream.
 
 And the reason why Suisei really likes Toko
-- Toko is always interesting and positive.
+
+- Toko was always interesting and positive.
 - Toko can make Suisei laugh a lot.
-- Toko often joke on Suisei and the jokes won't be over-the-line.
-- Beside jokes, Toko also praise and support Suisei a lot.
-- Mutual respect. Even they have known each other for more than a year and became pretty close friends, they can still keep a proper distance and won't let each other feel uncomfortable.
+- Toko often joked on Suisei and the jokes won't be over-the-line.
+- Beside jokes, Toko also praised and supported Suisei a lot.
+- Mutual respect. Even they had known each other for more than a year and became pretty close friends, they can still keep a proper distance and won't let each other feel uncomfortable.
 
 Suisei also asked the clippers not to clip this because she felt pretty shy and worried about if Toko would see this. Well, the clip still got noticed by Toko and [something even more interesting](/timeline/2021/) happened a year later.
 
@@ -485,7 +484,7 @@ They swapped their greeting *again* at the start.
 
 :tropical_drink: : *We are?*
 
-:comet: & :tropical_drink: : *To, Tokomachi desu!* 
+:comet: & :tropical_drink: : *To, Tokomachi desu!*
 
 :tropical_drink: : *Well go to sleep.* (In Minecraft)
 
@@ -503,7 +502,25 @@ And in 2020
 
 - The time Suisei spent with Toko was longer than the others, so did Toko.
 - *Our friendship is 100 deeper than last year!*
+- They were very happy they were able to cheer people up with lives and streams.
+- They found out there were so many things to want to do together and it's more interesting to have it done as Tokomachi.
+- Their interest, favorite food, their goals were nearly the same.
 - For Toko, Suisei was the one spending the least time deciding what to eat.
 - Althought Suisei's choice for meal was limited (Barbecue, Familiy restaurant or Shabushabu).
 - Suisei loves to wear high heels when she goes shopping with Toko, but often got tipped over. Toko is a little bit higher than Suisei, so she often walks a little bit behind Suisei and watches over her to prevent Suisei actually got tipped over.
-- Their interest, favorite food, their goals were nearly the same.
+- Suisei often do some funny moves that would make Toko laugh.
+- Both Suisei and Toko were very afriad of Enderman.
+
+Suisei was fishing and Toko watched over Suisei throughout the whole stream.
+
+## Summary of 2020
+
+They year 2020 was a big turning point for both Suisei and Toko.
+
+Their friendship was deepened and their dreams began to realize:
+
+- Their own radio program
+- (EnSta) cover songs
+- Singing and dancing on the same live stage
+
+And they are going to take this further in 2021.
