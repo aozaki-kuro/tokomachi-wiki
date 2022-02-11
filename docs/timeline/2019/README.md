@@ -15,7 +15,7 @@ On May 19th, 2019, Hoshimachi Suisei announced that she would graduate from indi
 
 The first ever Tweet contact was Toko congratulating Suisei for entering INNK, hoping her songs can reach out to the whole world.
 
-> [<i class="fa-brands fa-twitter" /> Original Tweet ](https://twitter.com/suisei_hosimati/status/1130054368886050816)
+> [<i class="fa-brands fa-twitter" /> Original Tweet](https://twitter.com/suisei_hosimati/status/1130054368886050816)
 
 ::: details Tweet Translation
 
@@ -34,7 +34,7 @@ Toko reached 60k subscribers and Suisei congratuated her on this.
 
 They "kissed" a lot.
 
-> [<i class="fa-brands fa-twitter" /> Original Tweet ](https://twitter.com/suisei_hosimati/status/1130814178250317825)
+> [<i class="fa-brands fa-twitter" /> Original Tweet](https://twitter.com/suisei_hosimati/status/1130814178250317825)
 
 ::: details Tweet Translation
 
@@ -48,7 +48,7 @@ They "kissed" a lot.
 Note:
 
 - The "signing" context is blurry but could be related to Ensemble Stars events.
-- "3 of us" probably referes to [<i class="fab fa-youtube" /> Hiro Minamori (graduated) ](https://www.youtube.com/channel/UCuGMkxJA_icuiF01u8f3Y2Q)
+- "3 of us" probably referes to [<i class="fab fa-youtube" /> Hiro Minamori (graduated)](https://www.youtube.com/channel/UCuGMkxJA_icuiF01u8f3Y2Q)
 
 :::
 
@@ -58,7 +58,7 @@ Hoshimachi Suisei got the 8th place on Daily trending (2019-06-07), tweeted by T
 
 Toko replied and they again "kissed" a lot.
 
-> [<i class="fa-brands fa-twitter" /> Original Tweet ](https://twitter.com/suisei_hosimati/status/1136678053243834370)
+> [<i class="fa-brands fa-twitter" /> Original Tweet](https://twitter.com/suisei_hosimati/status/1136678053243834370)
 
 ::: details Tweet Translation
 
@@ -77,9 +77,9 @@ Suisei reached 11,111 YouTube Channel sub, Toko congratulated her.
 
 They also mentioned they want to sing together on live stage one day.
 
-They realised their dream on Dec 10th, 2020 [<i class="fa-solid fa-music" /> Inui Toko 1st solo live "who i am" ](/topics/music/Inui_toko_whoiam/).
+They realised their dream on Dec 10th, 2020 [<i class="fa-solid fa-music" /> Inui Toko 1st solo live "who i am"](/topics/music/Inui_toko_whoiam/).
 
-> [<i class="fa-brands fa-twitter" /> Original Tweet ](https://twitter.com/suisei_hosimati/status/1137100337465085952)
+> [<i class="fa-brands fa-twitter" /> Original Tweet](https://twitter.com/suisei_hosimati/status/1137100337465085952)
 
 ::: details Tweet Translation
 
@@ -108,9 +108,9 @@ The first time the unit name Tokomachi (とこまち) appeared is on the Minecra
 
 This is also the first ever collab of Tokomachi.
 
-<img src="./youtube/20190626_01.jpg" />
+![](./youtube/20190626_01.jpg)
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream ](https://youtu.be/Kr1jxq0ms00)
+> [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/Kr1jxq0ms00)
 
 The naming logic is:
 
@@ -119,11 +119,11 @@ The naming logic is:
 </p>
 
 ::: tip Funny Episodes
-[13:38 ](https://youtu.be/Kr1jxq0ms00&t=818s) Suisei and Toko were amused when seeing a wolf (dog) trying to get its fur dry
+[13:38](https://youtu.be/Kr1jxq0ms00&t=818s) Suisei and Toko were amused when seeing a wolf (dog) trying to get its fur dry
 
-[14:23 ](https://youtu.be/Kr1jxq0ms00&t=863s) Suisei asked Toko to do the same and Toko followed. Toko actually doesn't like being called a *dog* but she still followed.
+[14:23](https://youtu.be/Kr1jxq0ms00&t=863s) Suisei asked Toko to do the same and Toko followed. Toko actually doesn't like being called a *dog* but she still followed.
 
-[50:25 ](https://youtu.be/Kr1jxq0ms00&t=3025s) Tokomachi Opera
+[50:25](https://youtu.be/Kr1jxq0ms00&t=3025s) Tokomachi Opera
 :::
 
 ## 20k Sub Tweet
@@ -135,7 +135,7 @@ Suisei reached 20k sub and it was her goal for 2019.
 Toko congratulated and mentioned they want to dance in full 3D one day.
 
 
-> [<i class="fa-brands fa-twitter" /> Original Tweet ](https://twitter.com/suisei_hosimati/status/1154679477605036034)
+> [<i class="fa-brands fa-twitter" /> Original Tweet](https://twitter.com/suisei_hosimati/status/1154679477605036034)
 
 ::: details Tweet Translation
 
@@ -152,11 +152,9 @@ Toko congratulated and mentioned they want to dance in full 3D one day.
 
 ### Virtual to Live 2019
 
-<br>
+![](./youtube/vtl.jpg)
 
-<img src="./youtube/vtl.jpg" />
-
-Full event name [Virtual to LIVE in 両国国技館 2019 ](https://event.nijisanji.app/vtlryougoku2019/)
+Full event name [Virtual to LIVE in 両国国技館 2019](https://event.nijisanji.app/vtlryougoku2019/)
 
 This was the first time for Inui Toko to attend a full 3D live, where she sang Chiisaki Mono (小さきもの). 
 
@@ -164,18 +162,17 @@ According to Suisei's YouTube after talk stream (privated), Suisei watched the w
 
 ### Non-Stop Story
 
-<br>
+![](./youtube/nss.jpg)
 
-<img src="./youtube/nss.jpg" />
-
-Full event name [hololive 1st fes. ノンストップ・ストーリー ](https://www.nonstop.hololive.tv/)
+Full event name [hololive 1st fes. ノンストップ・ストーリー](https://www.nonstop.hololive.tv/)
 
 This was the major turning point for Suisei.
 
-Her original plan was to sing [<i class="fa-solid fa-meteor" /> *Comet* ](https://youtu.be/3cqV5BKJHyk) there. But after seeing Toko's live performance, she changed her mind and went for more *impact*, thus the song she chose to sing on stage was [<i class="fa-solid fa-meteor" /> *Tenkyuu, Suisei wa Yoru wo Mataide* ](https://youtu.be/zLak0dxBKpM). The song and her performance was so impressive that her name was on Twitter Trend for a pretty long time.
+Her original plan was to sing [<i class="fa-solid fa-meteor" /> *Comet*](https://youtu.be/3cqV5BKJHyk) there. But after seeing Toko's live performance, she changed her mind and went for more *impact*, thus the song she chose to sing on stage was [<i class="fa-solid fa-meteor" /> *Tenkyuu, Suisei wa Yoru wo Mataide*](https://youtu.be/zLak0dxBKpM). The song and her performance was so impressive that her name was on Twitter Trend for a pretty long time.
 
-<img src="./youtube/nss_suisei_01.jpg" />
-<img src="./youtube/nss_suisei_02.jpg" />
+![](./youtube/nss_suisei_01.jpg)
+
+![](./youtube/nss_suisei_02.jpg)
 
 She gained popularity after the event rapidly and started trending.
 
@@ -183,11 +180,11 @@ She gained popularity after the event rapidly and started trending.
 
 <br>
 
-<img src="./youtube/nss_toko_01.jpg" />
+![](./youtube/nss_toko_01.jpg)
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream ](https://youtu.be/CJD2mkpSkJs&t=4119s)
+> [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/CJD2mkpSkJs&t=4119s)
 
-According to Toko, the most impressive part was Suisei's [<i class="fa-solid fa-meteor" /> *Tenkyuu, Suisei wa Yoru wo Mataide* ](https://youtu.be/zLak0dxBKpM) and she was so moved that she cried. She said she became Suisei's fangirl and send LINE messages to Suisei right after watching the live.
+According to Toko, the most impressive part was Suisei's [<i class="fa-solid fa-meteor" /> *Tenkyuu, Suisei wa Yoru wo Mataide*](https://youtu.be/zLak0dxBKpM) and she was so moved that she cried. She said she became Suisei's fangirl and send LINE messages to Suisei right after watching the live.
 
 Toko was also very happy to know her performance inspired Suisei.
 
@@ -201,7 +198,7 @@ Toko was also very happy to know her performance inspired Suisei.
 
 Suisei appeared in the stream chat later when Toko was talking about Ensemble Stars. Toko said *Hoshimachi! Sui-chan! Here comes our beloved singer* and was pretty shy and unsure whether Suisei heard her praising Suisei's performance.
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream ](https://youtu.be/CJD2mkpSkJs?t=5810)
+> [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/CJD2mkpSkJs?t=5810)
 
 ::: details Talks
 

@@ -11,9 +11,9 @@ next:
 
 # Tokomachi in 2020 (WIP)
 
-## Ensemble Stars !!
+## Ensemble Stars \!\!
 
-### Announcement of Ensemble Stars !!
+### Announcement of Ensemble Stars \!\!
 
 ## 3D Model Announcement
 
@@ -43,10 +43,9 @@ Toko was supposed to be her guardian and watched over her on stream.
 
 ## MUSIC SPACE
 
-<br>
-<img src="./youtube/mspe.jpg" />
+![](./youtube/mspe.jpg)
 
-[<i class="fa-solid fa-music" /> Hoshimachi Suisei's Music Space ](https://www.youtube.com/playlist?list=PLAo9RlHR2tDb_gfVgqd0wKknI7oE8etmV) (Discontinued)
+[<i class="fa-solid fa-music" /> Hoshimachi Suisei's Music Space](https://www.youtube.com/playlist?list=PLAo9RlHR2tDb_gfVgqd0wKknI7oE8etmV) (Discontinued)
 
 This is Hoshimachi Suisei's first ever radio program. The program focuses on music, and singing cover songs was one of its major segments. During it's run, Suisei invited a lot of Vtubers, singers and music-related talents to the program.
 
@@ -60,9 +59,9 @@ The program started on April 4th, 2020 and was discontinued on March 28th, 2021 
 
 ### 2020-05-23
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream ](https://youtu.be/8b7WYQ2vvSA&t=4873s)
+> [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/8b7WYQ2vvSA&t=4873s)
 
-Suisei was on a [<i class="fa-brands fa-twitter" /> one week-long break ](https://twitter.com/suisei_hosimati/status/1262763428931702790) but she appeared in Inui Toko's Minecraft Server while she was on stream unexpectedly. It was an informal collab, so Suisei had her mic off and only communicated via Minecraft chat.
+Suisei was on a [<i class="fa-brands fa-twitter" /> one week-long break](https://twitter.com/suisei_hosimati/status/1262763428931702790) but she appeared in Inui Toko's Minecraft Server while she was on stream unexpectedly. It was an informal collab, so Suisei had her mic off and only communicated via Minecraft chat.
 
 Toko was also surprised to see her since Suisei should have been on break. During this time, Suisei fished and was fished in return by Toko, and she also showed off her *Lightspeed Idol Outfit Change*. It's been a long time since Suisei last played Minecraft, so it seemed like she had already forgotten how to play, however she still managed to act in a funny way and made Toko laugh a lot.
 
@@ -88,9 +87,9 @@ Suisei promoted for her radio program tomorrow since Toko would be the guest.
 
 ### 2020-05-24 \#08
 
-> [<i class="fab fa-youtube" /> MUSIC SPACE #08 (First half) ](https://youtu.be/WseyAVH4IlM)
+> [<i class="fab fa-youtube" /> MUSIC SPACE #08 (First half)](https://youtu.be/WseyAVH4IlM)
 > 
-> [<i class="fab fa-youtube" /> MUSIC SPACE #08 (Second half) ](https://youtu.be/6NZJpD45MOU)
+> [<i class="fab fa-youtube" /> MUSIC SPACE #08 (Second half)](https://youtu.be/6NZJpD45MOU)
 
 This was the first time Suisei invited a non-Hololive talent to her radio program.
 
@@ -110,8 +109,8 @@ They mentioned the place they want to go together was *Tokyo Disney Land*, and w
 
 :comet: : *First time hearing (hatsu mimi)!*
 
-
 Note:
+
 - *Don't* even try to call Toko a dog, she *doesn't* like it.
 - Cerberus ears = Keruberus Mimi
 
@@ -119,9 +118,9 @@ Note:
 
 ### 2020-05-31 \#09
 
-> [<i class="fab fa-youtube" /> MUSIC SPACE #09 (First half) ](https://youtu.be/-0ZKq0CvsPU)
-> 
-> [<i class="fab fa-youtube" /> MUSIC SPACE #09 (Second half) ](https://youtu.be/bmNZg5LzkLI)
+> [<i class="fab fa-youtube" /> MUSIC SPACE #09 (First half)](https://youtu.be/-0ZKq0CvsPU)
+>
+> [<i class="fab fa-youtube" /> MUSIC SPACE #09 (Second half)](https://youtu.be/bmNZg5LzkLI)
 
 ::: details Live performance
 
@@ -147,7 +146,7 @@ Toko also has an elder sister who she affectionately calls Aneberos, and that sh
 
 Suisei and Toko often go for a meal (mainly Yakiniku) in 2019. Suisei always decided on the food pretty fast since she's mainly interested in meat and beef.
 
-For their next meal, they quickly decided that it should be [<i class="fa-brands fa-wikipedia-w" /> Shabushabu ](https://en.wikipedia.org/wiki/Shabu-shabu)
+For their next meal, they quickly decided that it should be [<i class="fa-brands fa-wikipedia-w" /> Shabushabu](https://en.wikipedia.org/wiki/Shabu-shabu)
 
 :::
 
@@ -161,26 +160,26 @@ Even when there are, it seemed like Toko would *politely eat them up* since she 
 
 ### 2020-08-02 \#18
 
-<br>
-<img src="./youtube/20200802_01.jpg" />
+![](./youtube/20200802_01.jpg)
 
-> [<i class="fab fa-youtube" /> MUSIC SPACE #18 (First half) ](https://youtu.be/qcmOlOpSe_8)
-> 
-> [<i class="fab fa-youtube" /> MUSIC SPACE #18 (Second half) ](https://youtu.be/lDT4Go85pMk)
+> [<i class="fab fa-youtube" /> MUSIC SPACE #18 (First half)](https://youtu.be/qcmOlOpSe_8)
+>
+> [<i class="fab fa-youtube" /> MUSIC SPACE #18 (Second half)](https://youtu.be/lDT4Go85pMk)
 
 This is the first time Suisei and Toko being able to sing together on air. Since Bunka Housou is able to solve the copyright, they chose not only Yorushika, but also EnSta songs.
 
 EnSta / Happy Element is well-known for a very strict copyright guideline.
 
 The songs they singed in this episode were
-- [<i class="fab fa-youtube" /> Hana ni Bourei, Yorushika ](https://youtu.be/dgOe9gVype0)
-- [<i class="fab fa-youtube" /> Tryst of Stars, Fine (Ensemble Stars!) ](https://youtu.be/-ugKPaaWbZ8)
+
+- [<i class="fab fa-youtube" /> Hana ni Bourei, Yorushika](https://youtu.be/dgOe9gVype0)
+- [<i class="fab fa-youtube" /> Tryst of Stars, Fine (Ensemble Stars!)](https://youtu.be/-ugKPaaWbZ8)
 
 ### 2020-08-09 \#19
 
-> [<i class="fab fa-youtube" /> MUSIC SPACE #19 (First half) ](https://youtu.be/pBofIN_HFeM)
-> 
-> [<i class="fab fa-youtube" /> MUSIC SPACE #19 (Second half) ](https://youtu.be/6JGN4C_YpFo)
+> [<i class="fab fa-youtube" /> MUSIC SPACE #19 (First half)](https://youtu.be/pBofIN_HFeM)
+>
+> [<i class="fab fa-youtube" /> MUSIC SPACE #19 (Second half)](https://youtu.be/6JGN4C_YpFo)
 
 In the talking part, they did a simple "psychological test".
 
@@ -203,12 +202,13 @@ Toko and Suisei agreed on this is pretty accurate and this is *teetee*.
 Suisei mentioned every time she talked with Toko end up in laughing a lot with Toko. Suisei really love Toko's jokes and topics.
 
 The songs they singed in this episode were
-- [<i class="fab fa-youtube" /> Kaze wa Yokoku naku Fuku, Walküre ](https://youtu.be/ZLxHpZv8wLA)
-- [<i class="fab fa-youtube" /> Mémoire Antique, Valkyrie (Ensemble Stars!) ](https://youtu.be/Zo24u1KBB0U)
+
+- [<i class="fab fa-youtube" /> Kaze wa Yokoku naku Fuku, Walküre](https://youtu.be/ZLxHpZv8wLA)
+- [<i class="fab fa-youtube" /> Mémoire Antique, Valkyrie (Ensemble Stars!)](https://youtu.be/Zo24u1KBB0U)
 
 ### Reason why Suisei likes Toko
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream ](https://youtu.be/I58nqKO2fak&t=2547s)
+> [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/I58nqKO2fak&t=2547s)
 
 Suisei talked about the MUSIC RADIO episode in the own chatting stream.
 
@@ -225,8 +225,7 @@ Suisei also asked the clippers not to clip this because she felt pretty shy and 
 
 ### 2020-09-09
 
-<br>
-<img src="./youtube/20200909_01.jpg" />
+![](./youtube/20200909_01.jpg)
 
 The Totsumachi (waiting for friends to make a Discord call) was held on Inui Toko's birthday.
 
@@ -234,7 +233,7 @@ Suisei called in and said *happy birthday* to Toko, and they also talked about a
 
 #### First impression
 
-When talking about *How Suisei knew Toko*, Suisei said it was her indie days, someone (refers to [<i class="fab fa-youtube" /> Hiro Minamori (graduated) ](https://www.youtube.com/channel/UCuGMkxJA_icuiF01u8f3Y2Q)) introduced Toko to Suisei.
+When talking about *How Suisei knew Toko*, Suisei said it was her indie days, someone (refers to [<i class="fab fa-youtube" /> Hiro Minamori (graduated)](https://www.youtube.com/channel/UCuGMkxJA_icuiF01u8f3Y2Q)) introduced Toko to Suisei.
 
 Suisei's first impression of Toko was *Huh that traditional Japanese style Nijisanji girl!*
 
@@ -346,14 +345,13 @@ And their swapping of greetings or identities became pretty common in their futu
 
 ### 2020-10-26
 
-<br>
-<img src="./youtube/whoiam.jpg" />
+![](./youtube/whoiam.jpg)
 
 #### Teasing
 
 On October 26th, 2020 Suisei tweeted and mentioned she would have an announcement but not on her own channel.
 
-> [<i class="fa-brands fa-twitter" /> Original Tweet 1 ](https://twitter.com/suisei_hosimati/status/1320666223667933185) , [<i class="fa-brands fa-twitter" /> Original Tweet 2 ](https://twitter.com/suisei_hosimati/status/1320706722135035905)
+> [<i class="fa-brands fa-twitter" /> Original Tweet 1](https://twitter.com/suisei_hosimati/status/1320666223667933185) , [<i class="fa-brands fa-twitter" /> Original Tweet 2](https://twitter.com/suisei_hosimati/status/1320706722135035905)
 
 ::: details Tweet Translation
 
@@ -366,7 +364,7 @@ On October 26th, 2020 Suisei tweeted and mentioned she would have an announcemen
 
 That night 20:00 JST Inui Toko started her Karaoke stream and the title said *I got some announcements*.
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream ](https://youtu.be/Q1t_vUj-fJQ&t=2068s)
+> [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/Q1t_vUj-fJQ&t=2068s)
 
 Her first announcement was *her first original song was on its way*.
 
@@ -380,8 +378,7 @@ According to Toko, all guests (Lize Helesta, Ange Katrina, Higuchi Kaede and **H
 
 ### 2020-10-28
 
-<br>
-<img src="./youtube/tokomachi_radio_01.jpg" />
+![](./youtube/tokomachi_radio_01.jpg)
 
 As Toko and Suisei succesfully came over the obstacles between 2 agencies, they decided to take it further and started Tokomachi Radio.
 
@@ -389,7 +386,7 @@ Tokomachi Radio is a monthly radio program, scheduled on the 3rd Wednesday of ev
 
 Although the radio wasn't actually always on time, they successfully made a perfect run in the first year.
 
-> [<i class="fa-brands fa-twitter" /> Original Tweet ](https://twitter.com/suisei_hosimati/status/1321034300700069889)
+> [<i class="fa-brands fa-twitter" /> Original Tweet](https://twitter.com/suisei_hosimati/status/1321034300700069889)
 
 ::: details Tweet Translation
 
@@ -398,25 +395,25 @@ Although the radio wasn't actually always on time, they successfully made a perf
 
 :::
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream ](https://youtu.be/6WYpnMNcA_8)
+> [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/6WYpnMNcA_8)
 
 Tokomachi's dreams
+
 - Radio program
 - Duo original songs
 - Duo concert lives
 
 There they also announced that their first cover song MV would be uploaded on Oct. 31st, 2020.
 
-*For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: Tokomachi Radio ](/topics/tokomachi_radio_s01/).*
+*For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: Tokomachi Radio](/topics/tokomachi_radio_s01/).*
 
 ## First Tokomachi Cover MV
 
 ### 2020-10-31
 
-<br>
-<img src="./youtube/20201031_01.jpg" />
+![](./youtube/20201031_01.jpg)
 
-> [<i class="fab fa-youtube" /> Suisei Channel ](https://youtu.be/vhmFj1owmuk)
+> [<i class="fab fa-youtube" /> Suisei Channel](https://youtu.be/vhmFj1owmuk)
 
 This was the first Tokomachi cover song MV uploaded to YouTube channel.
 
@@ -426,7 +423,7 @@ According to the comments, the song fits their image - cute but also sometimes b
 
 The song reached 1m replay in approximately a month. Considering EnSta is a rather unfamiliar genre for both Suisei and Toko's audiences, this is a pretty impressive record back in late 2020.
 
-> [<i class="fab fa-youtube" /> Watchalong Stream ](https://youtu.be/tYFl1QqQjq8)
+> [<i class="fab fa-youtube" /> Watchalong Stream](https://youtu.be/tYFl1QqQjq8)
 
 They also had a watchalong stream. Since there were no latency when they shouted out *Kyou mo kawaii!* so this is highly possible an off collab.
 
@@ -454,18 +451,59 @@ They enjoyed the recording and wanted to do that for 5000 more times.
 
 ### 2020-12-10
 
-<br>
-<img src="./youtube/whoiam_02.jpg" />
+![](./youtube/whoiam_02.jpg)
 
 The live was held on Dec. 10, 2020 in KT Zepp Yokohama.
 
 Suisei and Toko finally fulfilled [their dreams back in 2019](/timeline/2019/#_2019-06-08).
 
-*For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: "who i am" ](/topics/music/Inui_toko_whoiam/).*
+*For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: "who i am"](/topics/music/Inui_toko_whoiam/).*
 
 ## New year
 
 ### 2020-12-30
 
-> [<i class="fab fa-youtube" /> Suisei Channel ](https://youtu.be/U5YCqWyIY6Q) , [<i class="fab fa-youtube" /> Inui Toko ](https://youtu.be/SyiZD22NVeY)
+![](./youtube/20201230_01.jpg)
 
+> [<i class="fab fa-youtube" /> Suisei Channel](https://youtu.be/U5YCqWyIY6Q) , [<i class="fab fa-youtube" /> Inui Toko](https://youtu.be/SyiZD22NVeY)
+
+Since Dec. 31st both agencies has their own official celebration program, 30th was considered the last free time for the talents to stream in their own channel.
+
+Suisei and Toko decided to stream together for the night and look back on the past whole year.
+
+They swapped their greeting *again* at the start.
+
+::: details Greetings ( 02:00 - )
+
+:comet: : *Welcome! It's your official mighty mighty Idol from Hololive, Hoshimachi Suisei.*
+
+:tropical_drink: : *Eh, uh? Emmmmm...*
+
+:comet: : *What's wrong?*
+
+:tropical_drink: : *Welcome! Eh? It's your shooting star Cerberus... Inui Toko.*
+
+:tropical_drink: : *We are?*
+
+:comet: & :tropical_drink: : *To, Tokomachi desu!* 
+
+:tropical_drink: : *Well go to sleep.* (In Minecraft)
+
+:::
+
+Toko thought she started her stream but it turned out to be no. She noticed something's not wrong when seeing the audiences are playing around with emotes.
+
+After that they greeted again with greetings swapped *again*.
+
+The Minecraft server was Inui Kingdom, Suisei also took her and Toko's bed to the hut beside the lake.
+
+To conclude 2020, Suisei chose *Hon* (奔, Dash), Toko chose *Ai* (愛, Love).
+
+And in 2020
+
+- The time Suisei spent with Toko was longer than the others, so did Toko.
+- *Our friendship is 100 deeper than last year!*
+- For Toko, Suisei was the one spending the least time deciding what to eat.
+- Althought Suisei's choice for meal was limited (Barbecue, Familiy restaurant or Shabushabu).
+- Suisei loves to wear high heels when she goes shopping with Toko, but often got tipped over. Toko is a little bit higher than Suisei, so she often walks a little bit behind Suisei and watches over her to prevent Suisei actually got tipped over.
+- Their interest, favorite food, their goals were nearly the same.

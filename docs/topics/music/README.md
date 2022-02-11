@@ -12,7 +12,7 @@ next:
 
 ### Inui Toko 1st Solo Live "who i am"
 
-・ [<i class="fa-solid fa-microphone-lines" /> *Topics: "who i am"* ](/topics/music/Inui_toko_whoiam/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
+・ [<i class="fa-solid fa-microphone-lines" /> *Topics: "who i am"*](/topics/music/Inui_toko_whoiam/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
 
 ### Space for Virtual GHOST
 

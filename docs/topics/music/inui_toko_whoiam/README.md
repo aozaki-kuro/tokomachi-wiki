@@ -13,11 +13,11 @@ next:
 
 ::: warning Paid Event
 
-This is a paid live, originally streamed on Niconico. If you are interested in their performances, you can purchase *Blu-ray Disc* from [<i class="fa-solid fa-compact-disc" /> Nijisanji Shop ](https://shop.nijisanji.jp/s/niji/item/detail/NJSJ-026).
+This is a paid live, originally streamed on Niconico. If you are interested in their performances, you can purchase *Blu-ray Disc* from [<i class="fa-solid fa-compact-disc" /> Nijisanji Shop](https://shop.nijisanji.jp/s/niji/item/detail/NJSJ-026).
 
 :::
 
-<img src="./whoiam.jpg" />
+![whoiam](./whoiam.jpg)
 
 The live was held on Dec. 10, 2020 in KT Zepp Yokohama.
 
@@ -26,7 +26,7 @@ Suisei and Toko finally fulfilled [their dreams back in 2019](/timeline/2019/#_2
 ## Setlist
 
 <br>
-<img src="./whoiam_02.jpg" />
+![whoiam_02](./whoiam_02.jpg)
 
 Suisei appeared on stage as the second guest, singed 2 songs with Toko.
 - BREAKTHROUGH, Trickstar (Ensemble Stars!!)
@@ -57,7 +57,7 @@ This was a partially paywalled stream on Nijisanji Niconico Fanclub.
 
 :::
 
-<img src="./whoiam_03.jpg" />
+![whoiam_03](./whoiam_03.jpg)
 
 Toko talking about Suisei:
 - Toko spent most time before live rehersaling with Suisei, even longer than Lize or Ange.
@@ -65,7 +65,7 @@ Toko talking about Suisei:
 
 ## Toko's After talk
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream ](https://youtu.be/i8UbpU6wf1U?t=407)
+> [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/i8UbpU6wf1U?t=407)
 
 Toko also talked about Suisei
 - Toko knew it would be difficult to invite Suisei since they are affiliated to different agencies.
@@ -78,6 +78,6 @@ Toko also talked about Suisei
 
 ## Related posts
 
-・ [<i class="fa-solid fa-calendar-days" /> *Timeline: Tokomachi in 2020* ](/timeline/2020/#inui-toko-1st-solo-live-who-i-am) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
+・ [<i class="fa-solid fa-calendar-days" /> *Timeline: Tokomachi in 2020*](/timeline/2020/#inui-toko-1st-solo-live-who-i-am) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
 
-・ [<i class="fa-solid fa-microphone-lines" /> *Topics: Tokomachi Music* ](/topics/music/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
+・ [<i class="fa-solid fa-microphone-lines" /> *Topics: Tokomachi Music*](/topics/music/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
