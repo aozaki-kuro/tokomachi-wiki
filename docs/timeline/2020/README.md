@@ -173,8 +173,8 @@ This is the first time Suisei and Toko being able to sing together on air. Since
 EnSta / Happy Element is well-known for a very strict copyright guideline.
 
 The songs they singed in this episode were
-- [<i class="fab fa-youtube" /> Hana ni Bourei, Yorushika ](https://www.youtube.com/watch?v=dgOe9gVype0)
-- [<i class="fab fa-youtube" /> Tryst of Stars, Fine (Ensemble Stars!) ](https://www.youtube.com/watch?v=-ugKPaaWbZ8)
+- [<i class="fab fa-youtube" /> Hana ni Bourei, Yorushika ](https://youtu.be/dgOe9gVype0)
+- [<i class="fab fa-youtube" /> Tryst of Stars, Fine (Ensemble Stars!) ](https://youtu.be/-ugKPaaWbZ8)
 
 ### 2020-08-09 \#19
 
@@ -203,12 +203,12 @@ Toko and Suisei agreed on this is pretty accurate and this is *teetee*.
 Suisei mentioned every time she talked with Toko end up in laughing a lot with Toko. Suisei really love Toko's jokes and topics.
 
 The songs they singed in this episode were
-- [<i class="fab fa-youtube" /> Kaze wa Yokoku naku Fuku, Walküre ](https://www.youtube.com/watch?v=ZLxHpZv8wLA)
-- [<i class="fab fa-youtube" /> Mémoire Antique, Valkyrie (Ensemble Stars!) ](https://www.youtube.com/watch?v=Zo24u1KBB0U)
+- [<i class="fab fa-youtube" /> Kaze wa Yokoku naku Fuku, Walküre ](https://youtu.be/ZLxHpZv8wLA)
+- [<i class="fab fa-youtube" /> Mémoire Antique, Valkyrie (Ensemble Stars!) ](https://youtu.be/Zo24u1KBB0U)
 
 ### Reason why Suisei likes Toko
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream ](https://www.youtube.com/watch?v=I58nqKO2fak&t=2547s)
+> [<i class="fab fa-youtube" /> Original YouTube Stream ](https://youtu.be/I58nqKO2fak&t=2547s)
 
 Suisei talked about the MUSIC RADIO episode in the own chatting stream.
 
@@ -416,7 +416,7 @@ There they also announced that their first cover song MV would be uploaded on Oc
 <br>
 <img src="./youtube/20201031_01.jpg" />
 
-> [<i class="fab fa-youtube" /> Suisei Channel ](https://www.youtube.com/watch?v=vhmFj1owmuk)
+> [<i class="fab fa-youtube" /> Suisei Channel ](https://youtu.be/vhmFj1owmuk)
 
 This was the first Tokomachi cover song MV uploaded to YouTube channel.
 
@@ -426,7 +426,7 @@ According to the comments, the song fits their image - cute but also sometimes b
 
 The song reached 1m replay in approximately a month. Considering EnSta is a rather unfamiliar genre for both Suisei and Toko's audiences, this is a pretty impressive record back in late 2020.
 
-> [<i class="fab fa-youtube" /> Watchalong Stream ](https://www.youtube.com/watch?v=tYFl1QqQjq8)
+> [<i class="fab fa-youtube" /> Watchalong Stream ](https://youtu.be/tYFl1QqQjq8)
 
 They also had a watchalong stream. Since there were no latency when they shouted out *Kyou mo kawaii!* so this is highly possible an off collab.
 
@@ -467,8 +467,5 @@ Suisei and Toko finally fulfilled [their dreams back in 2019](/timeline/2019/#_2
 
 ### 2020-12-30
 
-> [<i class="fab fa-youtube" /> Suisei Channel ](https://www.youtube.com/watch?v=U5YCqWyIY6Q) , [<i class="fab fa-youtube" /> Inui Toko ](https://www.youtube.com/watch?v=SyiZD22NVeY)
+> [<i class="fab fa-youtube" /> Suisei Channel ](https://youtu.be/U5YCqWyIY6Q) , [<i class="fab fa-youtube" /> Inui Toko ](https://youtu.be/SyiZD22NVeY)
 
-<!-- FontAwesome Script -->
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/css/all.min.css" crossorigin="anonymous">

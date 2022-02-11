@@ -38,12 +38,8 @@ Date: `2021-10-31`
 
 ## Related posts
 
-・ [<i class="fa-solid fa-microphone-lines" /> *Topics: Tokomachi Radio Season 02* ](/topics/tokomachi_radio_s02/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket"></i>
+・ [<i class="fa-solid fa-microphone-lines" /> *Topics: Tokomachi Radio Season 02* ](/topics/tokomachi_radio_s02/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
 
-・ [<i class="fa-solid fa-microphone-lines" /> *Timeline: Tokomachi in 2020* ](/timeline/2020/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket"></i>
+・ [<i class="fa-solid fa-microphone-lines" /> *Timeline: Tokomachi in 2020* ](/timeline/2020/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
 
-・ [<i class="fa-solid fa-microphone-lines" /> *Timeline: Tokomachi in 2021* ](/timeline/2021/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket"></i>
-
-<!-- FontAwesome Script -->
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/css/all.min.css" crossorigin="anonymous">
+・ [<i class="fa-solid fa-microphone-lines" /> *Timeline: Tokomachi in 2021* ](/timeline/2021/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />

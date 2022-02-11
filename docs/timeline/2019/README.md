@@ -225,7 +225,3 @@ Suisei and Toko knew each other in 2019 and they were already pretty close frien
 They started the unit <span style="color:#e93320; font-weight:bold;">Toko</span><span style="color:#00b8ed; font-weight:bold;">machi</span> on 2019-06-26.
 
 Toko's performance inspired Suisei, and Suisei's performance on Non-Stop Story became her major turning point. That could be the reason why they cherish each other a lot.
-
-<!-- FontAwesome Script -->
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/css/all.min.css" crossorigin="anonymous">

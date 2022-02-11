@@ -50,6 +50,4 @@ Site built with [VuePress ](https://v2.vuepress.vuejs.org/zh/), hosted on [Verce
 
 <!--Search by [DocSearch](https://docsearch.algolia.com/-->
 
-<!-- FontAwesome Script -->
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/css/all.min.css" crossorigin="anonymous">
