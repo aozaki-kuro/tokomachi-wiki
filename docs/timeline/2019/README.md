@@ -151,7 +151,7 @@ Toko congratulated and mentioned they want to dance in full 3D one day.
 
 ### Virtual to Live 2019
 
-![](./youtube/vtl.jpg)
+![VtL](./youtube/vtl.jpg)
 
 Full event name [Virtual to LIVE in 両国国技館 2019](https://event.nijisanji.app/vtlryougoku2019/)
 
@@ -201,15 +201,15 @@ Suisei appeared in the stream chat later when Toko was talking about Ensemble St
 
 ::: details Talks
 
-:comet: : _You praised my performance? I will check the archive later!_
+☄ : _You praised my performance? I will check the archive later!_
 
-:tropical*drink: : \_OK I will cut that part.*
+🍹 : _OK I will cut that part._
 
-:tropical*drink: : \_Oh wait don't go, I still got something about EnSta to tell you!*
+🍹 : _Oh wait don't go, I still got something about EnSta to tell you!_
 
 (Talking about EnSta)
 
-:comet: : _Tell me more on LINE!_
+☄ : _Tell me more on LINE!_
 :::
 
 Really close friends right?
