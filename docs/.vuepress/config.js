@@ -1,17 +1,53 @@
 module.exports = {
   head: [
-    ['link', { rel: 'icon', href: '/android-chrome-192x192.png' }],
-    ['meta', { name: 'twitter:card', content: '/android-chrome-192x192.png' }],
-    ['meta', { name: 'twitter:site', content: 'Tokomachi Wiki | Treasure every moment' }],
-    ['meta', { name: 'twitter:image', content: '/android-chrome-192x192.png' }],
-    ['meta', { name: 'twitter:description', content: "This is a Wikipedia-like site to record Tokomachi activities and details." }],
-    ['meta', { property: 'og:type', content: 'article' }],
-    ['meta', { property: 'og:title', content: 'Tokomachi Wiki | Treasure every moment' }],
-    ['meta', { property: 'og:site_name', content: 'Tokomachi Wiki' }],
-    ['meta', { property: 'og:url', content: 'https://toko.suisei.cc/' }],
-    ['meta', { property: 'og:image', content: '/android-chrome-192x192.png' }],
-    ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
-    ['meta', { name: 'theme-color', content: '#9d3757' }],
+    ['link', {
+      rel: 'icon',
+      href: '/android-chrome-192x192.png'
+    }],
+    ['meta', {
+      name: 'twitter:card',
+      content: '/android-chrome-192x192.png'
+    }],
+    ['meta', {
+      name: 'twitter:site',
+      content: 'Tokomachi Wiki | Treasure every moment'
+    }],
+    ['meta', {
+      name: 'twitter:image',
+      content: '/android-chrome-192x192.png'
+    }],
+    ['meta', {
+      name: 'twitter:description',
+      content: "This is a Wikipedia-like site to record Tokomachi activities and details."
+    }],
+    ['meta', {
+      property: 'og:type',
+      content: 'article'
+    }],
+    ['meta', {
+      property: 'og:title',
+      content: 'Tokomachi Wiki | Treasure every moment'
+    }],
+    ['meta', {
+      property: 'og:site_name',
+      content: 'Tokomachi Wiki'
+    }],
+    ['meta', {
+      property: 'og:url',
+      content: 'https://toko.suisei.cc/'
+    }],
+    ['meta', {
+      property: 'og:image',
+      content: '/android-chrome-192x192.png'
+    }],
+    ['link', {
+      rel: 'manifest',
+      href: '/manifest.webmanifest'
+    }],
+    ['meta', {
+      name: 'theme-color',
+      content: '#9d3757'
+    }],
     ['script', {
       defer: true,
       src: 'https://beacon.suisei.cc/app.js',
@@ -124,8 +160,7 @@ module.exports = {
     repo: 'aozaki-kuro/suisei-toko-history',
     locales: {
       '/': {
-        navbar: [
-          {
+        navbar: [{
             text: "📅 Timeline",
             link: "/timeline/",
             children: [

@@ -30,7 +30,7 @@ The first ever Tweet contact was Toko congratulating Suisei for entering INNK, h
 
 ### 2019-05-21
 
-Toko reached 60k subscribers and Suisei congratuated her on this.
+Toko reached 60k subscribers and Suisei congratulated her on this.
 
 They "kissed" a lot.
 
@@ -48,7 +48,7 @@ They "kissed" a lot.
 Note:
 
 - The "signing" context is blurry but could be related to Ensemble Stars events.
-- "3 of us" probably referes to [<i class="fab fa-youtube" /> Hiro Minamori (graduated)](https://www.youtube.com/channel/UCuGMkxJA_icuiF01u8f3Y2Q)
+- "3 of us" probably refers to [<i class="fab fa-youtube" /> Hiro Minamori (graduated)](https://www.youtube.com/channel/UCuGMkxJA_icuiF01u8f3Y2Q)
 
 :::
 
@@ -77,7 +77,7 @@ Suisei reached 11,111 YouTube Channel sub, Toko congratulated her.
 
 They also mentioned they want to sing together on live stage one day.
 
-They realised their dream on Dec 10th, 2020 [<i class="fa-solid fa-music" /> Inui Toko 1st solo live "who i am"](/topics/music/Inui_toko_whoiam/).
+They realized their dream on Dec 10th, 2020 [<i class="fa-solid fa-music" /> Inui Toko 1st solo live "who i am"](/topics/music/Inui_toko_whoiam/).
 
 > [<i class="fa-brands fa-twitter" /> Original Tweet](https://twitter.com/suisei_hosimati/status/1137100337465085952)
 
@@ -108,7 +108,7 @@ The first time the unit name Tokomachi (とこまち) appeared is on the Minecra
 
 This is also the first ever collab of Tokomachi.
 
-![](./youtube/20190626_01.jpg)
+![TOKOMACHI](./youtube/20190626_01.jpg)
 
 > [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/Kr1jxq0ms00)
 
@@ -161,7 +161,7 @@ According to Suisei's YouTube after talk stream (privated), Suisei watched the w
 
 ### Non-Stop Story
 
-![](./youtube/nss.jpg)
+![Non-stop Story 00](./youtube/nss.jpg)
 
 Full event name [hololive 1st fes. ノンストップ・ストーリー](https://www.nonstop.hololive.tv/)
 
@@ -169,9 +169,9 @@ This was the major turning point for Suisei.
 
 Her original plan was to sing [<i class="fa-solid fa-meteor" /> *Comet*](https://youtu.be/3cqV5BKJHyk) there. But after seeing Toko's live performance, she changed her mind and went for more *impact*, thus the song she chose to sing on stage was [<i class="fa-solid fa-meteor" /> *Tenkyuu, Suisei wa Yoru wo Mataide*](https://youtu.be/zLak0dxBKpM). The song and her performance was so impressive that her name was on Twitter Trend for a pretty long time.
 
-![](./youtube/nss_suisei_01.jpg)
+![Non-stop Story 01](./youtube/nss_suisei_01.jpg)
 
-![](./youtube/nss_suisei_02.jpg)
+![Non-stop Story 02](./youtube/nss_suisei_02.jpg)
 
 She gained popularity after the event rapidly and started trending.
 
@@ -179,11 +179,11 @@ She gained popularity after the event rapidly and started trending.
 
 <br>
 
-![](./youtube/nss_toko_01.jpg)
+![Non-stop Story Toko](./youtube/nss_toko_01.jpg)
 
 > [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/CJD2mkpSkJs&t=4119s)
 
-According to Toko, the most impressive part was Suisei's [<i class="fa-solid fa-meteor" /> *Tenkyuu, Suisei wa Yoru wo Mataide*](https://youtu.be/zLak0dxBKpM) and she was so moved that she cried. She said she became Suisei's fangirl and send LINE messages to Suisei right after watching the live.
+According to Toko, the most impressive part was Suisei's [<i class="fa-solid fa-meteor" /> *Tenkyuu, Suisei wa Yoru wo Mataide*](https://youtu.be/zLak0dxBKpM) and she was so moved that she cried. She said she became Suisei's fan girl and send LINE messages to Suisei right after watching the live.
 
 Toko was also very happy to know her performance inspired Suisei.
 

@@ -11,9 +11,23 @@ next:
 
 # Tokomachi in 2020 (WIP)
 
-## Ensemble Stars
+## Night fishing
 
-###
+### 2020-01-27
+
+> [<i class="fab fa-youtube" /> Original YouTube Stream](https://www.youtube.com/watch?v=bwAXmu5uYes)
+
+After hearing the announcement of Ensemble Stars !! they were way too excited to sleep soundly. So they started to do a guerilla Minecraft night fishing stream and talking with each other.
+
+Since it was right after, except talking about EnSta, they also mentioned they were pretty moved by each other's songs.
+
+> [<i class="fab fa-youtube" /> Timestamp: Fishing Rod](https://youtu.be/bwAXmu5uYes?t=1385)
+
+Suisei also renamed their fishing rods and put their names on each other's rod. But she mistakenly gave her rod to Toko. Toko joked that she won't give it back cutely. Suisei suddenly threatened to sing *Infinity Stars*, an Ensemble Stars !! song and Toko was frighted, giving back Suisei's rod immediately.
+
+Since EnSta / Happy Elements were very famous for having a strict copyright guideline, this means if Suisei did singed that song, Toko's YouTube channel would be demonetized and that's what YouTuber / Vtuber fears most.
+
+This was called *the special way of singers to threaten*.
 
 ## 3D Model Announcement
 
@@ -41,6 +55,8 @@ Suisei successfully maxed out her credit card on stream.
 
 Toko was supposed to be her guardian and watched over her on stream.
 
+This was also the first non-Minecraft game collab stream.
+
 ## MUSIC SPACE
 
 ![MUSIC SPACE](./youtube/mspe.jpg)
@@ -59,7 +75,7 @@ The program started on April 4th, 2020 and was discontinued on March 28th, 2021 
 
 ### 2020-05-23
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/8b7WYQ2vvSA&t=4873s)
+> [<i class="fab fa-youtube" /> Timestamp: Suisei appeared](https://youtu.be/8b7WYQ2vvSA&t=4873s)
 
 Suisei was on a [<i class="fa-brands fa-twitter" /> one week-long break](https://twitter.com/suisei_hosimati/status/1262763428931702790) but she appeared in Inui Toko's Minecraft Server while she was on stream unexpectedly. It was an informal collab, so Suisei had her mic off and only communicated via Minecraft chat.
 
@@ -136,13 +152,13 @@ Toko thought Anemachi (Suisei's elder sister) was pretty funny. Anemachi often s
 
 Suisei said that she was influenced by Anemachi into becoming an Otaku. Toko said that it seemed like it's because of Anemachi that they can can meet each other.
 
-Toko also has an elder sister who she affectionately calls Aneberos, and that she also got influenced by her elder sister into reading Manga and watching anime, just like Suisei.
+Toko also has an elder sister who she affectionately calls Aneberus, and that she also got influenced by her elder sister into reading Manga and watching anime, just like Suisei.
 
 :::
 
 ::: details What should we eat?
 
-Suisei and Toko often go for a meal (mainly Yakiniku) in 2019. Suisei always decided on the food pretty fast since she's mainly interested in meat and beef.
+Suisei and Toko often go for a meal (mainly barbecues) in 2019. Suisei always decided on the food pretty fast since she's mainly interested in meat and beef.
 
 For their next meal, they quickly decided that it should be [<i class="fa-brands fa-wikipedia-w" /> Shabushabu](https://en.wikipedia.org/wiki/Shabu-shabu)
 
@@ -204,7 +220,7 @@ The songs they singed in this episode were
 
 ### Reason why Suisei likes Toko
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/I58nqKO2fak&t=2547s)
+> [<i class="fab fa-youtube" /> Timestamp: Suisei talking about Toko](https://youtu.be/I58nqKO2fak&t=2547s)
 
 Suisei talked about the MUSIC RADIO episode in the own chatting stream.
 
@@ -300,7 +316,7 @@ And their swapping of greetings or identities became pretty common in their futu
 
 ::: details Cover song when?
 
-:comet: : *So when should we start on mkaing a cover song and MV?*
+:comet: : *So when should we start on making a cover song and MV?*
 
 :tropical_drink: : *Right here, right now!*
 
@@ -342,7 +358,7 @@ And their swapping of greetings or identities became pretty common in their futu
 
 ### 2020-10-26
 
-![whoiam_01](./youtube/whoiam.jpg)
+![who i am 01](./youtube/whoiam.jpg)
 
 #### Teasing
 
@@ -361,7 +377,7 @@ On October 26th, 2020 Suisei tweeted and mentioned she would have an announcemen
 
 That night 20:00 JST Inui Toko started her Karaoke stream and the title said *I got some announcements*.
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/Q1t_vUj-fJQ&t=2068s)
+> [<i class="fab fa-youtube" /> Timestamp: Announcement 2, solo live](https://youtu.be/Q1t_vUj-fJQ&t=2068s)
 
 Her first announcement was *her first original song was on its way*.
 
@@ -377,7 +393,7 @@ According to Toko, all guests (Lize Helesta, Ange Katrina, Higuchi Kaede and **H
 
 ![radio](./youtube/tokomachi_radio_01.jpg)
 
-As Toko and Suisei succesfully came over the obstacles between 2 agencies, they decided to take it further and started Tokomachi Radio.
+As Toko and Suisei successfully came over the obstacles between 2 agencies, they decided to take it further and started Tokomachi Radio.
 
 Tokomachi Radio is a monthly radio program, scheduled on the 3rd Wednesday of every month.
 
@@ -420,9 +436,9 @@ According to the comments, the song fits their image - cute but also sometimes b
 
 The song reached 1m replay in approximately a month. Considering EnSta is a rather unfamiliar genre for both Suisei and Toko's audiences, this is a pretty impressive record back in late 2020.
 
-> [<i class="fab fa-youtube" /> Watchalong Stream](https://youtu.be/tYFl1QqQjq8)
+> [<i class="fab fa-youtube" /> Watch-along Stream](https://youtu.be/tYFl1QqQjq8)
 
-They also had a watchalong stream. Since there were no latency when they shouted out *Kyou mo kawaii!* so this is highly possible an off collab.
+They also had a watch-along stream. Since there were no latency when they shouted out *Kyou mo kawaii!* so this is highly possible an off collab.
 
 They partially swapped their greetings.
 
@@ -448,7 +464,7 @@ They enjoyed the recording and wanted to do that for 5000 more times.
 
 ### 2020-12-10
 
-![whoiam_02](./youtube/whoiam_02.jpg)
+![who i am 02](./youtube/whoiam_02.jpg)
 
 The live was held on Dec. 10, 2020 in KT Zepp Yokohama.
 
@@ -504,10 +520,10 @@ And in 2020
 - They found out there were so many things to want to do together and it's more interesting to have it done as Tokomachi.
 - Their interest, favorite food, their goals were nearly the same.
 - For Toko, Suisei was the one spending the least time deciding what to eat.
-- Althought Suisei's choice for meal was limited (Barbecue, Familiy restaurant or Shabushabu).
+- Although Suisei's choice for meal was limited (Barbecue, Family restaurant or Shabushabu).
 - Suisei loves to wear high heels when she goes shopping with Toko, but often got tipped over. Toko is a little bit higher than Suisei, so she often walks a little bit behind Suisei and watches over her to prevent Suisei actually got tipped over.
 - Suisei often do some funny moves that would make Toko laugh.
-- Both Suisei and Toko were very afriad of Enderman.
+- Both Suisei and Toko were very afraid of Enderman.
 
 Suisei was fishing and Toko watched over Suisei throughout the whole stream.
 
