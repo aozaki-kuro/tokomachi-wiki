@@ -203,9 +203,9 @@ Suisei appeared in the stream chat later when Toko was talking about Ensemble St
 
 :comet: : _You praised my performance? I will check the archive later!_
 
-:tropical_drink: : _OK I will cut that part._
+:tropical*drink: : \_OK I will cut that part.*
 
-:tropical_drink: : _Oh wait don't go, I still got something about EnSta to tell you!_
+:tropical*drink: : \_Oh wait don't go, I still got something about EnSta to tell you!*
 
 (Talking about EnSta)
 

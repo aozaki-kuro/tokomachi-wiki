@@ -89,13 +89,13 @@ Suisei promoted for her radio program tomorrow since Toko would be the guest.
 
 :comet: : _Everybody, please listen to my radio program!_
 
-:tropical_drink: : _Well, she is that kind of idol who won't forgot to promote for her own program even when she's on her vacation._
+:tropical*drink: : \_Well, she is that kind of idol who won't forgot to promote for her own program even when she's on her vacation.*
 
-:tropical_drink: : _Are you having a good time Hoshimachi?_
+:tropical*drink: : \_Are you having a good time Hoshimachi?*
 
 :comet: (Still trying to fish Toko happily)
 
-:tropical_drink: : _Alright, it seems like she's having a good time_
+:tropical*drink: : \_Alright, it seems like she's having a good time*
 
 :::
 
@@ -115,11 +115,11 @@ They mentioned the place they want to go together was _Tokyo Disney Land_, and w
 
 :comet: : _So there would be two kinds of ears... what would happen to your dog-like ears..._
 
-:tropical_drink: : _Not dog. Cerberus._
+:tropical*drink: : \_Not dog. Cerberus.*
 
 :comet: : _Well then what should we call the ear of Cerberus (nani mimi)?_
 
-:tropical_drink: : _Cerberus ears (keru mimi)._
+:tropical*drink: : \_Cerberus ears (keru mimi).*
 
 :comet: : _First time hearing (hatsu mimi)!_
 
@@ -262,7 +262,7 @@ Toko asked Suisei to introduced herself and
 
 :comet: : _Hello everyone I'm Hoshimachi Suisei from Nijisanji!_
 
-:tropical_drink: : _Eh don't start a political problem because of me..._
+:tropical*drink: : \_Eh don't start a political problem because of me...*
 
 :comet: : _It's idol VTuber Hoshimachi Suisei of Hololive here!_
 
@@ -274,11 +274,11 @@ And their swapping of greetings or identities became pretty common in their futu
 
 :comet: : _Happy birthday Toko-chan! What's your age by the way?_
 
-:tropical_drink: : _I can't remember, so please judge me by my appearance._
+:tropical*drink: : \_I can't remember, so please judge me by my appearance.*
 
 :comet: : _So what's your age judging from your appearance?_
 
-:tropical_drink: : _Two years old ~_
+:tropical*drink: : \_Two years old ~*
 
 :comet: : _That's not even possible, if you are 2 years old you should be a little child!_
 
@@ -286,29 +286,29 @@ And their swapping of greetings or identities became pretty common in their futu
 
 ::: details Duo live concert
 
-:tropical_drink: : _So where should we hold our duo live concert?_
+:tropical*drink: : \_So where should we hold our duo live concert?*
 
 :comet: : _What about... Toyosu PIT?_
 
-:tropical_drink: : _Ahhhhh that's also my dream live stage!_
+:tropical*drink: : \_Ahhhhh that's also my dream live stage!*
 
 :comet: : _...and it's where the dreams of EnSta started!_
 
 :comet: : _It wasn't even enough to just sing 4 songs on air, I would like to call for at least 10 songs!_
 
-:tropical_drink: : _Yes only us singing!_
+:tropical*drink: : \_Yes only us singing!*
 
 :::
 
 ::: details How long has it been since we met?
 
-:tropical_drink: : _How long has it been since we knew each other?_
+:tropical*drink: : \_How long has it been since we knew each other?*
 
 :comet: : _Eh... I think it's been more than year?_
 
-:tropical_drink: : _It has been a pretty long time._
+:tropical*drink: : \_It has been a pretty long time.*
 
-:tropical_drink: : _I never imagined that we would be so close back then._
+:tropical*drink: : \_I never imagined that we would be so close back then.*
 
 :comet: : _Hey but I did!!_
 
@@ -318,39 +318,39 @@ And their swapping of greetings or identities became pretty common in their futu
 
 :comet: : _So when should we start on making a cover song and MV?_
 
-:tropical_drink: : _Right here, right now!_
+:tropical*drink: : \_Right here, right now!*
 
 :comet: : _Okay! let's post it tomorrow!_
 
-:tropical_drink: : _Time to work through the night..._
+:tropical*drink: : \_Time to work through the night...*
 
-:tropical_drink: : _Guess we have to figure it out all by ourselves or we would be late!_
+:tropical*drink: : \_Guess we have to figure it out all by ourselves or we would be late!*
 
 :::
 
 ::: details She never fails me
 
-:tropical_drink: : _What's your recommended content?_
+:tropical*drink: : \_What's your recommended content?*
 
 :comet: : _Can I... say the title?_
 
-:tropical_drink: : _Sure go ahead._
+:tropical*drink: : \_Sure go ahead.*
 
 :comet: : _Ensemble Stars !!_ (without hesitation)
 
-:tropical_drink: : _She never fails me._
+:tropical*drink: : \_She never fails me.*
 
 :::
 
 ::: details Karaoke when?
 
-:tropical_drink: : _I really want to achieve more with you... and of course play along with you more._
+:tropical*drink: : \_I really want to achieve more with you... and of course play along with you more.*
 
-:tropical_drink: : _I want to go to Karaoke!_
+:tropical*drink: : \_I want to go to Karaoke!*
 
 :comet: : _Then let's meet at the station tomorrow._
 
-:tropical_drink: : _Alright let's meet tomorrow!_
+:tropical*drink: : \_Alright let's meet tomorrow!*
 
 :::
 
@@ -444,15 +444,15 @@ They partially swapped their greetings.
 
 ::: details Toko's greetings
 
-:tropical_drink: : _It's your shooting star..._
+:tropical*drink: : \_It's your shooting star...*
 
 :comet: : _What?_
 
-:tropical_drink: : _Your Cerberus in the rough..._
+:tropical*drink: : \_Your Cerberus in the rough...*
 
 :comet: : _What??_
 
-:tropical_drink: : _Inui Toko from Nijisanji!_
+:tropical*drink: : \_Inui Toko from Nijisanji!*
 
 :comet: : LOOOOOOL
 
@@ -490,17 +490,17 @@ They swapped their greeting _again_ at the start.
 
 :comet: : _Welcome! It's your official mighty mighty Idol from Hololive, Hoshimachi Suisei._
 
-:tropical_drink: : _Eh, uh? Emmmmm..._
+:tropical*drink: : \_Eh, uh? Emmmmm...*
 
 :comet: : _What's wrong?_
 
-:tropical_drink: : _Welcome! Eh? It's your shooting star Cerberus... Inui Toko._
+:tropical*drink: : \_Welcome! Eh? It's your shooting star Cerberus... Inui Toko.*
 
-:tropical_drink: : _We are?_
+:tropical*drink: : \_We are?*
 
-:comet: & :tropical_drink: : _To, Tokomachi desu!_
+:comet: & :tropical*drink: : \_To, Tokomachi desu!*
 
-:tropical_drink: : _Well go to sleep._ (In Minecraft)
+:tropical*drink: : \_Well go to sleep.* (In Minecraft)
 
 :::
 
