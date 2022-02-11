@@ -4,12 +4,14 @@ specifiers:
   '@vuepress/plugin-pwa': ^2.0.0-beta.35
   '@vuepress/plugin-pwa-popup': ^2.0.0-beta.35
   '@vuepress/plugin-search': ^2.0.0-beta.35
+  prettier: ^2.5.1
   vuepress: ^2.0.0-beta.35
 
 devDependencies:
   '@vuepress/plugin-pwa': 2.0.0-beta.35
   '@vuepress/plugin-pwa-popup': 2.0.0-beta.35
   '@vuepress/plugin-search': 2.0.0-beta.35
+  prettier: 2.5.1
   vuepress: 2.0.0-beta.35
 
 packages:
@@ -3267,6 +3269,12 @@ packages:
       nanoid: 3.2.0
       picocolors: 1.0.0
       source-map-js: 1.0.2
+    dev: true
+
+  /prettier/2.5.1:
+    resolution: {integrity: sha512-vBZcPRUR5MZJwoyi3ZoyQlc1rXeEck8KgeC9AwwOn+exuxLxq5toTRDTSaVrXHxelDMHy9zlicw8u66yxoSUFg==}
+    engines: {node: '>=10.13.0'}
+    hasBin: true
     dev: true
 
   /pretty-bytes/5.6.0:
