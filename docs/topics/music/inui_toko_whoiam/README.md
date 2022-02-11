@@ -49,7 +49,7 @@ MC2:
 - Toko admitted that she's over 200 years old while Suisei is eternal 18 years and was totally alright.
 - They thought it would be great to dance while singing, but they got no professional dancing tutor so they have to watch the MV over and over again to remember the dance step which cost them a long long time.
 
-## After Talk
+## Official After Talk
 
 ::: warning Paid Event
 
@@ -62,6 +62,19 @@ This was a partially paywalled stream on Nijisanji Niconico Fanclub.
 Toko talking about Suisei:
 - Toko spent most time before live rehersaling with Suisei, even longer than Lize or Ange.
 - Toko and Suisei chose the songs they actually singed before in Karaoke.
+
+## Toko's After talk
+
+> [<i class="fab fa-youtube" /> Original YouTube Stream ](https://youtu.be/i8UbpU6wf1U?t=407)
+
+Toko also talked about Suisei
+- Toko knew it would be difficult to invite Suisei since they are affiliated to different agencies.
+- Toko didn't give up on inviting Suisei and she did it. This might be the part influenced by Suisei.
+- Toko thought Suisei is a very good friend, she also admire Suisei a lot.
+- For Toko, Suisei is the idol and the artist. She always hoped she could sing beside Suisei one day.
+- Suisei accepted Toko's invitation without any hesitation.
+- Said again she spent most time practising with Suisei, they stay in the studio for hours.
+- It was pretty rare that Suisei let Toko felt the same amount of passion to sing and dance together.
 
 ## Related posts
 
