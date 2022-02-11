@@ -8,6 +8,18 @@ next:
   link: /topic/tokomachi_radio_s02
 ---
 
-# Tokomachi Radio Season 02
+# Tokomachi Radio Season 02 (WIP)
 
 ## Episode 01
+
+## Related posts
+
+・ [<i class="fa-solid fa-microphone-lines" /> *Topics: Tokomachi Radio Season 01* ](/topics/tokomachi_radio_s01/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket"></i>
+
+・ [<i class="fa-solid fa-microphone-lines" /> *Timeline: Tokomachi in 2021* ](/timeline/2021/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket"></i>
+
+・ [<i class="fa-solid fa-microphone-lines" /> *Timeline: Tokomachi in 2022* ](/timeline/2022/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket"></i>
+
+<!-- FontAwesome Script -->
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/css/all.min.css" crossorigin="anonymous">

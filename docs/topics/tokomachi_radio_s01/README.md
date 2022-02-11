@@ -4,11 +4,7 @@ next:
   link: /topic/tokomachi_radio_s02
 ---
 
-# Tokomachi Radio Season 01
-
-Links:
-- [<i class="fa-solid fa-link" /> Tokomachi in 2020 ](/timeline/2020)
-- [<i class="fa-solid fa-link" /> Tokomachi in 2021 ](/timeline/2021)
+# Tokomachi Radio Season 01 (WIP)
 
 ## Episode 01 First Episode
 
@@ -39,6 +35,14 @@ Date: `2020-10-28`
 ## Episode 13 1st Year Anniversary
 
 Date: `2021-10-31`
+
+## Related posts
+
+・ [<i class="fa-solid fa-microphone-lines" /> *Topics: Tokomachi Radio Season 02* ](/topics/tokomachi_radio_s02/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket"></i>
+
+・ [<i class="fa-solid fa-microphone-lines" /> *Timeline: Tokomachi in 2020* ](/timeline/2020/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket"></i>
+
+・ [<i class="fa-solid fa-microphone-lines" /> *Timeline: Tokomachi in 2021* ](/timeline/2021/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket"></i>
 
 <!-- FontAwesome Script -->
 

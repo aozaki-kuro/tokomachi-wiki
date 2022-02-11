@@ -77,7 +77,7 @@ Suisei reached 11,111 YouTube Channel sub, Toko congratulated her.
 
 They also mentioned they want to sing together on live stage one day.
 
-They realised their dream on Dec 10th, 2020 [<i class="fa-solid fa-music" /> Inui Toko 1st solo live "who i am" ](https://event.nijisanji.app/inui_whoiam/).
+They realised their dream on Dec 10th, 2020 [<i class="fa-solid fa-music" /> Inui Toko 1st solo live "who i am" ](/topics/music/Inui_toko_whoiam/).
 
 > [<i class="fa-brands fa-twitter" /> Original Tweet ](https://twitter.com/suisei_hosimati/status/1137100337465085952)
 
@@ -203,7 +203,7 @@ Suisei appeared in the stream chat later when Toko was talking about Ensemble St
 
 > [<i class="fab fa-youtube" /> Original YouTube Stream ](https://youtu.be/CJD2mkpSkJs?t=5810)
 
-::: tip Talks
+::: details Talks
 
 :comet: : *You praised my performance? I will check the archive later!*
 

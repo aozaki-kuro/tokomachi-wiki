@@ -78,6 +78,17 @@ module.exports = {
         },
       },
     ],
+    /***
+    [
+      '@vuepress/plugin-shiki',
+      {
+        Lang: [
+          "bash",
+          "powershell",
+        ],
+        theme: "material-default",
+      },
+    ], */
   ],
   locales: {
     '/': {
@@ -128,7 +139,7 @@ module.exports = {
             text: "💭 Topics",
             link: "/topics/",
             children: [
-              "/topics/tokomachi_songs_lives",
+              "/topics/music",
               "/topics/tokomachi_radio_s01",
               "/topics/tokomachi_radio_s02",
             ],

@@ -9,7 +9,7 @@ next:
   link: /timeline/2021
 ---
 
-# Tokomachi in 2020
+# Tokomachi in 2020 (WIP)
 
 ## Ensemble Stars !!
 
@@ -41,7 +41,7 @@ Suisei successfully maxed out her credit card on stream.
 
 Toko was supposed to be her guardian and watched over her on stream.
 
-## Radio Guest
+## MUSIC SPACE
 
 <br>
 <img src="./youtube/mspe.jpg" />
@@ -205,6 +205,21 @@ Suisei mentioned every time she talked with Toko end up in laughing a lot with T
 The songs they singed in this episode were
 - [<i class="fab fa-youtube" /> Kaze wa Yokoku naku Fuku, Walküre ](https://www.youtube.com/watch?v=ZLxHpZv8wLA)
 - [<i class="fab fa-youtube" /> Mémoire Antique, Valkyrie (Ensemble Stars!) ](https://www.youtube.com/watch?v=Zo24u1KBB0U)
+
+### Reason why Suisei likes Toko
+
+> [<i class="fab fa-youtube" /> Original YouTube Stream ](https://www.youtube.com/watch?v=I58nqKO2fak&t=2547s)
+
+Suisei talked about the MUSIC RADIO episode in the own chatting stream.
+
+And the reason why Suisei really likes Toko
+- Toko is always interesting and positive.
+- Toko can make Suisei laugh a lot.
+- Toko often joke on Suisei and the jokes won't be over-the-line.
+- Beside jokes, Toko also praise and support Suisei a lot.
+- Mutual respect. Even they have known each other for more than a year and became pretty close friends, they can still keep a proper distance and won't let each other feel uncomfortable.
+
+Suisei also asked the clippers not to clip this because she felt pretty shy and worried about if Toko would see this. Well, the clip still got noticed by Toko and [something even more interesting](/timeline/2021/) happened a year later.
 
 ## Totsumachi
 
@@ -390,11 +405,50 @@ Tokomachi's dreams
 - Duo original songs
 - Duo concert lives
 
-*For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: Tokomachi Radio ](/topics/tokomachi_radio_s01).*
+There they also announced that their first cover song MV would be uploaded on Oct. 31st, 2020.
+
+*For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: Tokomachi Radio ](/topics/tokomachi_radio_s01/).*
 
 ## First Tokomachi Cover MV
 
+### 2020-10-31
 
+<br>
+<img src="./youtube/20201031_01.jpg" />
+
+> [<i class="fab fa-youtube" /> Suisei Channel ](https://www.youtube.com/watch?v=vhmFj1owmuk)
+
+This was the first Tokomachi cover song MV uploaded to YouTube channel.
+
+The song was from *Ensemble Stars! Album series Valkyrie*.
+
+According to the comments, the song fits their image - cute but also sometimes be very handsome.
+
+The song reached 1m replay in approximately a month. Considering EnSta is a rather unfamiliar genre for both Suisei and Toko's audiences, this is a pretty impressive record back in late 2020.
+
+> [<i class="fab fa-youtube" /> Watchalong Stream ](https://www.youtube.com/watch?v=tYFl1QqQjq8)
+
+They also had a watchalong stream. Since there were no latency when they shouted out *Kyou mo kawaii!* so this is highly possible an off collab.
+
+They partially swapped their greetings.
+
+::: details Toko's greetings
+
+:tropical_drink: : *It's your shooting star...*
+
+:comet: : *What?*
+
+:tropical_drink: : *Your Cerberus in the rough...*
+
+:comet: : *What??*
+
+:tropical_drink: : *Inui Toko from Nijisanji!*
+
+:comet: : LOOOOOOL
+
+:::
+
+They enjoyed the recording and wanted to do that for 5000 more times.
 
 ## Inui Toko 1st solo live "who i am"
 
@@ -403,7 +457,17 @@ Tokomachi's dreams
 <br>
 <img src="./youtube/whoiam_02.jpg" />
 
+The live was held on Dec. 10, 2020 in KT Zepp Yokohama.
+
+Suisei and Toko finally fulfilled [their dreams back in 2019](/timeline/2019/#_2019-06-08).
+
+*For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: "who i am" ](/topics/music/Inui_toko_whoiam/).*
+
 ## New year
+
+### 2020-12-30
+
+> [<i class="fab fa-youtube" /> Suisei Channel ](https://www.youtube.com/watch?v=U5YCqWyIY6Q) , [<i class="fab fa-youtube" /> Inui Toko ](https://www.youtube.com/watch?v=SyiZD22NVeY)
 
 <!-- FontAwesome Script -->
 

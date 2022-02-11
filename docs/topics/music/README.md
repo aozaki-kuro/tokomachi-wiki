@@ -4,7 +4,7 @@ next:
   link: /topic/tokomachi_radio_s01
 ---
 
-# Tokomachi Songs and Lives
+# Tokomachi Music (WIP)
 
 ## Songs
 
