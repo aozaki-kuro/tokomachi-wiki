@@ -1362,8 +1362,8 @@ packages:
       '@vue/shared': 3.2.30
     dev: true
 
-  /@vue/devtools-api/6.0.6:
-    resolution: {integrity: sha512-QxGATXEuANiVhnc+8PrddyZsyOjMa8ftBXJohl9X7fG0CnlUK2kmKaRfHsKagmkfEpBg74xMkqrkVTEMJYdAWQ==}
+  /@vue/devtools-api/6.0.8:
+    resolution: {integrity: sha512-bzei608bPVQE2yq9Ghrjn/dnpf27mWfrr0q0ZQiuZoO3LQqFG0T1xSGz+9vw1j9KAZM2Cu9vdQMkddDxqzZGNg==}
     dev: true
 
   /@vue/reactivity-transform/3.2.30:
@@ -1453,7 +1453,7 @@ packages:
   /@vuepress/client/2.0.0-beta.35:
     resolution: {integrity: sha512-oQj+fDvfDDJ+fPpcVVRJLeVX1QmnLCcpLBxPBVhqMD0WAFkj+sCBaeq0sQc5CwDaNysDcN71ACeuEpLDOEtCgQ==}
     dependencies:
-      '@vue/devtools-api': 6.0.6
+      '@vue/devtools-api': 6.0.8
       '@vuepress/shared': 2.0.0-beta.35
       vue: 3.2.30
       vue-router: 4.0.12_vue@3.2.30
@@ -1637,7 +1637,7 @@ packages:
   /@vuepress/plugin-theme-data/2.0.0-beta.35:
     resolution: {integrity: sha512-iFVus6jbKk/BgBFMU3Xf1VQiCo89Tz6j5P67m1Xj7maTfCKxKOBfjxdVLBx6oLAY8WC19pcpeWXigqcKXMvzjA==}
     dependencies:
-      '@vue/devtools-api': 6.0.6
+      '@vue/devtools-api': 6.0.8
       '@vuepress/client': 2.0.0-beta.35
       '@vuepress/core': 2.0.0-beta.35
       '@vuepress/shared': 2.0.0-beta.35
@@ -3824,7 +3824,7 @@ packages:
     peerDependencies:
       vue: ^3.0.0
     dependencies:
-      '@vue/devtools-api': 6.0.6
+      '@vue/devtools-api': 6.0.8
       vue: 3.2.30
     dev: true
 
