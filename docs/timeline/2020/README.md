@@ -9,7 +9,7 @@ next:
   link: /timeline/2021
 ---
 
-# Tokomachi in 2020 (WIP)
+# Tokomachi in 2020
 
 ## Night fishing
 
@@ -17,13 +17,13 @@ next:
 
 > [<i class="fa-brands fa-youtube" /> Original YouTube Stream](https://youtu.be/bwAXmu5uYes)
 
-After hearing the announcement of Ensemble Stars !! they were way too excited to sleep soundly. So they started to do a guerilla Minecraft night fishing stream and talking with each other.
+After hearing the announcement of _Ensemble Stars !!_ they were way too excited to sleep soundly. So they started to do a guerilla Minecraft night fishing stream and talking with each other.
 
 Since it was right after, except talking about EnSta, they also mentioned they were pretty moved by each other's songs.
 
 > [<i class="fa-brands fa-youtube" /> Timestamp: Fishing Rod](https://youtu.be/bwAXmu5uYes?t=1385)
 
-Suisei also renamed their fishing rods and put their names on each other's rod. But she mistakenly gave her rod to Toko. Toko joked that she won't give it back cutely. Suisei suddenly "threatened" to sing _Infinity Stars_, an Ensemble Stars !! song and Toko was frighted, giving back Suisei's rod immediately.
+Suisei also renamed their fishing rods and put their names on each other's rod. But she mistakenly gave her rod to Toko. Toko joked that she won't give it back cutely. Suisei suddenly "threatened" to sing _Infinity Stars_, an _Ensemble Stars !!_ song and Toko was frighted, giving back Suisei's rod immediately.
 
 As mentioned above, EnSta / Happy Elements were very famous for having a strict copyright guideline, which means if Suisei did singed that song, Toko's YouTube channel would be demonetized and that's what YouTuber / Vtuber feared most.
 
@@ -39,45 +39,57 @@ They were pretty happy about this.
 
 ::: details Twitter Conversation
 
+<br>
+<img src="./twitter/20200226_01.png" width="500" />
+<br>
+<img src="./twitter/20200226_02.png" width="500" />
+
 :::
 
 Suisei chose to make her 3D reveal event into a 3D live, which was the first time in Hololive. She also revealed  This was also the reason she caught even more attractions from all over the world.
+
+Toko chose to sing  RE:I AM
 
 On the other hand, their 3D models both appeared on the agencies' major fes first, then got revealed on their YouTube channel.
 
 ## Karaoke for 8 hours
 
-### 2020-01-12
+### 2020-03-08
 
-Unfortunately the release of Ensemble Stars !! was delayed because of various problems and difficulties. Both Suisei and Toko felt pretty down because of this. So they decided to solve it in singers' way - they cancelled their stream and went to Karaoke together.
+#### The delay and the Karaoke
+
+Unfortunately the release of _Ensemble Stars !!_ was delayed because of various problems and difficulties. Both Suisei and Toko felt pretty down because of this. So they decided to solve it in singers' way - they cancelled their stream and went to Karaoke together, singing only songs of _Ensemble Stars !_
 
 According to Suisei's interview on [<i class="fa-solid fa-book"></i> _Hikari TV Guide (Page 49, Vol. 163, October 2020)_](https://www.hikaritv.net/guide/pdf/202110.pdf), the Karaoke tour lasted for _8 hours_.
 
 ::: details Twitter Conversation
 
-:::
+<br>
+<img src="./twitter/20200308_01.jpg" width="500" />
+<br>
+<img src="./twitter/20200308_02.jpg" width="500" />
 
-#### The delay and the Karaoke
+:::
 
 ### 2020-01-13
 
 #### First Tokomachi Cover
 
-The actual first ever Tokomachi cover song was this one. Because of EnSta / Happy Elements' well-known strict copyright guideline, they had to do it in Acapella and uploaded to Twitter only.
+> [<i class="fa-brands fa-twitter" /> Original Tweet](https://twitter.com/suisei_hosimati/status/1239146084712083456)
+
+_Sajou no Roukaku_, the actual first ever Tokomachi cover song (without MV). Due to EnSta / Happy Elements' well-known strict copyright guideline, they had to do it in Acapella and uploaded to Twitter only.
 
 ## Gacha Stream
 
-### 2020-04-03
+### 2020-04-02
 
-_Dat scene_
+![EnSta maxed out](./youtube/20200402_01.jpg)
 
-The original goal was to 
+The original goal was to get Sakuma Ritsu's character card for 5 times.
 
-Suisei was pretty famous for having a bad luck, on the other hand, Toko was way more fortunate in Gacha games.
+Suisei was pretty famous for having a bad luck, on the other hand, Toko was way more fortunate in Gacha games. So Toko was somehow supposed to be her guardian, provide her some "luck" and watched over her on stream, Suisei still successfully maxed out her credit card on stream.
 
-As a result Toko was supposed to be her guardian, provide her some "luck" and watched over her on stream, Suisei still successfully maxed out her credit card on stream.
-
-The stream was done before Ensemble Stars !! got a guarantee system that let you get the _Picked Up_ character after doing a certain among of gachas. So she spent way more than expected (approximately 190,000 JPY).
+The stream was done before _Ensemble Stars !!_ got a guarantee system that let you get the picked up character at least for once after doing a certain amount of gachas. So she spent way more than expected (approximately 190,000 JPY).
 
 This was also the first non-Minecraft game collab stream.
 
@@ -360,7 +372,7 @@ And their swapping of greetings or identities became pretty common in their futu
 
 🍹 : _Sure go ahead._
 
-☄ : _Ensemble Stars !!_ (without hesitation)
+☄ : __Ensemble Stars !!__ (without hesitation)
 
 🍹 : _She never fails me._
 
