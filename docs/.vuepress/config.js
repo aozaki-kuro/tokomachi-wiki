@@ -193,22 +193,39 @@ module.exports = {
   },
   themeConfig: {
     logo: '/android-chrome-192x192.png',
+    /** Repo and Dev branch */
+    repo: 'aozaki-kuro/suisei-toko-history',
     docsDir: 'docs',
+    docsBranch: 'dev',
+    /** Meta info */
     contributors: true,
     lastUpdated: true,
-    repo: 'aozaki-kuro/suisei-toko-history',
+    /** i18n */
     locales: {
       '/': {
         navbar: [
           {
             text: '📅 Timeline',
-            link: '/timeline/',
             children: ['/timeline/2019/', '/timeline/2020/', '/timeline/2021/', '/timeline/2022/'],
           },
           {
             text: '💭 Topics',
-            link: '/topics/',
-            children: ['/topics/music', '/topics/tokomachi_radio_s01', '/topics/tokomachi_radio_s02'],
+            children: [
+              {
+                text: 'Tokomachi Music',
+                /*link:'/topics/music/',*/
+                children: [
+                  '/topics/music/list/',
+                  '/topics/music/toko_whoiam/',
+                  '/topics/music/suisei_ghost',
+                  '/topics/music/suisei_galaxy',
+                ],
+              },
+              {
+                text: 'Tokomachi Radio',
+                children: ['/topics/tokomachi_radio_s01/', '/topics/tokomachi_radio_s02/'],
+              },
+            ],
           },
         ],
         selectLanguageText: 'Languages',

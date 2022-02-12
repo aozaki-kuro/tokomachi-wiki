@@ -506,7 +506,7 @@ The live was held on Dec. 10, 2020 in KT Zepp Yokohama.
 
 Suisei and Toko finally fulfilled [their dreams back in 2019](/timeline/2019/#_2019-06-08).
 
-_For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: "who i am"](/topics/music/Inui_toko_whoiam/)._
+_For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: "who i am"](/topics/music/toko_whoiam/)._
 
 ## New year
 
@@ -554,6 +554,7 @@ And in 2020
 - _Our friendship is 100 deeper than last year!_
 - They were very happy they were able to cheer people up with lives and streams.
 - They found out there were so many things to want to do together and it's more interesting to have it done as Tokomachi.
+- Toko once worried that once they go closer, she might not being able to get along well with Suisei. But the fact was they became very, very good friends.
 - Their interest, favorite food, their goals were nearly the same.
 - For Toko, Suisei was the one spending the least time deciding what to eat.
 - Although Suisei's choice for meal was limited (Barbecue, Family restaurant or Shabushabu).
