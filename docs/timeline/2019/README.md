@@ -48,7 +48,7 @@ They "kissed" a lot.
 Note:
 
 - The "signing" context is blurry but could be related to Ensemble Stars events.
-- "3 of us" probably refers to [<i class="fab fa-youtube" /> Hiro Minamori (graduated)](https://www.youtube.com/channel/UCuGMkxJA_icuiF01u8f3Y2Q)
+- "3 of us" probably refers to [<i class="fa-brands fa-youtube" /> Hiro Minamori (graduated)](https://www.youtube.com/channel/UCuGMkxJA_icuiF01u8f3Y2Q)
 
 :::
 
@@ -110,7 +110,7 @@ This is also the first ever collab of Tokomachi.
 
 ![TOKOMACHI](./youtube/20190626_01.jpg)
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/Kr1jxq0ms00)
+> [<i class="fa-brands fa-youtube" /> Original YouTube Stream](https://youtu.be/Kr1jxq0ms00)
 
 The naming logic is:
 
@@ -181,7 +181,7 @@ She gained popularity after the event rapidly and started trending.
 
 ![Non-stop Story Toko](./youtube/nss_toko_01.jpg)
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/CJD2mkpSkJs&t=4119s)
+> [<i class="fa-brands fa-youtube" /> Original YouTube Stream](https://youtu.be/CJD2mkpSkJs&t=4119s)
 
 According to Toko, the most impressive part was Suisei's [<i class="fa-solid fa-meteor" /> _Tenkyuu, Suisei wa Yoru wo Mataide_](https://youtu.be/zLak0dxBKpM) and she was so moved that she cried. She said she became Suisei's fan girl and send LINE messages to Suisei right after watching the live.
 
@@ -197,7 +197,7 @@ Toko was also very happy to know her performance inspired Suisei.
 
 Suisei appeared in the stream chat later when Toko was talking about Ensemble Stars. Toko said _Hoshimachi! Sui-chan! Here comes our beloved singer_ and was pretty shy and unsure whether Suisei heard her praising Suisei's performance.
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/CJD2mkpSkJs?t=5810)
+> [<i class="fa-brands fa-youtube" /> Original YouTube Stream](https://youtu.be/CJD2mkpSkJs?t=5810)
 
 ::: details Talks
 

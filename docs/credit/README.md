@@ -10,7 +10,7 @@ sidebar: false
 
 <img src="./aozaki.jpg" height="200" width="200" />
 
-[ [<i class="fab fa-twitter" /> Twitter](https://twitter.com/Aozaki__)] [ [<i class="fas fa-feather-alt" /> Blog](https://aozaki.cc/)]
+[ [<i class="fa-brands fa-twitter" /> Twitter](https://twitter.com/Aozaki__)] [ [<i class="fas fa-feather-alt" /> Blog](https://aozaki.cc/)]
 
 Hoshiyomi, Inui Suki
 
@@ -26,7 +26,7 @@ If you found the site helpful, please consider supporting the project on [<i cla
 
 <img src="./mikaze.jpg" width="200" />
 
-[ [<i class="fab fa-twitter" /> Twitter](https://twitter.com/mikaze0322)] [ [<i class="fab fa-youtube" /> YouTube](https://www.youtube.com/channel/UCrpkt3YHPdpciDy-96H_2mg)]
+[ [<i class="fa-brands fa-twitter" /> Twitter](https://twitter.com/mikaze0322)] [ [<i class="fa-brands fa-youtube" /> YouTube](https://www.youtube.com/channel/UCrpkt3YHPdpciDy-96H_2mg)]
 
 Hoshiyomi, Translator, Clipper, Traditional Chinese Localization
 

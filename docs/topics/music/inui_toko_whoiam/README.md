@@ -25,8 +25,7 @@ Suisei and Toko finally fulfilled [their dreams back in 2019](/timeline/2019/#_2
 
 ## Setlist
 
-<br>
-![whoiam_02](./whoiam_02.jpg)
+![whoiam02](./whoiam_02.jpg)
 
 Suisei appeared on stage as the second guest, singed 2 songs with Toko.
 
@@ -69,7 +68,7 @@ Toko talking about Suisei:
 
 ## Toko's After talk
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/i8UbpU6wf1U?t=407)
+> [<i class="fa-brands fa-youtube" /> Original YouTube Stream](https://youtu.be/i8UbpU6wf1U?t=407)
 
 Toko also talked about Suisei
 

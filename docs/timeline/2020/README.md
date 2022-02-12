@@ -15,13 +15,13 @@ next:
 
 ### 2020-01-27
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/bwAXmu5uYes)
+> [<i class="fa-brands fa-youtube" /> Original YouTube Stream](https://youtu.be/bwAXmu5uYes)
 
 After hearing the announcement of Ensemble Stars !! they were way too excited to sleep soundly. So they started to do a guerilla Minecraft night fishing stream and talking with each other.
 
 Since it was right after, except talking about EnSta, they also mentioned they were pretty moved by each other's songs.
 
-> [<i class="fab fa-youtube" /> Timestamp: Fishing Rod](https://youtu.be/bwAXmu5uYes?t=1385)
+> [<i class="fa-brands fa-youtube" /> Timestamp: Fishing Rod](https://youtu.be/bwAXmu5uYes?t=1385)
 
 Suisei also renamed their fishing rods and put their names on each other's rod. But she mistakenly gave her rod to Toko. Toko joked that she won't give it back cutely. Suisei suddenly threatened to sing _Infinity Stars_, an Ensemble Stars !! song and Toko was frighted, giving back Suisei's rod immediately.
 
@@ -75,7 +75,7 @@ The program started on April 4th, 2020 and was discontinued on March 28th, 2021 
 
 ### 2020-05-23
 
-> [<i class="fab fa-youtube" /> Timestamp: Suisei appeared](https://youtu.be/8b7WYQ2vvSA&t=4873s)
+> [<i class="fa-brands fa-youtube" /> Timestamp: Suisei appeared](https://youtu.be/8b7WYQ2vvSA&t=4873s)
 
 Suisei was on a [<i class="fa-brands fa-twitter" /> one week-long break](https://twitter.com/suisei_hosimati/status/1262763428931702790) but she appeared in Inui Toko's Minecraft Server while she was on stream unexpectedly. It was an informal collab, so Suisei had her mic off and only communicated via Minecraft chat.
 
@@ -101,9 +101,9 @@ Suisei promoted for her radio program tomorrow since Toko would be the guest.
 
 ### 2020-05-24 \#08
 
-> [<i class="fab fa-youtube" /> MUSIC SPACE #08 (First half)](https://youtu.be/WseyAVH4IlM)
+> [<i class="fa-brands fa-youtube" /> MUSIC SPACE #08 (First half)](https://youtu.be/WseyAVH4IlM)
 >
-> [<i class="fab fa-youtube" /> MUSIC SPACE #08 (Second half)](https://youtu.be/6NZJpD45MOU)
+> [<i class="fa-brands fa-youtube" /> MUSIC SPACE #08 (Second half)](https://youtu.be/6NZJpD45MOU)
 
 This was the first time Suisei invited a non-Hololive talent to her radio program.
 
@@ -132,9 +132,9 @@ Note:
 
 ### 2020-05-31 \#09
 
-> [<i class="fab fa-youtube" /> MUSIC SPACE #09 (First half)](https://youtu.be/-0ZKq0CvsPU)
+> [<i class="fa-brands fa-youtube" /> MUSIC SPACE #09 (First half)](https://youtu.be/-0ZKq0CvsPU)
 >
-> [<i class="fab fa-youtube" /> MUSIC SPACE #09 (Second half)](https://youtu.be/bmNZg5LzkLI)
+> [<i class="fa-brands fa-youtube" /> MUSIC SPACE #09 (Second half)](https://youtu.be/bmNZg5LzkLI)
 
 ::: details Live performance
 
@@ -176,9 +176,9 @@ Even when there are, it seemed like Toko would _politely eat them up_ since she 
 
 ![MUSIC SPACE](./youtube/20200802_01.jpg)
 
-> [<i class="fab fa-youtube" /> MUSIC SPACE #18 (First half)](https://youtu.be/qcmOlOpSe_8)
+> [<i class="fa-brands fa-youtube" /> MUSIC SPACE #18 (First half)](https://youtu.be/qcmOlOpSe_8)
 >
-> [<i class="fab fa-youtube" /> MUSIC SPACE #18 (Second half)](https://youtu.be/lDT4Go85pMk)
+> [<i class="fa-brands fa-youtube" /> MUSIC SPACE #18 (Second half)](https://youtu.be/lDT4Go85pMk)
 
 This is the first time Suisei and Toko being able to sing together on air. Since Bunka Housou is able to solve the copyright, they chose not only Yorushika, but also EnSta songs.
 
@@ -186,14 +186,14 @@ EnSta / Happy Element is well-known for a very strict copyright guideline.
 
 The songs they singed in this episode were
 
-- [<i class="fab fa-youtube" /> Hana ni Bourei, Yorushika](https://youtu.be/dgOe9gVype0)
-- [<i class="fab fa-youtube" /> Tryst of Stars, Fine (Ensemble Stars!)](https://youtu.be/-ugKPaaWbZ8)
+- [<i class="fa-brands fa-youtube" /> Hana ni Bourei, Yorushika](https://youtu.be/dgOe9gVype0)
+- [<i class="fa-brands fa-youtube" /> Tryst of Stars, Fine (Ensemble Stars!)](https://youtu.be/-ugKPaaWbZ8)
 
 ### 2020-08-09 \#19
 
-> [<i class="fab fa-youtube" /> MUSIC SPACE #19 (First half)](https://youtu.be/pBofIN_HFeM)
+> [<i class="fa-brands fa-youtube" /> MUSIC SPACE #19 (First half)](https://youtu.be/pBofIN_HFeM)
 >
-> [<i class="fab fa-youtube" /> MUSIC SPACE #19 (Second half)](https://youtu.be/6JGN4C_YpFo)
+> [<i class="fa-brands fa-youtube" /> MUSIC SPACE #19 (Second half)](https://youtu.be/6JGN4C_YpFo)
 
 In the talking part, they did a simple "psychological test".
 
@@ -215,12 +215,12 @@ Suisei mentioned every time she talked with Toko end up in laughing a lot with T
 
 The songs they singed in this episode were
 
-- [<i class="fab fa-youtube" /> Kaze wa Yokoku naku Fuku, Walküre](https://youtu.be/ZLxHpZv8wLA)
-- [<i class="fab fa-youtube" /> Mémoire Antique, Valkyrie (Ensemble Stars!)](https://youtu.be/Zo24u1KBB0U)
+- [<i class="fa-brands fa-youtube" /> Kaze wa Yokoku naku Fuku, Walküre](https://youtu.be/ZLxHpZv8wLA)
+- [<i class="fa-brands fa-youtube" /> Mémoire Antique, Valkyrie (Ensemble Stars!)](https://youtu.be/Zo24u1KBB0U)
 
 ### Reason why Suisei likes Toko
 
-> [<i class="fab fa-youtube" /> Timestamp: Suisei talking about Toko](https://youtu.be/I58nqKO2fak&t=2547s)
+> [<i class="fa-brands fa-youtube" /> Timestamp: Suisei talking about Toko](https://youtu.be/I58nqKO2fak&t=2547s)
 
 Suisei talked about the MUSIC RADIO episode in the own chatting stream.
 
@@ -246,7 +246,7 @@ Suisei called in and said _happy birthday_ to Toko, and they also talked about a
 
 #### First impression
 
-When talking about _How Suisei knew Toko_, Suisei said it was her indie days, someone (refers to [<i class="fab fa-youtube" /> Hiro Minamori (graduated)](https://www.youtube.com/channel/UCuGMkxJA_icuiF01u8f3Y2Q)) introduced Toko to Suisei.
+When talking about _How Suisei knew Toko_, Suisei said it was her indie days, someone (refers to [<i class="fa-brands fa-youtube" /> Hiro Minamori (graduated)](https://www.youtube.com/channel/UCuGMkxJA_icuiF01u8f3Y2Q)) introduced Toko to Suisei.
 
 Suisei's first impression of Toko was _Huh that traditional Japanese style Nijisanji girl!_
 
@@ -377,7 +377,7 @@ On October 26th, 2020 Suisei tweeted and mentioned she would have an announcemen
 
 That night 20:00 JST Inui Toko started her Karaoke stream and the title said _I got some announcements_.
 
-> [<i class="fab fa-youtube" /> Timestamp: Announcement 2, solo live](https://youtu.be/Q1t_vUj-fJQ&t=2068s)
+> [<i class="fa-brands fa-youtube" /> Timestamp: Announcement 2, solo live](https://youtu.be/Q1t_vUj-fJQ&t=2068s)
 
 Her first announcement was _her first original song was on its way_.
 
@@ -408,7 +408,7 @@ Although the radio wasn't actually always on time, they successfully made a perf
 
 :::
 
-> [<i class="fab fa-youtube" /> Original YouTube Stream](https://youtu.be/6WYpnMNcA_8)
+> [<i class="fa-brands fa-youtube" /> Original YouTube Stream](https://youtu.be/6WYpnMNcA_8)
 
 Tokomachi's dreams
 
@@ -426,7 +426,7 @@ _For more information, please read [<i class="fa-solid fa-microphone-lines" /> T
 
 ![cover](./youtube/20201031_01.jpg)
 
-> [<i class="fab fa-youtube" /> Suisei Channel](https://youtu.be/vhmFj1owmuk)
+> [<i class="fa-brands fa-youtube" /> Suisei Channel](https://youtu.be/vhmFj1owmuk)
 
 This was the first Tokomachi cover song MV uploaded to YouTube channel.
 
@@ -436,7 +436,7 @@ According to the comments, the song fits their image - cute but also sometimes b
 
 The song reached 1m replay in approximately a month. Considering EnSta is a rather unfamiliar genre for both Suisei and Toko's audiences, this is a pretty impressive record back in late 2020.
 
-> [<i class="fab fa-youtube" /> Watch-along Stream](https://youtu.be/tYFl1QqQjq8)
+> [<i class="fa-brands fa-youtube" /> Watch-along Stream](https://youtu.be/tYFl1QqQjq8)
 
 They also had a watch-along stream. Since there were no latency when they shouted out _Kyou mo kawaii!_ so this is highly possible an off collab.
 
@@ -478,7 +478,7 @@ _For more information, please read [<i class="fa-solid fa-microphone-lines" /> T
 
 ![fishing](./youtube/20201230_01.jpg)
 
-> [<i class="fab fa-youtube" /> Suisei Channel](https://youtu.be/U5YCqWyIY6Q) , [<i class="fab fa-youtube" /> Inui Toko](https://youtu.be/SyiZD22NVeY)
+> [<i class="fa-brands fa-youtube" /> Suisei Channel](https://youtu.be/U5YCqWyIY6Q) , [<i class="fa-brands fa-youtube" /> Inui Toko](https://youtu.be/SyiZD22NVeY)
 
 Since Dec. 31st both agencies has their own official celebration program, 30th was considered the last free time for the talents to stream in their own channel.
 
