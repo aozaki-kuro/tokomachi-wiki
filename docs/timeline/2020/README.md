@@ -11,7 +11,7 @@ next:
 
 # Tokomachi in 2020
 
-## Night fishing
+## Night Fishing
 
 ### 2020-01-27
 
@@ -40,9 +40,9 @@ They were pretty happy about this.
 ::: details Twitter Conversation
 
 <br>
-<img src="./twitter/20200226_01.png" width="500" />
+<img src="./twitter/20200226_01.jpg" width="500" />
 <br>
-<img src="./twitter/20200226_02.png" width="500" />
+<img src="./twitter/20200226_02.jpg" width="500" />
 
 :::
 
@@ -56,7 +56,7 @@ On the other hand, their 3D models both appeared on the agencies' major fes firs
 
 ### 2020-03-08
 
-#### The delay and the Karaoke
+#### The Delay and The Karaoke
 
 Unfortunately the release of _Ensemble Stars !!_ was delayed because of various problems and difficulties. Both Suisei and Toko felt pretty down because of this. So they decided to solve it in singers' way - they cancelled their stream and went to Karaoke together, singing only songs of _Ensemble Stars !_
 
@@ -115,7 +115,7 @@ The program started on April 4th, 2020 and was discontinued on March 28th, 2021 
 
 Suisei was on a [<i class="fa-brands fa-twitter" /> one week-long break](https://twitter.com/suisei_hosimati/status/1262763428931702790) but she appeared in Inui Toko's Minecraft Server while she was on stream unexpectedly. It was an informal collab, so Suisei had her mic off and only communicated via Minecraft chat.
 
-Toko was also surprised to see her since Suisei should have been on break. During this time, Suisei fished and was fished in return by Toko, and she also showed off her _Lightspeed Idol Outfit Change_. It's been a long time since Suisei last played Minecraft, so it seemed like she had already forgotten how to play, however she still managed to act in a funny way and made Toko laugh a lot.
+Toko was also surprised to see her since Suisei should have been on break. During this time, Suisei fished and was fished in return by Toko, and she also showed off her [_Lightspeed Idol Outfit Change_](https://youtu.be/8b7WYQ2vvSA?t=5743). It's been a long time since Suisei last played Minecraft, so it seemed like she had already forgotten how to play, however she still managed to act in a funny way and made Toko laugh a lot.
 
 Suisei promoted for her radio program tomorrow since Toko would be the guest.
 
@@ -222,8 +222,8 @@ EnSta / Happy Element is well-known for a very strict copyright guideline.
 
 The songs they singed in this episode were
 
-- [<i class="fa-brands fa-youtube" /> Hana ni Bourei, Yorushika](https://youtu.be/dgOe9gVype0)
-- [<i class="fa-brands fa-youtube" /> Tryst of Stars, Fine (Ensemble Stars!)](https://youtu.be/-ugKPaaWbZ8)
+- [<i class="fa-brands fa-youtube" /> Hana ni Bourei / Yorushika](https://youtu.be/dgOe9gVype0)
+- [<i class="fa-brands fa-youtube" /> Tryst of Stars / Fine (Ensemble Stars!)](https://youtu.be/-ugKPaaWbZ8)
 
 ### 2020-08-09 \#19
 
@@ -251,10 +251,10 @@ Suisei mentioned every time she talked with Toko end up in laughing a lot with T
 
 The songs they singed in this episode were
 
-- [<i class="fa-brands fa-youtube" /> Kaze wa Yokoku naku Fuku, Walküre](https://youtu.be/ZLxHpZv8wLA)
-- [<i class="fa-brands fa-youtube" /> Mémoire Antique, Valkyrie (Ensemble Stars!)](https://youtu.be/Zo24u1KBB0U)
+- [<i class="fa-brands fa-youtube" /> Kaze wa Yokoku naku Fuku / Walküre](https://youtu.be/ZLxHpZv8wLA)
+- [<i class="fa-brands fa-youtube" /> Mémoire Antique / Valkyrie (Ensemble Stars!)](https://youtu.be/Zo24u1KBB0U)
 
-### Reason why Suisei likes Toko
+### Reason Why Suisei Likes Toko
 
 > [<i class="fa-brands fa-youtube" /> Timestamp: Suisei talking about Toko](https://youtu.be/I58nqKO2fak&t=2547s)
 
@@ -280,7 +280,7 @@ The Totsumachi (waiting for friends to make a Discord call) was held on Inui Tok
 
 Suisei called in and said _happy birthday_ to Toko, and they also talked about a lot of other topics.
 
-#### First impression
+#### First Impression
 
 When talking about _How Suisei knew Toko_, Suisei said it was her indie days, someone (refers to [<i class="fa-brands fa-youtube" /> Hiro Minamori (graduated)](https://www.youtube.com/channel/UCuGMkxJA_icuiF01u8f3Y2Q)) introduced Toko to Suisei.
 
@@ -290,7 +290,7 @@ Toko's first impression of Suisei was _Huh, what a vocally talented girl!_
 
 There they also mentioned that they want to sing together more, not only just singing together on radio, but they also wanted to make song cover songs.
 
-#### Other topics
+#### Other Topics
 
 ::: details Swapping identities
 
@@ -390,6 +390,29 @@ And their swapping of greetings or identities became pretty common in their futu
 
 :::
 
+## 500k Congratulations
+
+### 2020-09-27
+
+Suisei reached 500K on Sept. 27th 2020 ~~for 12 times~~. Toko was one of those congratulated Suisei on Twitter.
+
+> [<i class="fa-brands fa-twitter" /> Original Tweet](https://twitter.com/inui_toko/status/1310230418189213696)
+
+::: details Tweet Translation
+
+<br>
+<img src="./twitter/20200927_01.jpg" width="500" />
+<br>
+<img src="./twitter/20200927_02.jpg" width="500" />
+<br>
+<img src="./twitter/20200927_03.jpg" width="500" />
+<br>
+<img src="./twitter/20200927_04.jpg" width="500" />
+<br>
+<img src="./twitter/20200927_05.jpg" width="500" />
+
+:::
+
 ## Live guest
 
 ### 2020-10-26
@@ -405,7 +428,7 @@ On October 26th, 2020 Suisei tweeted and mentioned she would have an announcemen
 ::: details Tweet Translation
 
 <br>
-<img src="./twitter/20201026_01.png" width="500" />
+<img src="./twitter/20201026_01.jpg" width="500" />
 
 :::
 
@@ -440,7 +463,7 @@ Although the radio wasn't actually always on time, they successfully made a perf
 ::: details Tweet Translation
 
 <br>
-<img src="./twitter/20201026_01.png" width="500" />
+<img src="./twitter/20201026_01.jpg" width="500" />
 
 :::
 
@@ -496,7 +519,7 @@ They partially swapped their greetings.
 
 They enjoyed the recording and wanted to do that for 5000 more times.
 
-## Inui Toko 1st solo live "who i am"
+## Inui Toko 1st Solo Live "who i am"
 
 ### 2020-12-10
 
@@ -506,9 +529,9 @@ The live was held on Dec. 10, 2020 in KT Zepp Yokohama.
 
 Suisei and Toko finally fulfilled [their dreams back in 2019](/timeline/2019/#_2019-06-08).
 
-_For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: "who i am"](/topics/music/Inui_toko_whoiam/)._
+_For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: "who i am"](/topics/music/toko_whoiam/)._
 
-## New year
+## New Year
 
 ### 2020-12-30
 
@@ -554,6 +577,7 @@ And in 2020
 - _Our friendship is 100 deeper than last year!_
 - They were very happy they were able to cheer people up with lives and streams.
 - They found out there were so many things to want to do together and it's more interesting to have it done as Tokomachi.
+- Toko once worried that once they go closer, she might not being able to get along well with Suisei. But the fact was they became very, very good friends.
 - Their interest, favorite food, their goals were nearly the same.
 - For Toko, Suisei was the one spending the least time deciding what to eat.
 - Although Suisei's choice for meal was limited (Barbecue, Family restaurant or Shabushabu).
