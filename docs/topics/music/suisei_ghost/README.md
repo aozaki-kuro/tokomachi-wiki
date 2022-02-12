@@ -11,7 +11,37 @@ next:
 
 # "Space for Virtual GHOST"
 
+> [<i class="fa-brands fa-youtube" /> Timestamp: Toko's part](https://www.youtube.com/watch?v=Ajwv4ANSSg0&t=770s)
+
+This is Hoshimachi Suisei's 3rd Anniversary YouTube Live.
+
+Held on April 13th, 2021.
+
+This is also the first time Tokomachi singing on a free / YouTube live. Although there's no dance steps this time, their singing were astonishing and the live audience count jumped from 45,000 to over 56,000.
+
 ## Setlist
+
+Toko appeared on stage as the first guest, singed 2 songs with Suisei.
+
+- In the Morning / Mrs. GREEN APPLE
+- Plagiarism / Yorushika
+
+## Surprise
+
+Both Toko and Suisei said nothing before the live convert. Toko even tweeted to pretend as if she didn't know anything about the live and date.
+
+> [<i class="fa-brands fa-twitter" /> Original Tweet](https://twitter.com/suisei_hosimati/status/1239146084712083456)
+
+::: details Tweet Translation
+
+
+
+:::
+
+But still some lead indicated that Toko might already waiting at the backstage.
+
+- Suisei asked if Toko wants some pizza.
+- Toko followed the members of AIRS (Natsuiro Matsuri, Omaru Polka, Aki Rosenthal, Tokoyami Towa)
 
 ## Related posts
 

@@ -29,8 +29,8 @@ Suisei and Toko finally fulfilled [their dreams back in 2019](/timeline/2019/#_2
 
 Suisei appeared on stage as the second guest, singed 2 songs with Toko.
 
-- BREAKTHROUGH, Trickstar (Ensemble Stars!!)
-- Tsubasa Moratorium, ALKALOID (Ensemble Stars!!)
+- BREAKTHROUGH / Trickstar (Ensemble Stars!!)
+- Tsubasa Moratorium / ALKALOID (Ensemble Stars!!)
 
 ## MC
 

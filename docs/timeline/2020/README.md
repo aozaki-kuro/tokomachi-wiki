@@ -40,9 +40,9 @@ They were pretty happy about this.
 ::: details Twitter Conversation
 
 <br>
-<img src="./twitter/20200226_01.png" width="500" />
+<img src="./twitter/20200226_01.jpg" width="500" />
 <br>
-<img src="./twitter/20200226_02.png" width="500" />
+<img src="./twitter/20200226_02.jpg" width="500" />
 
 :::
 
@@ -222,8 +222,8 @@ EnSta / Happy Element is well-known for a very strict copyright guideline.
 
 The songs they singed in this episode were
 
-- [<i class="fa-brands fa-youtube" /> Hana ni Bourei, Yorushika](https://youtu.be/dgOe9gVype0)
-- [<i class="fa-brands fa-youtube" /> Tryst of Stars, Fine (Ensemble Stars!)](https://youtu.be/-ugKPaaWbZ8)
+- [<i class="fa-brands fa-youtube" /> Hana ni Bourei / Yorushika](https://youtu.be/dgOe9gVype0)
+- [<i class="fa-brands fa-youtube" /> Tryst of Stars / Fine (Ensemble Stars!)](https://youtu.be/-ugKPaaWbZ8)
 
 ### 2020-08-09 \#19
 
@@ -251,8 +251,8 @@ Suisei mentioned every time she talked with Toko end up in laughing a lot with T
 
 The songs they singed in this episode were
 
-- [<i class="fa-brands fa-youtube" /> Kaze wa Yokoku naku Fuku, Walküre](https://youtu.be/ZLxHpZv8wLA)
-- [<i class="fa-brands fa-youtube" /> Mémoire Antique, Valkyrie (Ensemble Stars!)](https://youtu.be/Zo24u1KBB0U)
+- [<i class="fa-brands fa-youtube" /> Kaze wa Yokoku naku Fuku / Walküre](https://youtu.be/ZLxHpZv8wLA)
+- [<i class="fa-brands fa-youtube" /> Mémoire Antique / Valkyrie (Ensemble Stars!)](https://youtu.be/Zo24u1KBB0U)
 
 ### Reason why Suisei likes Toko
 
@@ -390,6 +390,29 @@ And their swapping of greetings or identities became pretty common in their futu
 
 :::
 
+## 500k congratulations
+
+### 2020-09-27
+
+Suisei reached 500K on Sept. 27th 2020 ~~for 12 times~~. Toko was one of those congratulated Suisei on Twitter.
+
+> [<i class="fa-brands fa-twitter" /> Original Tweet](https://twitter.com/inui_toko/status/1310230418189213696)
+
+::: details Tweet Translation
+
+<br>
+<img src="./twitter/20200927_01.jpg" width="500" />
+<br>
+<img src="./twitter/20200927_02.jpg" width="500" />
+<br>
+<img src="./twitter/20200927_03.jpg" width="500" />
+<br>
+<img src="./twitter/20200927_04.jpg" width="500" />
+<br>
+<img src="./twitter/20200927_05.jpg" width="500" />
+
+:::
+
 ## Live guest
 
 ### 2020-10-26
@@ -405,7 +428,7 @@ On October 26th, 2020 Suisei tweeted and mentioned she would have an announcemen
 ::: details Tweet Translation
 
 <br>
-<img src="./twitter/20201026_01.png" width="500" />
+<img src="./twitter/20201026_01.jpg" width="500" />
 
 :::
 
@@ -440,7 +463,7 @@ Although the radio wasn't actually always on time, they successfully made a perf
 ::: details Tweet Translation
 
 <br>
-<img src="./twitter/20201026_01.png" width="500" />
+<img src="./twitter/20201026_01.jpg" width="500" />
 
 :::
 

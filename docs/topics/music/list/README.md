@@ -90,3 +90,5 @@ editLink: false
 ・ Hoshimachi Suisei's 1st Solo Live, supported by Bushiroad.
 
 ・ [<i class="fa-solid fa-microphone-lines" /> _Topics: "Stellar into the GALAXY"_](/topics/music/suisei_galaxy/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
+
+・ [<i class="fa-solid fa-music"></i> Hololive Official Event Page](https://stellarintothegalaxy.hololive.tv/)
