@@ -46,9 +46,9 @@ They were pretty happy about this.
 
 :::
 
-Suisei chose to make her 3D reveal event into a 3D live, which was the first time in Hololive. She also revealed  This was also the reason she caught even more attractions from all over the world.
+Suisei chose to make her 3D reveal event into a 3D live, which was the first time in Hololive. She also revealed This was also the reason she caught even more attractions from all over the world.
 
-Toko chose to sing  RE:I AM
+Toko chose to sing Hello for the start and RE:I AM to end the stream.
 
 On the other hand, their 3D models both appeared on the agencies' major fes first, then got revealed on their YouTube channel.
 
@@ -372,7 +372,7 @@ And their swapping of greetings or identities became pretty common in their futu
 
 🍹 : _Sure go ahead._
 
-☄ : __Ensemble Stars !!__ (without hesitation)
+☄ : **Ensemble Stars !!** (without hesitation)
 
 🍹 : _She never fails me._
 
