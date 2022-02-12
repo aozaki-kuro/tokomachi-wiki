@@ -23,9 +23,9 @@ Since it was right after, except talking about EnSta, they also mentioned they w
 
 > [<i class="fa-brands fa-youtube" /> Timestamp: Fishing Rod](https://youtu.be/bwAXmu5uYes?t=1385)
 
-Suisei also renamed their fishing rods and put their names on each other's rod. But she mistakenly gave her rod to Toko. Toko joked that she won't give it back cutely. Suisei suddenly threatened to sing _Infinity Stars_, an Ensemble Stars !! song and Toko was frighted, giving back Suisei's rod immediately.
+Suisei also renamed their fishing rods and put their names on each other's rod. But she mistakenly gave her rod to Toko. Toko joked that she won't give it back cutely. Suisei suddenly "threatened" to sing _Infinity Stars_, an Ensemble Stars !! song and Toko was frighted, giving back Suisei's rod immediately.
 
-Since EnSta / Happy Elements were very famous for having a strict copyright guideline, this means if Suisei did singed that song, Toko's YouTube channel would be demonetized and that's what YouTuber / Vtuber fears most.
+As mentioned above, EnSta / Happy Elements were very famous for having a strict copyright guideline, which means if Suisei did singed that song, Toko's YouTube channel would be demonetized and that's what YouTuber / Vtuber feared most.
 
 This was called _the special way of singers to threaten_.
 
@@ -33,17 +33,37 @@ This was called _the special way of singers to threaten_.
 
 ### 2020-03-01
 
-::: tip Twitter Conversation
+Suisei's 3D model announcement was scheduled on March 1st, 2020 and Toko's was a day later.
+
+They were pretty happy about this.
+
+::: details Twitter Conversation
 
 :::
 
-## Ensemble Starts !! Delay and Start
+Suisei chose to make her 3D reveal event into a 3D live, which was the first time in Hololive. She also revealed  This was also the reason she caught even more attractions from all over the world.
 
-### The delay and the Karaoke
+On the other hand, their 3D models both appeared on the agencies' major fes first, then got revealed on their YouTube channel.
 
-### First Tokomachi Cover
+## Karaoke for 8 hours
 
-The actual first ever Tokomachi cover song was
+### 2020-01-12
+
+Unfortunately the release of Ensemble Stars !! was delayed because of various problems and difficulties. Both Suisei and Toko felt pretty down because of this. So they decided to solve it in singers' way - they cancelled their stream and went to Karaoke together.
+
+According to Suisei's interview on [<i class="fa-solid fa-book"></i> _Hikari TV Guide (Page 49, Vol. 163, October 2020)_](https://www.hikaritv.net/guide/pdf/202110.pdf), the Karaoke tour lasted for _8 hours_.
+
+::: details Twitter Conversation
+
+:::
+
+#### The delay and the Karaoke
+
+### 2020-01-13
+
+#### First Tokomachi Cover
+
+The actual first ever Tokomachi cover song was this one. Because of EnSta / Happy Elements' well-known strict copyright guideline, they had to do it in Acapella and uploaded to Twitter only.
 
 ## Gacha Stream
 
@@ -51,9 +71,13 @@ The actual first ever Tokomachi cover song was
 
 _Dat scene_
 
-Suisei successfully maxed out her credit card on stream.
+The original goal was to 
 
-Toko was supposed to be her guardian and watched over her on stream.
+Suisei was pretty famous for having a bad luck, on the other hand, Toko was way more fortunate in Gacha games.
+
+As a result Toko was supposed to be her guardian, provide her some "luck" and watched over her on stream, Suisei still successfully maxed out her credit card on stream.
+
+The stream was done before Ensemble Stars !! got a guarantee system that let you get the _Picked Up_ character after doing a certain among of gachas. So she spent way more than expected (approximately 190,000 JPY).
 
 This was also the first non-Minecraft game collab stream.
 
