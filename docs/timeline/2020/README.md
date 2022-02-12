@@ -11,7 +11,7 @@ next:
 
 # Tokomachi in 2020
 
-## Night fishing
+## Night Fishing
 
 ### 2020-01-27
 
@@ -56,7 +56,7 @@ On the other hand, their 3D models both appeared on the agencies' major fes firs
 
 ### 2020-03-08
 
-#### The delay and the Karaoke
+#### The Delay and The Karaoke
 
 Unfortunately the release of _Ensemble Stars !!_ was delayed because of various problems and difficulties. Both Suisei and Toko felt pretty down because of this. So they decided to solve it in singers' way - they cancelled their stream and went to Karaoke together, singing only songs of _Ensemble Stars !_
 
@@ -254,7 +254,7 @@ The songs they singed in this episode were
 - [<i class="fa-brands fa-youtube" /> Kaze wa Yokoku naku Fuku / Walküre](https://youtu.be/ZLxHpZv8wLA)
 - [<i class="fa-brands fa-youtube" /> Mémoire Antique / Valkyrie (Ensemble Stars!)](https://youtu.be/Zo24u1KBB0U)
 
-### Reason why Suisei likes Toko
+### Reason Why Suisei Likes Toko
 
 > [<i class="fa-brands fa-youtube" /> Timestamp: Suisei talking about Toko](https://youtu.be/I58nqKO2fak&t=2547s)
 
@@ -280,7 +280,7 @@ The Totsumachi (waiting for friends to make a Discord call) was held on Inui Tok
 
 Suisei called in and said _happy birthday_ to Toko, and they also talked about a lot of other topics.
 
-#### First impression
+#### First Impression
 
 When talking about _How Suisei knew Toko_, Suisei said it was her indie days, someone (refers to [<i class="fa-brands fa-youtube" /> Hiro Minamori (graduated)](https://www.youtube.com/channel/UCuGMkxJA_icuiF01u8f3Y2Q)) introduced Toko to Suisei.
 
@@ -290,7 +290,7 @@ Toko's first impression of Suisei was _Huh, what a vocally talented girl!_
 
 There they also mentioned that they want to sing together more, not only just singing together on radio, but they also wanted to make song cover songs.
 
-#### Other topics
+#### Other Topics
 
 ::: details Swapping identities
 
@@ -390,7 +390,7 @@ And their swapping of greetings or identities became pretty common in their futu
 
 :::
 
-## 500k congratulations
+## 500k Congratulations
 
 ### 2020-09-27
 
@@ -519,7 +519,7 @@ They partially swapped their greetings.
 
 They enjoyed the recording and wanted to do that for 5000 more times.
 
-## Inui Toko 1st solo live "who i am"
+## Inui Toko 1st Solo Live "who i am"
 
 ### 2020-12-10
 
@@ -531,7 +531,7 @@ Suisei and Toko finally fulfilled [their dreams back in 2019](/timeline/2019/#_2
 
 _For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: "who i am"](/topics/music/toko_whoiam/)._
 
-## New year
+## New Year
 
 ### 2020-12-30
 

@@ -34,14 +34,18 @@ Both Toko and Suisei said nothing before the live convert. Toko even tweeted to 
 
 ::: details Tweet Translation
 
-
-
 :::
 
 But still some lead indicated that Toko might already waiting at the backstage.
 
 - Suisei asked if Toko wants some pizza.
 - Toko followed the members of AIRS (Natsuiro Matsuri, Omaru Polka, Aki Rosenthal, Tokoyami Towa)
+
+Toko once invited Suisei to her live concert (see also: _[<i class="fa-solid fa-microphone-lines" /> Topics: Tokomachi Radio](/topics/tokomachi_radio_s01/)_ ) and according to Suisei, she wanted to invite Toko to her live concert in return and she did.
+
+## After talk
+
+Toko and Suisei said they decided what to sing pretty fast.
 
 ## Related posts
 
