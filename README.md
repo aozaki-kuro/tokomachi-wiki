@@ -16,6 +16,7 @@ This is a Wikipedia-like site to record Tokomachi's activities and details.
 ## Contact
 
 If there's anything missing or improperly translated, you can
+
 - Open an issue on [Github](https://github.com/aozaki-kuro/suisei-toko-history/issues/new)
 - Create a Pull Request on [Github](https://github.com/aozaki-kuro/suisei-toko-history)
 - Or even send an anonymous [Marshmallow](https://marshmallow-qa.com/aozaki__)

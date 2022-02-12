@@ -1,25 +1,100 @@
 module.exports = {
   head: [
-    ['link', { rel: 'icon', href: '/android-chrome-192x192.png' }],
-    ['meta', { name: 'twitter:card', content: '/android-chrome-192x192.png' }],
-    ['meta', { name: 'twitter:site', content: 'Tokomachi Wiki | Treasure every moment' }],
-    ['meta', { name: 'twitter:image', content: '/android-chrome-192x192.png' }],
-    ['meta', { name: 'twitter:description', content: "This is a Wikipedia-like site to record Tokomachi activities and details." }],
-    ['meta', { property: 'og:type', content: 'article' }],
-    ['meta', { property: 'og:title', content: 'Tokomachi Wiki | Treasure every moment' }],
-    ['meta', { property: 'og:site_name', content: 'Tokomachi Wiki' }],
-    ['meta', { property: 'og:url', content: 'https://toko.suisei.cc/' }],
-    ['meta', { property: 'og:image', content: '/android-chrome-192x192.png' }],
-    ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
-    ['meta', { name: 'theme-color', content: '#9d3757' }],
-    ['script', {
-      defer: true,
-      src: 'https://beacon.suisei.cc/app.js',
-      "data-domain": "toko.suisei.cc",
-    }],
+    [
+      'link',
+      {
+        rel: 'icon',
+        href: '/android-chrome-192x192.png',
+      },
+    ],
+    [
+      'meta',
+      {
+        name: 'twitter:card',
+        content: '/android-chrome-192x192.png',
+      },
+    ],
+    [
+      'meta',
+      {
+        name: 'twitter:site',
+        content: 'Tokomachi Wiki | Treasure every moment',
+      },
+    ],
+    [
+      'meta',
+      {
+        name: 'twitter:image',
+        content: '/android-chrome-192x192.png',
+      },
+    ],
+    [
+      'meta',
+      {
+        name: 'twitter:description',
+        content: 'This is a Wikipedia-like site to record Tokomachi activities and details.',
+      },
+    ],
+    [
+      'meta',
+      {
+        property: 'og:type',
+        content: 'article',
+      },
+    ],
+    [
+      'meta',
+      {
+        property: 'og:title',
+        content: 'Tokomachi Wiki | Treasure every moment',
+      },
+    ],
+    [
+      'meta',
+      {
+        property: 'og:site_name',
+        content: 'Tokomachi Wiki',
+      },
+    ],
+    [
+      'meta',
+      {
+        property: 'og:url',
+        content: 'https://toko.suisei.cc/',
+      },
+    ],
+    [
+      'meta',
+      {
+        property: 'og:image',
+        content: '/android-chrome-192x192.png',
+      },
+    ],
+    [
+      'link',
+      {
+        rel: 'manifest',
+        href: '/manifest.webmanifest',
+      },
+    ],
+    [
+      'meta',
+      {
+        name: 'theme-color',
+        content: '#9d3757',
+      },
+    ],
+    [
+      'script',
+      {
+        defer: true,
+        src: 'https://beacon.suisei.cc/app.js',
+        'data-domain': 'toko.suisei.cc',
+      },
+    ],
   ],
   markdown: {
-    lineNumbers: false // 代码块显示行号
+    lineNumbers: false, // 代码块显示行号
   },
   plugins: [
     [
@@ -78,12 +153,23 @@ module.exports = {
         },
       },
     ],
+    /***
+    [
+      '@vuepress/plugin-shiki',
+      {
+        Lang: [
+          "bash",
+          "powershell",
+        ],
+        theme: "material-default",
+      },
+    ], */
   ],
   locales: {
     '/': {
       lang: 'en-US',
-      title: "Tokomachi Wiki",
-      description: "This is a Wikipedia-like site to record Tokomachi activities and details.",
+      title: 'Tokomachi Wiki',
+      description: 'This is a Wikipedia-like site to record Tokomachi activities and details.',
     },
     /***
      * i18n
@@ -115,22 +201,14 @@ module.exports = {
       '/': {
         navbar: [
           {
-            text: "📅 Timeline",
-            link: "/timeline/",
-            children: [
-              "/timeline/2019/",
-              "/timeline/2020/",
-              "/timeline/2021/",
-              "/timeline/2022/",
-            ],
+            text: '📅 Timeline',
+            link: '/timeline/',
+            children: ['/timeline/2019/', '/timeline/2020/', '/timeline/2021/', '/timeline/2022/'],
           },
           {
-            text: "💭 Topics",
-            link: "/topics/",
-            children: [
-              "/topics/tokomachi_radio_s01",
-              "/topics/tokomachi_radio_s02",
-            ],
+            text: '💭 Topics',
+            link: '/topics/',
+            children: ['/topics/music', '/topics/tokomachi_radio_s01', '/topics/tokomachi_radio_s02'],
           },
         ],
         selectLanguageText: 'Languages',
@@ -197,5 +275,5 @@ module.exports = {
       },
       i18n ***/
     },
-  }
+  },
 }

@@ -10,11 +10,13 @@ sidebar: false
 
 <img src="./aozaki.jpg" height="200" width="200" />
 
-[ [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/Aozaki__) ] [ [<i class="fas fa-feather-alt"></i> Blog](https://aozaki.cc/) ]
+[ [<i class="fa-brands fa-twitter" /> Twitter](https://twitter.com/Aozaki__)] [ [<i class="fas fa-feather-alt" /> Blog](https://aozaki.cc/)]
 
-Hoshiyomi, Website Maintainer, English and Simplified Chinese Localization
+Hoshiyomi, Inui Suki
 
-If you found the guide helpful, please consider supporting the project on [<i class="fas fa-coffee"></i> Ko-Fi.com](https://ko-fi.com/project_stargazer).
+Website Maintainer, English and Simplified Chinese Localization
+
+If you found the site helpful, please consider supporting the project on [<i class="fas fa-coffee" /> Ko-Fi.com](https://ko-fi.com/project_stargazer).
 
 ---
 
@@ -24,15 +26,17 @@ If you found the guide helpful, please consider supporting the project on [<i cl
 
 <img src="./mikaze.jpg" width="200" />
 
-[ [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/mikaze0322) ] [ [<i class="fab fa-youtube"></i> YouTube](https://www.youtube.com/channel/UCrpkt3YHPdpciDy-96H_2mg) ]
+[ [<i class="fa-brands fa-twitter" /> Twitter](https://twitter.com/mikaze0322)] [ [<i class="fa-brands fa-youtube" /> YouTube](https://www.youtube.com/channel/UCrpkt3YHPdpciDy-96H_2mg)]
 
 Hoshiyomi, Translator, Clipper, Traditional Chinese Localization
 
 ---
 
-English Proofreading & QA:
+<h3>English Proofreading & QA:</h3>
 
-Leinadris, Redd from HSH server.
+Lein, Redd from HSH server.
+
+Thank you guys!
 
 ---
 
@@ -40,12 +44,8 @@ Leinadris, Redd from HSH server.
 
 <img src="/Project_Stargazer.svg" alt="Suisei Project" width="185.25" height="28">
 
-This guide is part of *Project Stargazer*.
+Tokomachi Wiki is part of _Project Stargazer_.
 
 Site built with [VuePress](https://v2.vuepress.vuejs.org/zh/), hosted on [Vercel](https://vercel.com/).
 
 <!--Search by [DocSearch](https://docsearch.algolia.com/-->
-
-<!-- FontAwesome Script -->
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/css/all.min.css" crossorigin="anonymous">

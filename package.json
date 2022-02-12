@@ -1,18 +1,19 @@
 {
-	"name": "suisei-toko-wiki",
-	"version": "1.0.0",
-	"main": "index.js",
-	"author": "aozaki-kuro <aozaki.kuro@gmail.com>",
-	"license": "MIT",
-	"devDependencies": {
-		"@vuepress/plugin-pwa": "^2.0.0-beta.35",
-		"@vuepress/plugin-pwa-popup": "^2.0.0-beta.35",
-		"@vuepress/plugin-search": "^2.0.0-beta.35",
-		"vuepress": "^2.0.0-beta.35",
-		"webpack": "^5.68.0"
-	},
-	"scripts": {
-		"dev": "vuepress dev docs",
-		"build": "vuepress build docs"
-	}
+  "name": "tokomachi-wiki",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "aozaki-kuro <aozaki.kuro@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "format": "prettier '*.js' '*.json' '*.md' 'docs/.vuepress/config.js' 'docs/**/*.md' --write"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-search": "^2.0.0-beta.35",
+    "@vuepress/plugin-pwa": "^2.0.0-beta.35",
+    "@vuepress/plugin-pwa-popup": "^2.0.0-beta.35",
+    "vuepress": "^2.0.0-beta.35",
+    "prettier": "^2.5.1"
+  }
 }

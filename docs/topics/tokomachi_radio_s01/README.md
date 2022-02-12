@@ -1,14 +1,10 @@
 ---
 next:
-  text: "Next: Tokomachi Radio Season 02"
+  text: 'Next: Tokomachi Radio Season 02'
   link: /topic/tokomachi_radio_s02
 ---
 
-# Tokomachi Radio Season 01
-
-Links:
-- [<i class="fa-solid fa-link" /> Tokomachi in 2020 ](/timeline/2020)
-- [<i class="fa-solid fa-link" /> Tokomachi in 2021 ](/timeline/2021)
+# Tokomachi Radio Season 01 (WIP)
 
 ## Episode 01 First Episode
 
@@ -40,6 +36,10 @@ Date: `2020-10-28`
 
 Date: `2021-10-31`
 
-<!-- FontAwesome Script -->
+## Related posts
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/css/all.min.css" crossorigin="anonymous">
+・ [<i class="fa-solid fa-microphone-lines" /> _Topics: Tokomachi Radio Season 02_](/topics/tokomachi_radio_s02/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
+
+・ [<i class="fa-solid fa-microphone-lines" /> _Timeline: Tokomachi in 2020_](/timeline/2020/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
+
+・ [<i class="fa-solid fa-microphone-lines" /> _Timeline: Tokomachi in 2021_](/timeline/2021/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
