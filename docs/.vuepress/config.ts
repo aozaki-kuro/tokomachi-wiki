@@ -2,6 +2,8 @@ import { defineUserConfig } from 'vuepress'
 import type { DefaultThemeOptions } from 'vuepress'
 
 export default defineUserConfig<DefaultThemeOptions>({
+
+  // Site Meta Info 
   head: [
     [
       'link',
@@ -96,6 +98,8 @@ export default defineUserConfig<DefaultThemeOptions>({
       },
     ],
   ],
+
+  // Plugin Settings 
   plugins: [
     [
       '@vuepress/pwa',
@@ -165,6 +169,8 @@ export default defineUserConfig<DefaultThemeOptions>({
       },
     ], */
   ],
+
+  // Language i18n 
   locales: {
     '/': {
       lang: 'en-US',
@@ -191,16 +197,21 @@ export default defineUserConfig<DefaultThemeOptions>({
     },
     ***/
   },
+
+  // Theme Configuration
   themeConfig: {
     logo: '/android-chrome-192x192.png',
-    /** Repo and Dev branch */
+
+    // Repo and Dev branch
     repo: 'aozaki-kuro/suisei-toko-history',
     docsDir: 'docs',
     docsBranch: 'dev',
-    /** Meta info */
+
+    // Meta info
     contributors: true,
     lastUpdated: true,
-    /** i18n */
+
+    // Navbar
     locales: {
       '/': {
         navbar: [
@@ -233,9 +244,7 @@ export default defineUserConfig<DefaultThemeOptions>({
         selectLanguageAriaLabel: 'Languages',
       },
 
-      /***
-       * i18n
-       * 
+      /*** 
       '/zh/': {
         lang: 'zh-CN',
         navbar: [
@@ -290,7 +299,7 @@ export default defineUserConfig<DefaultThemeOptions>({
         selectLanguageName: '日本語',
         selectLanguageAriaLabel: '言語切替',
       },
-      i18n ***/
+      */
     },
   },
 })
