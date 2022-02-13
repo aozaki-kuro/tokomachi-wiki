@@ -1,4 +1,7 @@
-module.exports = {
+import { defineUserConfig } from 'vuepress'
+import type { DefaultThemeOptions } from 'vuepress'
+
+export default defineUserConfig<DefaultThemeOptions>({
   head: [
     [
       'link',
@@ -93,9 +96,6 @@ module.exports = {
       },
     ],
   ],
-  markdown: {
-    lineNumbers: false, // 代码块显示行号
-  },
   plugins: [
     [
       '@vuepress/pwa',
@@ -293,4 +293,4 @@ module.exports = {
       i18n ***/
     },
   },
-}
+})
