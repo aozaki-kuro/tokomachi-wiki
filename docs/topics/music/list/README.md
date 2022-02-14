@@ -10,66 +10,20 @@ editLink: false
 
 ### Cover MV
 
-<table style="width:100%; height:100%; table-layout:fixed">
- <thead>
-  <tr>
-   <th>Date</th>
-   <th>Title</th>
-   <th>Link</th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td style="text-align:center;">2020-03-15</td> <!--Date-->
-   <td>砂上ノ楼閣</td>
-   <td><a href="https://twitter.com/suisei_hosimati/status/1239146084712083456" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter" /> @suisei_hosimati</a></td>
-  </tr>
-  <tr>
-   <td style="text-align:center;">2020-10-31</td> <!--Date-->
-   <td>今宵月の館にて</td>
-   <td><a href="https://www.youtube.com/watch?v=vhmFj1owmuk" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube" /> Suisei Channel</a></td>
-  </tr>
-  <tr>
-   <td style="text-align:center;">2020-12-25</td> <!--Date-->
-   <td>Holy Angel's Carol</td>
-   <td><a href="https://www.youtube.com/watch?v=vhmFj1owmuk" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube" /> 戌亥とこ</a></td>
-  </tr>
-  <tr>
-   <td style="text-align:center;">2021-02-14</td> <!--Date-->
-   <td>メルティ♡キッチン</td>
-   <td><a href="https://www.youtube.com/watch?v=KiUvL-rp1zg" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube" /> Suisei Channel</a></td>
-  </tr>
-  <tr>
-   <td style="text-align:center;">2020-12-25</td> <!--Date-->
-   <td>イースター・カーニバル</td>
-   <td><a href="https://www.youtube.com/watch?v=edp420amW1s" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube" /> 戌亥とこ</a></td>
-  </tr>
-  <tr>
-   <td style="text-align:center;">2021-02-14</td> <!--Date-->
-   <td>Honeycomb Summer</td>
-   <td><a href="https://www.youtube.com/watch?v=aWv2KjaFqBA" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube" /> Suisei Channel</a></td>
-  </tr>
- </tbody>
-</table>
+|Date|Title|Link|
+|:--:|-----|----|
+|2020-03-15|砂上ノ楼閣|[<i class="fab fa-twitter" /> @suisei_hosimati](https://twitter.com/suisei_hosimati/status/1239146084712083456)|
+|2020-10-31|今宵月の館にて|[<i class="fab fa-youtube" /> Suisei Channel](https://www.youtube.com/watch?v=vhmFj1owmuk)|
+|2020-12-25|Holy Angel's Carol|[<i class="fab fa-youtube" /> 戌亥とこ](https://www.youtube.com/watch?v=vhmFj1owmu)|
+|2021-02-14|メルティ♡キッチン|[<i class="fab fa-youtube" /> Suisei Channel](https://www.youtube.com/watch?v=KiUvL-rp1zg)|
+|2021-12-25|イースター・カーニバル|[<i class="fab fa-youtube" /> 戌亥とこ](https://www.youtube.com/watch?v=edp420amW1s)|
+|2021-02-14|Honeycomb Summer|[<i class="fab fa-youtube" /> Suisei Channel](https://www.youtube.com/watch?v=aWv2KjaFqBA)|
 
 ### Original Song
 
-<table style="width:100%; height:100%; table-layout:fixed">
- <thead>
-  <tr>
-   <th>Date</th>
-   <th>Title</th>
-   <th>Link</th>
-  </tr>
- </thead>
- <tbody>
-    <tr>
-      <td style="text-align:center;">2021-10-21</td> <!--Date-->
-      <td>OUT OF FRAME</td>
-      <td><a href="https://cover.lnk.to/oof" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-link" /> Streaming</a></td>
-    </tr>
-  </tbody>
-</table>
+|Date|Title|Link|
+|:--:|-----|----|
+|2021-10-21|OUT OF FRAME|[<i class="fa-solid fa-link" /> Streaming](https://cover.lnk.to/oof)|
 
 ## Live
 

@@ -84,4 +84,4 @@ Toko also talked about Suisei
 
 ・ [<i class="fa-solid fa-calendar-days" /> _Timeline: Tokomachi in 2020_](/timeline/2020/#inui-toko-1st-solo-live-who-i-am) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
 
-・ [<i class="fa-solid fa-microphone-lines" /> _Topics: Tokomachi Music_](/topics/music/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
+・ [<i class="fa-solid fa-microphone-lines" /> _Topics: Tokomachi Music_](/topics/music/list/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
