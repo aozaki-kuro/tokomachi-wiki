@@ -11,6 +11,8 @@ next:
 
 # Tokomachi in 2020
 
+![top](./top_02.jpg)
+
 ## Night Fishing
 
 ### 2020-01-27
@@ -121,17 +123,17 @@ Suisei promoted for her radio program tomorrow since Toko would be the guest.
 
 ::: details The conversation and reactions
 
-☄ : _Here I come!_ (started to _fish_ Toko with her fishing rod)
+:comet: : Here I come! (started to _fish_ Toko with her fishing rod)
 
-☄ : _Everybody, please listen to my radio program!_
+:comet: : Everybody, please listen to my radio program!
 
-🍹 : _Well, she is that kind of idol who won't forgot to promote for her own program even when she's on her vacation._
+:tropical_drink: : Well, she is that kind of idol who won't forgot to promote for her own program even when she's on her vacation.
 
-🍹 : _Are you having a good time Hoshimachi?_
+:tropical_drink: : Are you having a good time Hoshimachi?
 
-☄ (Still trying to fish Toko happily)
+(Suisei Still trying to fish Toko happily)
 
-🍹 : _Alright, it seems like she's having a good time_
+:tropical_drink: : Alright, it seems like she's having a good time
 
 :::
 
@@ -149,15 +151,15 @@ They mentioned the place they want to go together was _Tokyo Disney Land_, and w
 
 (Talking about wearing the Mickey Mouse ears)
 
-☄ : _So there would be two kinds of ears... what would happen to your dog-like ears..._
+:comet: : So there would be two kinds of ears... what would happen to your dog-like ears...
 
-🍹 : _Not dog. Cerberus._
+:tropicaldrink: : Not dog. **Cerberus**.
 
-☄ : _Well then what should we call the ear of Cerberus (nani mimi)?_
+:comet: : Well then what should we call the ear of Cerberus (nani mimi)?
 
-🍹 : _Cerberus ears (keru mimi)._
+:tropicaldrink: : Cerberus ears (keru mimi).
 
-☄ : _First time hearing (hatsu mimi)!_
+:comet: : First time hearing (hatsu mimi)!
 
 Note:
 
@@ -296,11 +298,11 @@ There they also mentioned that they want to sing together more, not only just si
 
 Toko asked Suisei to introduced herself and
 
-☄ : _Hello everyone I'm Hoshimachi Suisei from Nijisanji!_
+:comet: : Hello everyone I'm Hoshimachi Suisei from Nijisanji!
 
-🍹 : _Eh don't start a political problem because of me..._
+:tropical_drink: : Eh don't start a political problem because of me...
 
-☄ : _It's idol VTuber Hoshimachi Suisei of Hololive here!_
+:comet: : It's idol VTuber Hoshimachi Suisei of Hololive here!
 
 And their swapping of greetings or identities became pretty common in their future collab / activities.
 
@@ -308,85 +310,85 @@ And their swapping of greetings or identities became pretty common in their futu
 
 ::: details How old is Toko?
 
-☄ : _Happy birthday Toko-chan! What's your age by the way?_
+:comet: : Happy birthday Toko-chan! What's your age by the way?
 
-🍹 : _I can't remember, so please judge me by my appearance._
+:tropical_drink: : I can't remember, so please judge me by my appearance.
 
-☄ : _So what's your age judging from your appearance?_
+:comet: : So what's your age judging from your appearance?
 
-🍹 : _Two years old ~_
+:tropical_drink: : Two years old ~
 
-☄ : _That's not even possible, if you are 2 years old you should be a little child!_
+:comet: : That's not even possible, if you are 2 years old you should be a little child!
 
 :::
 
 ::: details Duo live concert
 
-🍹 : _So where should we hold our duo live concert?_
+:tropical_drink: : So where should we hold our duo live concert?
 
-☄ : _What about... Toyosu PIT?_
+:comet: : What about... Toyosu PIT?
 
-🍹 : _Ahhhhh that's also my dream live stage!_
+:tropical_drink: : Ahhhhh that's also my dream live stage!
 
-☄ : _...and it's where the dreams of EnSta started!_
+:comet: : ...and it's where the dreams of EnSta started!
 
-☄ : _It wasn't even enough to just sing 4 songs on air, I would like to call for at least 10 songs!_
+:comet: : It wasn't even enough to just sing 4 songs on air, I would like to call for at least 10 songs!
 
-🍹 : _Yes only us singing!_
+:tropical_drink: : Yes only us singing!
 
 :::
 
 ::: details How long has it been since we met?
 
-🍹 : _How long has it been since we knew each other?_
+:tropical_drink: : How long has it been since we knew each other?
 
-☄ : _Eh... I think it's been more than year?_
+:comet: : Eh... I think it's been more than year?
 
-🍹 : _It has been a pretty long time._
+:tropical_drink: : It has been a pretty long time.
 
-🍹 : _I never imagined that we would be so close back then._
+:tropical_drink: : I never imagined that we would be so close back then.
 
-☄ : _Hey but I did!!_
+:comet: : Hey but I did!!
 
 :::
 
 ::: details Cover song when?
 
-☄ : _So when should we start on making a cover song and MV?_
+:comet: : So when should we start on making a cover song and MV?
 
-🍹 : _Right here, right now!_
+:tropical_drink: : Right here, right now!
 
-☄ : _Okay! let's post it tomorrow!_
+:comet: : Okay! let's post it tomorrow!
 
-🍹 : _Time to work through the night..._
+:tropical_drink: : Time to work through the night...
 
-🍹 : _Guess we have to figure it out all by ourselves or we would be late!_
+:tropical_drink: : Guess we have to figure it out all by ourselves or we would be late!
 
 :::
 
 ::: details She never fails me
 
-🍹 : _What's your recommended content?_
+:tropical_drink: : What's your recommended content?
 
-☄ : _Can I... say the title?_
+:comet: : Can I... say the title?
 
-🍹 : _Sure go ahead._
+:tropical_drink: : Sure go ahead.
 
-☄ : **Ensemble Stars !!** (without hesitation)
+:comet: : **Ensemble Stars !!** (without hesitation)
 
-🍹 : _She never fails me._
+:tropical_drink: : She never fails me.
 
 :::
 
 ::: details Karaoke when?
 
-🍹 : _I really want to achieve more with you... and of course play along with you more._
+:tropical_drink: : I really want to achieve more with you... and of course play along with you more.
 
-🍹 : _I want to go to Karaoke!_
+:tropical_drink: : I want to go to Karaoke!
 
-☄ : _Then let's meet at the station tomorrow._
+:comet: : Then let's meet at the station tomorrow.
 
-🍹 : _Alright let's meet tomorrow!_
+:tropical_drink: : Alright let's meet tomorrow!
 
 :::
 
@@ -503,17 +505,17 @@ They partially swapped their greetings.
 
 ::: details Toko's greetings
 
-🍹 : _It's your shooting star..._
+:tropical_drink: : It's your shooting star...
 
-☄ : _What?_
+:comet: : What?
 
-🍹 : _Your Cerberus in the rough..._
+:tropical_drink: : Your Cerberus in the rough...
 
-☄ : _What??_
+:comet: : What??
 
-🍹 : _Inui Toko from Nijisanji!_
+:tropical_drink: : Inui Toko from Nijisanji!
 
-☄ : LOOOOOOL
+:comet: : LOOOOOOL
 
 :::
 
@@ -547,19 +549,19 @@ They swapped their greeting _again_ at the start.
 
 ::: details Greetings ( 02:00 - )
 
-☄ : _Welcome! It's your official mighty mighty Idol from Hololive, Hoshimachi Suisei._
+:comet: : Welcome! It's your official mighty mighty Idol from Hololive, Hoshimachi Suisei.
 
-🍹 : _Eh, uh? Emmmmm..._
+:tropical_drink: : Eh, uh? Emmmmm...
 
-☄ : _What's wrong?_
+:comet: : What's wrong?
 
-🍹 : _Welcome! Eh? It's your shooting star Cerberus... Inui Toko._
+:tropical_drink: : Welcome! Eh? It's your shooting star Cerberus... Inui Toko.
 
-🍹 : _We are?_
+:tropical_drink: : We are?
 
-☄ & 🍹 : _To, Tokomachi desu!_
+:comet: & :tropical_drink: : To, Tokomachi desu!
 
-🍹 : _Well go to sleep._ (In Minecraft)
+:tropical_drink: : Well go to sleep. (In Minecraft)
 
 :::
 

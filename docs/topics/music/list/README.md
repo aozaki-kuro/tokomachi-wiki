@@ -6,6 +6,8 @@ editLink: false
 
 ## Songs
 
+![main](https://img.suisei.cc/cover_mv.jpg)
+
 ### Cover MV
 
 <table>
@@ -70,6 +72,8 @@ editLink: false
 </table>
 
 ## Live
+
+![live](https://img.suisei.cc/live.jpg)
 
 ### Inui Toko 1st Solo Live "who i am"
 

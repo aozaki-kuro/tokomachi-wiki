@@ -16,9 +16,25 @@ Date: `2020-10-28`
 
 ## Episode 04
 
-## Episode 05
+> [<i class="fa-brands fa-youtube" /> Original YouTube Stream](https://youtu.be/Kr1jxq0ms00)
 
-## Episode 06
+Date: `2021-01-27`
+
+> [<i class="fa-brands fa-youtube" /> Timestamp: Confirmation](https://youtu.be/VH0XOn6ceSA?t=282)
+
+Toko and Suisei got a special way to confirm that each other is awake before going out to play together.
+
+::: details Confirmation
+
+:tropical_drink: : RISKY VENUS!
+
+:comet: : HEY!
+
+:::
+
+## Episode 05: with Houshou Marine
+
+## Episode 06: with Ange Katerina
 
 ## Episode 07
 
@@ -32,7 +48,7 @@ Date: `2020-10-28`
 
 ## Episode 12
 
-## Episode 13 1st Year Anniversary
+## Episode 13: 1st Anniversary
 
 Date: `2021-10-31`
 

@@ -7,6 +7,8 @@ next:
 
 # Tokomachi in 2019
 
+![top](./top_01.jpg)
+
 ## First Tweet Contact
 
 ### 2019-05-19
@@ -201,15 +203,15 @@ Suisei appeared in the stream chat later when Toko was talking about Ensemble St
 
 ::: details Talks
 
-☄ : _You praised my performance? I will check the archive later!_
+:comet: : You praised my performance? I will check the archive later!
 
-🍹 : _OK I will cut that part._
+:tropical_drink: : OK I will cut that part.
 
-🍹 : _Oh wait don't go, I still got something about EnSta to tell you!_
+:tropical_drink: : Oh wait don't go, I still got something about EnSta to tell you!
 
 (Talking about EnSta)
 
-☄ : _Tell me more on LINE!_
+:comet: : Tell me more on LINE!
 :::
 
 Really close friends right?
