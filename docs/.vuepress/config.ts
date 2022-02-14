@@ -222,8 +222,8 @@ export default defineUserConfig<DefaultThemeOptions>({
                 children: [
                   '/topics/music/list/',
                   '/topics/music/toko_whoiam/',
-                  '/topics/music/suisei_ghost',
-                  '/topics/music/suisei_galaxy',
+                  '/topics/music/suisei_ghost/',
+                  '/topics/music/suisei_galaxy/',
                 ],
               },
               {
