@@ -6,7 +6,7 @@ prev:
 
 next:
   text: 'Next: "Space for Virtual GHOST"'
-  link: /timeline/2021/
+  link: /topics/music/suisei_ghost/
 ---
 
 # "who i am"

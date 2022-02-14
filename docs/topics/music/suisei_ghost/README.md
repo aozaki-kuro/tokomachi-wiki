@@ -6,7 +6,7 @@ prev:
 
 next:
   text: 'Next: "Stellar into the GALAXY"'
-  link: /timeline/2021/
+  link: /topics/music/suisei_galaxy/
 ---
 
 # "Space for Virtual GHOST"
