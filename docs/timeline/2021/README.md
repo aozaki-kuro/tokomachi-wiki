@@ -1,3 +1,14 @@
+---
+# NavLink
+prev:
+  text: 'Previous: Tokomachi in 2020'
+  link: /timeline/2020/
+
+next:
+  text: 'Next: Tokomachi in 2022'
+  link: /timeline/2022/
+---
+
 # Tokomachi in 2021 (WIP)
 
 ![top](./top_03.jpg)

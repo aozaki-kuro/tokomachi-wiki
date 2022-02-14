@@ -1,3 +1,9 @@
+---
+next:
+  text: 'Next: Tokomachi Radio Season 02'
+  link: /topic/tokomachi_radio_s02/
+---
+
 # Tokomachi Radio Season 01 (WIP)
 
 ![top](./top_s1.jpg)

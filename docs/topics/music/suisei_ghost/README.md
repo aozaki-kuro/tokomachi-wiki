@@ -1,3 +1,14 @@
+---
+# NavLink
+prev:
+  text: 'Previous: Tokomachi in 2021'
+  link: /timeline/2020/
+
+next:
+  text: 'Next: "Stellar into the GALAXY"'
+  link: /timeline/2021/
+---
+
 # "Space for Virtual GHOST"
 
 > [<i class="fa-brands fa-youtube" /> Timestamp: Toko's part](https://www.youtube.com/watch?v=Ajwv4ANSSg0&t=770s)
