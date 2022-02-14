@@ -1,14 +1,10 @@
----
-next:
-  text: 'Next: Tokomachi Radio Season 02'
-  link: /topic/tokomachi_radio_s02
----
-
 # Tokomachi Radio Season 01 (WIP)
+
+![top](./top_s1.jpg)
 
 ## Episode 01 First Episode
 
-Date: `2020-10-28`
+### 2020-10-28
 
 ## Episode 02
 
@@ -16,9 +12,13 @@ Date: `2020-10-28`
 
 ## Episode 04
 
+### 2021-01-27
+
 > [<i class="fa-brands fa-youtube" /> Original YouTube Stream](https://youtu.be/Kr1jxq0ms00)
 
-Date: `2021-01-27`
+This is the first episode in 2021 so there were a lot of talks about the new year plans.
+
+#### Confirmation
 
 > [<i class="fa-brands fa-youtube" /> Timestamp: Confirmation](https://youtu.be/VH0XOn6ceSA?t=282)
 

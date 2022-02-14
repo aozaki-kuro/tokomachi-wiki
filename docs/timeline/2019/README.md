@@ -1,10 +1,3 @@
----
-# NavLink
-next:
-  text: 'Next: Tokomachi in 2020'
-  link: /timeline/2020
----
-
 # Tokomachi in 2019
 
 ![top](./top_01.jpg)

@@ -148,14 +148,6 @@ export default defineUserConfig<DefaultThemeOptions>({
               },
             },
           },
-          '/zh/': {
-            placeholder: '搜索',
-            translations: {
-              button: {
-                buttonText: '搜索',
-              },
-            },
-          },
         },
       },
     ],
@@ -226,7 +218,7 @@ export default defineUserConfig<DefaultThemeOptions>({
             children: [
               {
                 text: 'Tokomachi Music',
-                /*link:'/topics/music/',*/
+                // link:'/topics/music/',
                 children: [
                   '/topics/music/list/',
                   '/topics/music/toko_whoiam/',

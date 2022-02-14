@@ -1,14 +1,3 @@
----
-# NavLink
-prev:
-  text: 'Previous: Tokomachi in 2020'
-  link: /timeline/2020
-
-next:
-  text: 'Next: "Space for Virtual GHOST"'
-  link: /timeline/2021
----
-
 # "who i am"
 
 ::: warning Paid Event
