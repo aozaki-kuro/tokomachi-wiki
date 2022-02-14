@@ -1,4 +1,8 @@
-module.exports = {
+import { defineUserConfig } from 'vuepress'
+import type { DefaultThemeOptions } from 'vuepress'
+
+export default defineUserConfig<DefaultThemeOptions>({
+  // Site Meta Info
   head: [
     [
       'link',
@@ -93,9 +97,8 @@ module.exports = {
       },
     ],
   ],
-  markdown: {
-    lineNumbers: false, // 代码块显示行号
-  },
+
+  // Plugin Settings
   plugins: [
     [
       '@vuepress/pwa',
@@ -131,25 +134,28 @@ module.exports = {
       },
     ],
     [
-      '@vuepress/plugin-search',
+      '@vuepress/docsearch',
       {
+        apiKey: '5f99591946e906eb23522719122e3882',
+        appId: 'MWDE3H8IGO',
+        indexName: 'main',
         locales: {
           '/': {
             placeholder: 'Search',
+            translations: {
+              button: {
+                buttonText: 'Search',
+              },
+            },
           },
-          /***
-           * i18n
-           * 
           '/zh/': {
             placeholder: '搜索',
+            translations: {
+              button: {
+                buttonText: '搜索',
+              },
+            },
           },
-          '/zh-TW/': {
-            placeholder: '檢索',
-          },
-          '/ja/': {
-            placeholder: '検索',
-          }, 
-          ***/
         },
       },
     ],
@@ -165,6 +171,8 @@ module.exports = {
       },
     ], */
   ],
+
+  // Language i18n
   locales: {
     '/': {
       lang: 'en-US',
@@ -189,18 +197,23 @@ module.exports = {
       title: "星床 Wiki",
       description: "關於星街彗星的音樂榜單以及演唱會紀錄",
     },
-    ***/
+    */
   },
+
+  // Theme Configuration
   themeConfig: {
     logo: '/android-chrome-192x192.png',
-    /** Repo and Dev branch */
+
+    // Repo and Dev branch
     repo: 'aozaki-kuro/suisei-toko-history',
     docsDir: 'docs',
     docsBranch: 'dev',
-    /** Meta info */
+
+    // Meta info
     contributors: true,
     lastUpdated: true,
-    /** i18n */
+
+    // Navbar
     locales: {
       '/': {
         navbar: [
@@ -233,9 +246,7 @@ module.exports = {
         selectLanguageAriaLabel: 'Languages',
       },
 
-      /***
-       * i18n
-       * 
+      /*** 
       '/zh/': {
         lang: 'zh-CN',
         navbar: [
@@ -290,7 +301,7 @@ module.exports = {
         selectLanguageName: '日本語',
         selectLanguageAriaLabel: '言語切替',
       },
-      i18n ***/
+      */
     },
   },
-}
+})
