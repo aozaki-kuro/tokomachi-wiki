@@ -62,7 +62,7 @@ On the other hand, their 3D models both appeared on the agencies' major fes firs
 
 Unfortunately the release of _Ensemble Stars !!_ was delayed because of various problems and difficulties. Both Suisei and Toko felt pretty down because of this. So they decided to solve it in singers' way - they cancelled their stream and went to Karaoke together, singing only songs of _Ensemble Stars !_
 
-According to Suisei's interview on [<i class="fa-solid fa-book"></i> _Hikari TV Guide (Page 49, Vol. 163, October 2020)_](https://www.hikaritv.net/guide/pdf/202110.pdf), the Karaoke tour lasted for _8 hours_.
+According to Suisei's interview on [<i class="fa-solid fa-book" /> _Hikari TV Guide (Page 49, Vol. 163, October 2020)_](https://www.hikaritv.net/guide/pdf/202110.pdf), the Karaoke tour lasted for _8 hours_.
 
 ::: details Twitter Conversation
 

@@ -4,7 +4,7 @@ specifiers:
   '@vuepress/plugin-docsearch': ^2.0.0-beta.35
   '@vuepress/plugin-pwa': ^2.0.0-beta.35
   '@vuepress/plugin-pwa-popup': ^2.0.0-beta.35
-  '@vuepress/plugin-search': ^2.0.0-beta.35
+  '@vuepress/plugin-register-components': ^2.0.0-beta.35
   prettier: ^2.5.1
   vuepress: ^2.0.0-beta.35
 
@@ -12,7 +12,7 @@ devDependencies:
   '@vuepress/plugin-docsearch': 2.0.0-beta.35
   '@vuepress/plugin-pwa': 2.0.0-beta.35
   '@vuepress/plugin-pwa-popup': 2.0.0-beta.35
-  '@vuepress/plugin-search': 2.0.0-beta.35
+  '@vuepress/plugin-register-components': 2.0.0-beta.35
   prettier: 2.5.1
   vuepress: 2.0.0-beta.35
 
@@ -1801,16 +1801,12 @@ packages:
       - supports-color
     dev: true
 
-  /@vuepress/plugin-search/2.0.0-beta.35:
-    resolution: {integrity: sha512-Z2c26zaRDfoRcJiHbmOLeReqKTLUQufmCwol7pvRMGzDUi2bJ8/+6tDNRs62Cuavpao7mnqIW2kPuzIaLP2S7g==}
+  /@vuepress/plugin-register-components/2.0.0-beta.35:
+    resolution: {integrity: sha512-pPrs19BLNwbG3NoV7oJzWVi4GGFB1buLm0v+nwM+CQI3nl4/tXerz6g0xEZ0IJCWUhM+xr8/IUDCwqa3blm4Sg==}
     dependencies:
-      '@vuepress/client': 2.0.0-beta.35
       '@vuepress/core': 2.0.0-beta.35
-      '@vuepress/shared': 2.0.0-beta.35
       '@vuepress/utils': 2.0.0-beta.35
       chokidar: 3.5.3
-      vue: 3.2.31
-      vue-router: 4.0.12_vue@3.2.31
     transitivePeerDependencies:
       - supports-color
     dev: true

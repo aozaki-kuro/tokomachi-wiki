@@ -1,6 +1,8 @@
 import { defineUserConfig } from 'vuepress'
 import type { DefaultThemeOptions } from 'vuepress'
 
+const { path } = require('@vuepress/utils')
+
 export default defineUserConfig<DefaultThemeOptions>({
   // Site Meta Info
   head: [
@@ -151,17 +153,12 @@ export default defineUserConfig<DefaultThemeOptions>({
         },
       },
     ],
-    /***
     [
-      '@vuepress/plugin-shiki',
+      '@vuepress/register-components',
       {
-        Lang: [
-          "bash",
-          "powershell",
-        ],
-        theme: "material-default",
+        componentsDir: path.resolve(__dirname, './components'),
       },
-    ], */
+    ],
   ],
 
   // Language i18n
@@ -202,7 +199,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     docsBranch: 'dev',
 
     // Meta info
-    contributors: true,
+    contributors: false,
     lastUpdated: true,
 
     // Navbar
@@ -256,42 +253,6 @@ export default defineUserConfig<DefaultThemeOptions>({
         selectLanguageText: '选择语言',
         selectLanguageName: '简体中文',
         selectLanguageAriaLabel: '选择语言',
-      },
-      '/zh-tw/': {
-        lang: 'zh-TW',
-        navbar: [
-          {
-            text: "Timeline",
-            link: "/zh-tw/timeline/",
-            children: [
-              "/zh-tw/timeline/2019/",
-              "/zh-tw/timeline/2020/",
-              "/zh-tw/timeline/2021/",
-              "/zh-tw/timeline/2022/",
-            ],
-          },
-        ],
-        selectLanguageText: '選擇語言',
-        selectLanguageName: '繁體中文',
-        selectLanguageAriaLabel: '選擇語言',
-      },
-      '/ja/': {
-        lang: 'ja-JP',
-        navbar: [
-          {
-            text: "Timeline",
-            link: "/ja/timeline/",
-            children: [
-              "/ja/timeline/2019/",
-              "/ja/timeline/2020/",
-              "/ja/timeline/2021/",
-              "/ja/timeline/2022/",
-            ],
-          },
-        ],
-        selectLanguageText: '言語切替',
-        selectLanguageName: '日本語',
-        selectLanguageAriaLabel: '言語切替',
       },
       */
     },

@@ -5,7 +5,7 @@ prev:
   link: /timeline/2020/
 
 next:
-  text: 'Next: "Space for Virtual GHOST"'
+  text: 'Next: "SPACE for Virtual GHOST"'
   link: /topics/music/suisei_ghost/
 ---
 

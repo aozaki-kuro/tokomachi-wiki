@@ -30,6 +30,11 @@ If there's anything missing or improperly translated, you can
 
 ::: details Changelog
 
+2022-02-14
+
+- Search system switched to Algolia
+- Fixed several routings
+
 2022-02-12
 
 - Timeline: 2019 and 2020 completed
@@ -42,6 +47,10 @@ If there's anything missing or improperly translated, you can
 - i18n, `zh`, `zh-TW` and `ja` would be added later on
 
 :::
+
+## Credit
+
+_For more information, please read [<i class="fa-solid fa-feather-pointed" /> Special: Credit](/credit/)._
 
 ## Support
 

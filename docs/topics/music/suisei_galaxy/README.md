@@ -5,4 +5,4 @@ prev:
   link: /timeline/2021/
 ---
 
-# "Stellar into the GALAXY"
+# "STELLAR into the GALAXY"

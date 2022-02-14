@@ -10,12 +10,12 @@ editLink: false
 
 ### Cover MV
 
-<table>
+<table style="width:100%; height:100%; table-layout:fixed">
  <thead>
   <tr>
-   <th style="width:20%">Date</th>
-   <th style="width:600rem">Title</th>
-   <th style="width:25%">Link</th>
+   <th>Date</th>
+   <th>Title</th>
+   <th>Link</th>
   </tr>
  </thead>
  <tbody>
@@ -54,19 +54,19 @@ editLink: false
 
 ### Original Song
 
-<table>
+<table style="width:100%; height:100%; table-layout:fixed">
  <thead>
   <tr>
-   <th style="width:20%">Date</th>
-   <th style="width:600rem">Title</th>
-   <th style="width:25%">Link</th>
+   <th>Date</th>
+   <th>Title</th>
+   <th>Link</th>
   </tr>
  </thead>
  <tbody>
     <tr>
       <td style="text-align:center;">2021-10-21</td> <!--Date-->
       <td>OUT OF FRAME</td>
-      <td><a href="https://cover.lnk.to/oof" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-link"></i> Streaming</a></td>
+      <td><a href="https://cover.lnk.to/oof" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-link" /> Streaming</a></td>
     </tr>
   </tbody>
 </table>
@@ -79,20 +79,20 @@ editLink: false
 
 ・ [<i class="fa-solid fa-microphone-lines" /> _Topics: "who i am"_](/topics/music/toko_whoiam/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
 
-・ [<i class="fa-solid fa-music"></i> Nijisanji Official Event Page](https://event.nijisanji.app/inui_whoiam/)
+・ [<i class="fa-solid fa-music" /> Nijisanji Official Event Page](https://event.nijisanji.app/inui_whoiam/)
 
-・ [<i class="fa-solid fa-compact-disc"></i> Nijisanji Store: Blu-ray Disc](https://shop.nijisanji.jp/s/niji/item/detail/NJSJ-026)
+・ [<i class="fa-solid fa-compact-disc" /> Nijisanji Store: Blu-ray Disc](https://shop.nijisanji.jp/s/niji/item/detail/NJSJ-026)
 
-### Space for Virtual GHOST
+### SPACE for Virtual GHOST
 
 ・ Hoshimachi Suisei's 3rd Anniversary Live.
 
-・ [<i class="fa-solid fa-microphone-lines" /> _Topics: "Space for Virtual GHOST"_](/topics/music/suisei_ghost/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
+・ [<i class="fa-solid fa-microphone-lines" /> _Topics: "SPACE for Virtual GHOST"_](/topics/music/suisei_ghost/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
 
-### Stellar into the GALAXY
+### STELLAR into the GALAXY
 
 ・ Hoshimachi Suisei's 1st Solo Live, supported by Bushiroad.
 
-・ [<i class="fa-solid fa-microphone-lines" /> _Topics: "Stellar into the GALAXY"_](/topics/music/suisei_galaxy/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
+・ [<i class="fa-solid fa-microphone-lines" /> _Topics: "STELLAR into the GALAXY"_](/topics/music/suisei_galaxy/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
 
-・ [<i class="fa-solid fa-music"></i> Hololive Official Event Page](https://stellarintothegalaxy.hololive.tv/)
+・ [<i class="fa-solid fa-music" /> Hololive Official Event Page](https://stellarintothegalaxy.hololive.tv/)
