@@ -2,8 +2,7 @@ import { defineUserConfig } from 'vuepress'
 import type { DefaultThemeOptions } from 'vuepress'
 
 export default defineUserConfig<DefaultThemeOptions>({
-
-  // Site Meta Info 
+  // Site Meta Info
   head: [
     [
       'link',
@@ -99,7 +98,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     ],
   ],
 
-  // Plugin Settings 
+  // Plugin Settings
   plugins: [
     [
       '@vuepress/pwa',
@@ -135,25 +134,28 @@ export default defineUserConfig<DefaultThemeOptions>({
       },
     ],
     [
-      '@vuepress/plugin-search',
+      '@vuepress/docsearch',
       {
+        apiKey: '5f99591946e906eb23522719122e3882',
+        appId: 'MWDE3H8IGO',
+        indexName: 'main',
         locales: {
           '/': {
             placeholder: 'Search',
+            translations: {
+              button: {
+                buttonText: 'Search',
+              },
+            },
           },
-          /***
-           * i18n
-           * 
           '/zh/': {
             placeholder: '搜索',
+            translations: {
+              button: {
+                buttonText: '搜索',
+              },
+            },
           },
-          '/zh-TW/': {
-            placeholder: '檢索',
-          },
-          '/ja/': {
-            placeholder: '検索',
-          }, 
-          ***/
         },
       },
     ],
@@ -170,7 +172,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     ], */
   ],
 
-  // Language i18n 
+  // Language i18n
   locales: {
     '/': {
       lang: 'en-US',
@@ -195,7 +197,7 @@ export default defineUserConfig<DefaultThemeOptions>({
       title: "星床 Wiki",
       description: "關於星街彗星的音樂榜單以及演唱會紀錄",
     },
-    ***/
+    */
   },
 
   // Theme Configuration
