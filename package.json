@@ -10,6 +10,7 @@
     "format": "prettier '*.js' '*.json' '*.md' 'docs/.vuepress/config.ts' 'docs/**/*.md' --write"
   },
   "devDependencies": {
+    "@vuepress/bundler-webpack": "^2.0.0-beta.35",
     "@vuepress/plugin-docsearch": "^2.0.0-beta.35",
     "@vuepress/plugin-pwa": "^2.0.0-beta.35",
     "@vuepress/plugin-pwa-popup": "^2.0.0-beta.35",

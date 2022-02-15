@@ -1,9 +1,11 @@
 import { defineUserConfig } from 'vuepress'
 import type { DefaultThemeOptions } from 'vuepress'
+import type { WebpackBundlerOptions } from '@vuepress/bundler-webpack'
 
 const { path } = require('@vuepress/utils')
 
-export default defineUserConfig<DefaultThemeOptions>({
+export default defineUserConfig<DefaultThemeOptions, WebpackBundlerOptions>({
+  bundler: '@vuepress/bundler-webpack',
   // Site Meta Info
   head: [
     [
