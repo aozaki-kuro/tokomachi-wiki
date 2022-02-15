@@ -44,7 +44,7 @@ Thank you guys!
 
 ### Arts
 
-Timeline top art by Laxy [ [<i class="fa-brands fa-twitter" /> Twitter](https://twitter.com/laxyiii)] [ [<i class="fa-solid fa-palette"></i> Pixiv](https://www.pixiv.net/users/11373368)]
+Timeline top art by Laxy [ [<i class="fa-brands fa-twitter" /> Twitter](https://twitter.com/laxyiii)]
 
 Icon art by Kuroi Kitsune [ [<i class="fa-brands fa-twitter" /> Twitter](https://twitter.com/SensaiWorks)]
 

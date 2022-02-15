@@ -8,6 +8,20 @@ next:
 
 ![top](./top_s1.jpg)
 
+Full title **Tokomachi Radio (Temp)**.
+
+The radio program was started by 2 girls chasing their dreams. 
+
+::: tip Notice
+
+The translation follows the English introduction page.
+
+Ref: [<i class="fa-solid fa-play" /> _hololive official website: OUT OF FRAME_](https://hololive.hololivepro.com/en/music/out-of-frame/)
+
+According to Tokomachi themselves, (Temp) is considered to be part of the formal title now.
+
+:::
+
 ## Episode 01 First Episode
 
 ### 2020-10-28
