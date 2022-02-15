@@ -10,6 +10,7 @@ editLink: false
 
 ### Cover MV
 
+<!-- prettier-ignore -->
 |Date|Title|Link|
 |:--:|-----|----|
 |2020-03-15|砂上ノ楼閣|[<i class="fab fa-twitter" /> @suisei_hosimati](https://twitter.com/suisei_hosimati/status/1239146084712083456)|
@@ -21,6 +22,7 @@ editLink: false
 
 ### Original Song
 
+<!-- prettier-ignore -->
 |Date|Title|Link|
 |:--:|-----|----|
 |2021-10-21|OUT OF FRAME|[<i class="fa-solid fa-link" /> Streaming](https://cover.lnk.to/oof)|
