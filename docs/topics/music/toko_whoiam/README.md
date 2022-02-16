@@ -13,11 +13,11 @@ next:
 
 ::: warning Paid Event
 
-This is a paid live, originally streamed on Niconico. If you are interested in their performances, you can purchase _Blu-ray Disc_ from [<i class="fa-solid fa-compact-disc" /> Nijisanji Shop](https://shop.nijisanji.jp/s/niji/item/detail/NJSJ-026).
+This is a paid live, originally streamed on Niconico. If you are interested in their performances, you can purchase _Blu-ray Disc_ from [<i class="fa-solid fa-compact-disc" /> NIJISANJI Shop](https://shop.nijisanji.jp/s/niji/item/detail/NJSJ-026).
 
 :::
 
-![whoiam](./whoiam.jpg)
+![whoiam](./assets/whoiam.jpg)
 
 The live was held on Dec. 10, 2020 in KT Zepp Yokohama.
 
@@ -25,7 +25,7 @@ Suisei and Toko finally fulfilled [their dreams back in 2019](/timeline/2019/#_2
 
 ## Setlist
 
-![whoiam02](./whoiam_02.jpg)
+![whoiam02](./assets/whoiam_02.jpg)
 
 Suisei appeared on stage as the second guest, singed 2 songs with Toko.
 
@@ -38,7 +38,7 @@ Suisei was very excited seeing the live guests since she had been on virtual liv
 
 MC1:
 
-- Suisei is not affiliated to Nijisanji.
+- Suisei is not affiliated to NIJISANJI.
 - They bought the same size of water (different from normal), fried chicken and meat steamed buns without discussion.
 - There might be already soul-level connections between them.
 - They started to exchange their ways of laughing, Toko started to laugh in Suisei did and Suisei did an "Aha↑" before in the street.
@@ -55,11 +55,11 @@ MC2:
 
 ::: warning Paid Event
 
-This was a partially paywalled stream on Nijisanji Niconico Fanclub.
+This was a partially paywalled stream on NIJISANJI Niconico Fanclub.
 
 :::
 
-![whoiam_03](./whoiam_03.jpg)
+![whoiam_03](./assets/whoiam_03.jpg)
 
 Toko talking about Suisei:
 

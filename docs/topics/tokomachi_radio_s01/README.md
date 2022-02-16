@@ -70,7 +70,7 @@ This was a special episode having Toko streaming with Suisei together at Suisei'
 
 The major topic was about Suisei's 3rd Anniversary Live "SPACE for Virtual GHOST".
 
-_For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: SPACE for Virtual GHOST](/topics/music/suisei_ghost/#after-talk)._
+_For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: SPACE for Virtual GHOST](/topics/music/suisei_ghost/#tokomachi-side)._
 
 #### Other Topics
 

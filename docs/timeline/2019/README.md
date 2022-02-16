@@ -13,7 +13,7 @@ next:
 
 ### 2019-05-19
 
-On May 19th, 2019, Hoshimachi Suisei announced that she would graduate from indie and join Hololive's new project "INNK MUSIC".
+On May 19th, 2019, Hoshimachi Suisei announced that she would graduate from indie and join hololive's new project "INNK MUSIC".
 
 The first ever Tweet contact was Toko congratulating Suisei for entering INNK, hoping her songs can reach out to the whole world.
 

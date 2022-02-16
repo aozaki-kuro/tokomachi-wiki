@@ -48,7 +48,7 @@ They were pretty happy about this.
 
 :::
 
-Suisei chose to make her 3D reveal event into a 3D live, which was the first time in Hololive. She also revealed This was also the reason she caught even more attractions from all over the world.
+Suisei chose to make her 3D reveal event into a 3D live, which was the first time in hololive. She also revealed This was also the reason she caught even more attractions from all over the world.
 
 Toko chose to sing Hello for the start and RE:I AM to end the stream.
 
@@ -143,7 +143,7 @@ Suisei promoted for her radio program tomorrow since Toko would be the guest.
 >
 > [<i class="fa-brands fa-youtube" /> MUSIC SPACE #08 (Second half)](https://youtu.be/6NZJpD45MOU)
 
-This was the first time Suisei invited a non-Hololive talent to her radio program.
+This was the first time Suisei invited a non-hololive talent to her radio program.
 
 They mentioned the place they want to go together was _Tokyo Disney Land_, and while they were there, Toko wanted to go to the Gourmet Tour in _Tokyo Disney Land_.
 
@@ -286,7 +286,7 @@ Suisei called in and said _happy birthday_ to Toko, and they also talked about a
 
 When talking about _How Suisei knew Toko_, Suisei said it was her indie days, someone (refers to [<i class="fa-brands fa-youtube" /> Hiro Minamori (graduated)](https://www.youtube.com/channel/UCuGMkxJA_icuiF01u8f3Y2Q)) introduced Toko to Suisei.
 
-Suisei's first impression of Toko was _Huh that traditional Japanese style Nijisanji girl!_
+Suisei's first impression of Toko was _Huh that traditional Japanese style NIJISANJI girl!_
 
 Toko's first impression of Suisei was _Huh, what a vocally talented girl!_
 
@@ -298,11 +298,11 @@ There they also mentioned that they want to sing together more, not only just si
 
 Toko asked Suisei to introduced herself and
 
-:comet: : Hello everyone I'm Hoshimachi Suisei from Nijisanji!
+:comet: : Hello everyone I'm Hoshimachi Suisei from NIJISANJI!
 
 :tropical_drink: : Eh don't start a political problem because of me...
 
-:comet: : It's idol VTuber Hoshimachi Suisei of Hololive here!
+:comet: : It's idol VTuber Hoshimachi Suisei of hololive here!
 
 And their swapping of greetings or identities became pretty common in their future collab / activities.
 
@@ -444,7 +444,7 @@ Her first announcement was _her first original song was on its way_.
 
 The second announcement was _Inui Toko 1st solo live \"who i am\"_ was going to be held on Dec 10th, 2020.
 
-The most astonishing thing was _Hoshimachi Suisei appeared as one of the live guests_. It was the first time a Hololive member appeared on Nijisanji paid event / live concert so that was a big surprise.
+The most astonishing thing was _Hoshimachi Suisei appeared as one of the live guests_. It was the first time a hololive member appeared on NIJISANJI paid event / live concert so that was a big surprise.
 
 According to Toko, all guests (Lize Helesta, Ange Katrina, Higuchi Kaede and **Hoshimachi Suisei**) are extremely important to her and that's why she invited them to her 1st solo live.
 
@@ -513,7 +513,7 @@ They partially swapped their greetings.
 
 :comet: : What??
 
-:tropical_drink: : Inui Toko from Nijisanji!
+:tropical_drink: : Inui Toko from NIJISANJI!
 
 :comet: : LOOOOOOL
 
@@ -549,7 +549,7 @@ They swapped their greeting _again_ at the start.
 
 ::: details Greetings ( 02:00 - )
 
-:comet: : Welcome! It's your official mighty mighty Idol from Hololive, Hoshimachi Suisei.
+:comet: : Welcome! It's your official mighty mighty Idol from hololive, Hoshimachi Suisei.
 
 :tropical_drink: : Eh, uh? Emmmmm...
 

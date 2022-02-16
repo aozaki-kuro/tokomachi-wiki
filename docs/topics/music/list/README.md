@@ -35,9 +35,9 @@ editLink: false
 
 ・ [<i class="fa-solid fa-microphone-lines" /> _Topics: "who i am"_](/topics/music/toko_whoiam/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
 
-・ [<i class="fa-solid fa-music" /> Nijisanji Official Event Page](https://event.nijisanji.app/inui_whoiam/)
+・ [<i class="fa-solid fa-music" /> NIJISANJI Official Event Page](https://event.nijisanji.app/inui_whoiam/)
 
-・ [<i class="fa-solid fa-compact-disc" /> Nijisanji Store: Blu-ray Disc](https://shop.nijisanji.jp/s/niji/item/detail/NJSJ-026)
+・ [<i class="fa-solid fa-compact-disc" /> NIJISANJI Store: Blu-ray Disc](https://shop.nijisanji.jp/s/niji/item/detail/NJSJ-026)
 
 ### SPACE for Virtual GHOST
 
@@ -51,4 +51,4 @@ editLink: false
 
 ・ [<i class="fa-solid fa-microphone-lines" /> _Topics: "STELLAR into the GALAXY"_](/topics/music/suisei_galaxy/) &nbsp; <i class="fa-solid fa-arrow-right-from-bracket" />
 
-・ [<i class="fa-solid fa-music" /> Hololive Official Event Page](https://stellarintothegalaxy.hololive.tv/)
+・ [<i class="fa-solid fa-music" /> hololive Official Event Page](https://stellarintothegalaxy.hololive.tv/)

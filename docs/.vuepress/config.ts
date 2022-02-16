@@ -4,7 +4,6 @@ import type { DefaultThemeOptions } from 'vuepress'
 const { path } = require('@vuepress/utils')
 
 export default defineUserConfig<DefaultThemeOptions>({
-
   // Site Meta Info
   head: [
     [
