@@ -4,6 +4,7 @@ import type { DefaultThemeOptions } from 'vuepress'
 const { path } = require('@vuepress/utils')
 
 export default defineUserConfig<DefaultThemeOptions>({
+
   // Site Meta Info
   head: [
     [
@@ -116,22 +117,6 @@ export default defineUserConfig<DefaultThemeOptions>({
             message: 'New content is available.',
             buttonText: 'Refresh',
           },
-          /***
-           * i18n
-           * 
-          '/zh/': {
-            message: '发现新内容可用',
-            buttonText: '刷新',
-          },
-          '/zh-TW/': {
-            message: '已偵測到新内容',
-            buttonText: '刷新',
-          },
-          '/ja/': {
-            message: '新しいコンテンツが利用可能です',
-            buttonText: 'リロード',
-          },
-          ***/
         },
       },
     ],
@@ -168,25 +153,6 @@ export default defineUserConfig<DefaultThemeOptions>({
       title: 'Tokomachi Wiki',
       description: 'This is a Wikipedia-like site to record Tokomachi activities and details.',
     },
-    /***
-     * i18n
-     * 
-    '/ja/': {
-      lang: 'ja-JP',
-      title: "とこまち Wiki",
-      description: "戌亥とこ × 星街すいせい とこまちの活動記録。",
-    },
-    '/zh/': {
-      lang: 'zh-CN',
-      title: "星床 Wiki",
-      description: "关于星街彗星的音乐排行以及演唱会纪录",
-    },
-    '/zh-tw/': {
-      lang: 'zh-TW',
-      title: "星床 Wiki",
-      description: "關於星街彗星的音樂榜單以及演唱會紀錄",
-    },
-    */
   },
 
   // Theme Configuration
@@ -215,7 +181,6 @@ export default defineUserConfig<DefaultThemeOptions>({
             children: [
               {
                 text: 'Tokomachi Music',
-                // link:'/topics/music/',
                 children: [
                   '/topics/music/list/',
                   '/topics/music/toko_whoiam/',
@@ -234,27 +199,6 @@ export default defineUserConfig<DefaultThemeOptions>({
         selectLanguageName: 'English',
         selectLanguageAriaLabel: 'Languages',
       },
-
-      /*** 
-      '/zh/': {
-        lang: 'zh-CN',
-        navbar: [
-          {
-            text: "Timeline",
-            link: "/zh/timeline/",
-            children: [
-              "/zh/timeline/2019/",
-              "/zh/timeline/2020/",
-              "/zh/timeline/2021/",
-              "/zh/timeline/2022/",
-            ],
-          },
-        ],
-        selectLanguageText: '选择语言',
-        selectLanguageName: '简体中文',
-        selectLanguageAriaLabel: '选择语言',
-      },
-      */
     },
   },
 })

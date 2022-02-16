@@ -13,11 +13,11 @@ editLink: false
 |Date|Title|Link|
 |:--:|-----|----|
 |2020-03-15|砂上ノ楼閣|[<i class="fab fa-twitter" /> @suisei_hosimati](https://twitter.com/suisei_hosimati/status/1239146084712083456)|
-|2020-10-31|今宵月の館にて|[<i class="fab fa-youtube" /> Suisei Channel](https://www.youtube.com/watch?v=vhmFj1owmuk)|
-|2020-12-25|Holy Angel's Carol|[<i class="fab fa-youtube" /> 戌亥とこ](https://www.youtube.com/watch?v=vhmFj1owmu)|
-|2021-02-14|メルティ♡キッチン|[<i class="fab fa-youtube" /> Suisei Channel](https://www.youtube.com/watch?v=KiUvL-rp1zg)|
-|2021-12-25|イースター・カーニバル|[<i class="fab fa-youtube" /> 戌亥とこ](https://www.youtube.com/watch?v=edp420amW1s)|
-|2021-02-14|Honeycomb Summer|[<i class="fab fa-youtube" /> Suisei Channel](https://www.youtube.com/watch?v=aWv2KjaFqBA)|
+|2020-10-31|今宵月の館にて|[<i class="fab fa-youtube" /> Suisei Channel](https://youtu.be/vhmFj1owmuk)|
+|2020-12-25|Holy Angel's Carol|[<i class="fab fa-youtube" /> 戌亥とこ](https://youtu.be/vhmFj1owmu)|
+|2021-02-14|メルティ♡キッチン|[<i class="fab fa-youtube" /> Suisei Channel](https://youtu.be/KiUvL-rp1zg)|
+|2021-12-25|イースター・カーニバル|[<i class="fab fa-youtube" /> 戌亥とこ](https://youtu.be/edp420amW1s)|
+|2021-02-14|Honeycomb Summer|[<i class="fab fa-youtube" /> Suisei Channel](https://youtu.be/aWv2KjaFqBA)|
 
 ### Original Song
 

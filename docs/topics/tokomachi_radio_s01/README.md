@@ -10,7 +10,9 @@ next:
 
 Full title **Tokomachi Radio (Temp)**.
 
-The radio program was started by 2 girls chasing their dreams. 
+The radio program was a variety show started by 2 girls chasing their dreams.
+
+The first step was this radio program.
 
 ::: tip Notice
 
@@ -60,7 +62,7 @@ Toko and Suisei got a special way to confirm that each other is awake before goi
 
 ### 2021-04-30
 
-> [<i class="fa-brands fa-youtube" /> Original YouTube Stream](https://www.youtube.com/watch?v=kR9mSvUyfkY)
+> [<i class="fa-brands fa-youtube" /> Original YouTube Stream](https://youtu.be/kR9mSvUyfkY)
 
 This was a special episode having Toko streaming with Suisei together at Suisei's apartment. Tokomachi both had their Live2D avatar activated.
 
@@ -68,7 +70,7 @@ This was a special episode having Toko streaming with Suisei together at Suisei'
 
 The major topic was about Suisei's 3rd Anniversary Live "SPACE for Virtual GHOST".
 
-_For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: SPACE for Virtual GHOST](/topics/music/suisei_ghost/)._
+_For more information, please read [<i class="fa-solid fa-microphone-lines" /> Topics: SPACE for Virtual GHOST](/topics/music/suisei_ghost/#after-talk)._
 
 #### Other Topics
 
@@ -77,6 +79,10 @@ The best songs for them were _Ensemble Stars_ songs.
 If they are going to have a band, Suisei would be the pianist and Toko would play [<i class="fa-brands fa-wikipedia-w" /> Shakuhachi](https://en.wikipedia.org/wiki/Shakuhachi).
 
 If they can only eat one kind of food for a year, they choose to eat fried chicken or potato chips.
+
+About the childhood dream job. Suisei's was idol singer and Toko's was Cerberus.
+
+They both lie about their jobs to the barbers.
 
 ## Episode 08
 

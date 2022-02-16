@@ -13,7 +13,7 @@ next:
 
 ![suisei_ghost](./suisei_ghost.jpg)
 
-> [<i class="fa-brands fa-youtube" /> Timestamp: Toko's part](https://www.youtube.com/watch?v=Ajwv4ANSSg0&t=770s)
+> [<i class="fa-brands fa-youtube" /> Timestamp: Toko's part](https://youtu.be/Ajwv4ANSSg0&t=770s)
 
 This is Hoshimachi Suisei's 3rd Anniversary YouTube Live.
 
@@ -45,11 +45,11 @@ But still some lead indicated that Toko might already waiting at the backstage.
 - Suisei asked if Toko wants some pizza.
 - Toko followed the members of AIRS (Natsuiro Matsuri, Omaru Polka, Aki Rosenthal, Tokoyami Towa)
 
-Toko once invited Suisei to her live concert (see also: _[<i class="fa-solid fa-microphone-lines" /> Topics: Tokomachi Radio](/topics/tokomachi_radio_s01/)_ ) and according to Suisei, she wanted to invite Toko to her live concert in return and she did.
+Toko once invited Suisei to her live concert (see also: _[<i class="fa-solid fa-microphone-lines" /> Topics: "who i am"](/topics/music/toko_whoiam/)_ ) and according to Suisei, she wanted to invite Toko to her live concert in return and she did.
 
 ## After Talk
 
-> [<i class="fa-brands fa-youtube" /> Tokomachi Radio #7](https://www.youtube.com/watch?v=kR9mSvUyfkY)
+> [<i class="fa-brands fa-youtube" /> Tokomachi Radio #7](https://youtu.be/kR9mSvUyfkY)
 
 ### Choosing the Songs
 
