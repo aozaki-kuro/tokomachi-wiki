@@ -1,25 +1,10 @@
-<div align="center">
-  <br>
-  <img src="/docs/.vuepress/public/cover.png" alt="tokomachi-wiki" width="150rem" height="150rem" />
-  <h3><a href="/">Tokomachi Wiki</a></h3>
-  <p><em>The comet and the Stargazing Cerberus.</em></p>
+# DECREPTED
 
-  <img style="display: inline-block;" src="https://img.shields.io/badge/VuePress-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="VuePress" />
-  <img style="display: inline-block;" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img style="display: inline-block;" src="https://img.suisei.cc/badge/Project_Stargazer.svg" alt="Project Stargazer" />
-</div>
+The project now uses a new framework so it's been moved to https://github.com/aozaki-kuro/tokomachi-wiki-neo
 
 ## What is this?
 
 This is a Wikipedia-like site to record Tokomachi's activities and details.
-
-## Contact
-
-If there's anything missing or improperly translated, you can
-
-- Open an issue on [Github](https://github.com/aozaki-kuro/suisei-toko-history/issues/new)
-- Create a Pull Request on [Github](https://github.com/aozaki-kuro/suisei-toko-history)
-- Or even send an anonymous [Marshmallow](https://marshmallow-qa.com/aozaki__)
 
 ## Support
 
